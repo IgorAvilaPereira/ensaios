@@ -1,5 +1,0 @@
-666;Andreyna;17;3;
-190;Vinicius Beck;19;5;
-888;Igor;31;1;
-999;pagano;53;1;
-222;ana;40;1;
