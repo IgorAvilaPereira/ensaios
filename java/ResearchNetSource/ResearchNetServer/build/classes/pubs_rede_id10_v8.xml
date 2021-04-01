@@ -1,0 +1,4173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>OTERO, Tiago F. ; Borges, Eduardo N. ; VARGAS, A. P. ; Adamatti, Diana</string>
+  </void>
+  <void property="cluster">
+   <int>10651</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10651</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para coleta e análise de dados do segmento naval</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LIBARDONI, M. ; MENDIZABAL, O. M. ; VARGAS, A. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10652</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10652</int>
+  </void>
+  <void property="localPublicado">
+   <string>10ª Mostra de Produção Universitária, 2011, Rio Grande. 10ª Mostra de Produção Universitária -Anais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo de Tecnologias para Dispositivos Móveis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>VARGAS, A. P.; PEREIRA, Igor A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10649</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10649</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma arquitetura para pesquisa por relevância baseada em critérios</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; VARGAS, A. P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10650</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10650</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande - RS. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Rede de pesquisa da FURG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GIL, J. P. S ; MENDIZABAL, O. M. ; VARGAS, A. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10644</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10644</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra da Produção Universitária, 2012, Rio Grande. MPU - Mostra da Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Suporte a Comunicação em Grupo para Dispositivos Móveis Utilizando Wi-F</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; PEREIRA, Igor A. ; VARGAS, A. P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10645</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10645</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Módulo de critérios de relevância para o ARGOsearch</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; Borges, Eduardo N. ; VARGAS, A. P. ; LOPES, G. R. ; LUCCA, G.</string>
+  </void>
+  <void property="cluster">
+   <int>10646</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10646</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Um componente de software para análise de redes de colaboração acadêmica</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; Borges, Eduardo N. ; PEREIRA, Igor A. ; VARGAS, A. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10647</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10647</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Validação do mecanismo de busca ARGOsearch para o sistema de gerenciamento de bibliotecas da FURG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; VARGAS, A. P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10639</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10639</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um sistema para análise de redes de pesquisa baseado na Plataforma Lattes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Borges, Eduardo N. ; VARGAS, A. P. ; PEREIRA, Igor A. ; TOMASINI, C.</string>
+  </void>
+  <void property="cluster">
+   <int>10641</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10641</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXI International Conference of the Chilean Computer Science Society (SCCC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>ARGOsearch: an information retrieval system based on text similarity and extensible relevance criteria</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; Borges, Eduardo N. ; VARGAS, A. P. ; LOPES, G. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10648</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10648</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande - RS. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para visualização e análise de redes de pesquisa</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, Igor A. ; VARGAS, A. P. ; Borges, Eduardo N. ; TOMASINI, C.</string>
+  </void>
+  <void property="cluster">
+   <int>10642</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10642</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Conferência Sul em Modelagem Computacional (MCSUL)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um mecanismo de busca para sistemas de gerenciamento de bibliotecas baseado em critérios de relevância extensíveis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>OTERO, Tiago F. ; VARGAS, A. P. ; FARIAS, Lucas R. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10640</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10640</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para coleta e análise de dados do segmento naval</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>FOGACA, M. ; VARGAS, A. P. ; Meinhardt, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>10643</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10643</int>
+  </void>
+  <void property="localPublicado">
+   <string>Computer on the Beach, 2013, Florianópolis. Computer on the Beach - ANAIS 2013</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Proposta de Ferramenta para o Auxílio no Aprendizado de Memória Cache em Arquitetura de Computadores</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; VARGAS, A. P. ; PEREIRA, Igor A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10637</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10637</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma implementação do algoritmo Naïve Bayes para classificação de texto</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>SALVA, T. ; SILVA, R. S. ; VARGAS, A. P. ; MENDIZABAL, O. M.</string>
+  </void>
+  <void property="cluster">
+   <int>10636</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10636</int>
+  </void>
+  <void property="localPublicado">
+   <string>Computer on the Beach</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>BlueGroups: Middleware para Construção de Aplicações Distribuídas em Dispositivos Móveis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; VARGAS, A. P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10638</int>
+  </void>
+  <void property="id_membro">
+   <int>3</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10638</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Andre Prisco Vargas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma implementação de feedback da relevância utilizando o algoritmo Rocchio</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>Borges, Eduardo N.; de Carvalho, Moisés G. ; Galante, Renata ; GONÇALVES, Marcos André ; Laender, Alberto H.F.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11213</int>
+  </void>
+  <void property="localPublicado">
+   <string>Information Processing &amp; Management</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>An unsupervised heuristic-based approach for bibliographic metadata deduplication</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Scholem, Tyron Wittee Neetzow ; Borges, Eduardo N. ; Marchiori, Maria Ostilia ; Romanowski, Helena Piccoli</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11246</int>
+  </void>
+  <void property="localPublicado">
+   <string>Salão de Iniciação Científica, 2009, Porto Alegre. Anais do XXI Salão de Iniciação Científica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>BorbRS 2: aperfeiçoamento de uma base de dados de borboletas (Lepidoptera: Papilionoidea e Hesperioidea) do Rio Grande do Sul</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Otero, Tiago F. ; Borges, Eduardo N. ; Adamatti, Diana Francisca</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11237</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Mostra de Produção Universitária da FURG, 2010, Rio Grande. Anais da IX MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Identificação de Registros Duplicados nos Cadastros da ONIP</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>da Silva, Rafael S. ; Borges, Eduardo N. ; Krusche, Nisia</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11235</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2010, Rio Grande. Anais do XXIV CRICTE</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Manutenção das Aplicações Web de Acesso e Gerência do Banco de Dados Meteorológicos da FURG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>da Silva, Rafael S. ; Borges, Eduardo N. ; Krusche, Nisia</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11236</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Mostra de Produção Universitária da FURG, 2010, Rio Grande. Anais da IX MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Atualização do Sistema de Gerenciamento do Banco de Dados Meteorológicos da FURG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10650</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11243</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Rede de pesquisa da FURG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, Igor A. ; Borges, Eduardo N. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10649</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11242</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma arquitetura para pesquisa por relevância baseada em critérios</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Borges, Eduardo N.; Becker, Karin ; HEUSER, Carlos A. ; Galante, Renata</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11228</int>
+  </void>
+  <void property="localPublicado">
+   <string>2011 30th International Conference of the Chilean Computer Science Society (SCCC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An Automatic Approach for Duplicate Bibliographic Metadata Identification Using Classification</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Borges, Eduardo N.; Becker, Karin ; HEUSER, Carlos A. ; GALANTE, Renata de Matos</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11229</int>
+  </void>
+  <void property="localPublicado">
+   <string>IADIS International Conference WWW/Internet</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Classification-based Approach for Bibliographic Metadata Deduplication</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LAENDER, Alberto H. F. ; Moro, Mirella M. ; Silva, Altigran S. ; Davis Jr., Clodoveu A. ; GONÇALVES, Marcos André ; Galante, Renata ; Silva, Allan J. C. ; Bigonha, Carolina A. S. ; Dalip, Daniel Hasan ; Barbosa, Eduardo M. ; Borges, Eduardo N. ; Cortez, Eli ; Procópio Jr., Peterson ; de Alencar, Rafael Odon ; Cardoso, Thiago N. C. ; Salles, Thiago</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11227</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXVIII Seminário Integrado de Software e Hardware - SEMISH</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>CiênciaBrasil - The Brazilian Portal of Science and Technology</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GONCALVES, C. R. ; Botelho, Silvia S. da Costa ; CARVALHO, J. T. ; HAX, V. A. ; DUARTE FILHO, Nelson Lopes ; Borges, Eduardo N. ; PENNA, R. ; BEM, R. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11245</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Seminário de Extensão, 2011, Rio Grande. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Programa de Capacitação em TI Voltado para Soluções Aplicadas à Área Naval e Offshore</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Otero, Tiago F. ; FARIAS, Lucas R. ; da Silva, Rafael S. ; Borges, Eduardo N. ; Vargas, André P. ; Adamatti, Diana Francisca</string>
+  </void>
+  <void property="cluster">
+   <int>10651</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11244</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para coleta e análise de dados do segmento naval</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, Igor A. ; TOMASINI, C. ; Borges, Eduardo N. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10647</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11241</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Validação do mecanismo de busca ARGOsearch para o sistema de gerenciamento de bibliotecas da FURG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10639</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11223</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um sistema para análise de redes de pesquisa baseado na Plataforma Lattes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; PEREIRA, Igor A. ; Borges, Eduardo N. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10645</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11238</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Módulo de critérios de relevância para o ARGOsearch</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, Igor A. ; TOMASINI, C. ; Borges, Eduardo N. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10642</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11226</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Conferência Sul em Modelagem Computacional - MCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um mecanismo de busca para sistemas de gerenciamento de bibliotecas baseado em critérios de relevância extensíveis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Borges, Eduardo N.; PEREIRA, Igor A. ; TOMASINI, C. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10641</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11225</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXI International Conference of the Chilean Computer Science Society (SCCC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>ARGOsearch: an information retrieval system based on text similarity and extensible relevance criteria</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; Lucca, G. ; LOPES, G. R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10648</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11240</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para visualização e análise de redes de pesquisa</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Otero, Tiago F. ; FARIAS, Lucas R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10640</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11224</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para coleta e análise de dados do segmento naval</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Lucca, G. ; FARIAS, Lucas R. ; LOPES, G. R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10646</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11239</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Um componente de software para análise de redes de colaboração acadêmica</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>Lucca, G. ; PEREIRA, Igor A. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10637</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11221</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma implementação do algoritmo Naïve Bayes para classificação de texto</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10638</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11222</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma implementação de feedback da relevância utilizando o algoritmo Rocchio</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BRANDAO, A. F. Z. ; LINDENAU, G. ; PINHEIRO, R. F. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11234</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Mostra de Produção Universitária da FURG, 2014, Rio Grande. Anais da XIII MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Análise e integração de dados em dispositivos móveis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>MACIEL, T. V. ; SEUS, V. ; Machado, Karina ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>11219</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11219</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional - MCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Mineração de Dados em Triagem de Risco de Saúde</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>PINHEIRO, R. F. ; LINDENAU, G. ; ZIMMERMANN, A. F. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11218</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um aplicativo para integração de contatos em dispositivos android</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BARBAT, M. M. ; COLETO, J. L. ; GOULART, M. G. ; TEIXEIRA, E. P. ; Machado, Karina ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>11220</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11220</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional - MCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Extração de conhecimento a partir de bancos de dados oceanográficos mistos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>PINHEIRO, R. F. ; MACHADO, R. F. ; NUNES, E. A. ; LINDENAU, G. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11231</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande. Anais da XIV MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Uma interface gráfica de usuário para o aplicativo DeDup</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>LINDENAU, G. ; MACHADO, R. F. ; PINHEIRO, R. F. ; NUNES, E. A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11233</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande. Anais da XIV MPU / FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Agrupamento de registros duplicados no aplicativo DeDup</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, R. F. ; LINDENAU, G. ; PINHEIRO, R. F. ; NUNES, E. A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11232</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande. Anais da XIV MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Identificação de contatos duplicados com o classificador C4.5</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>BARBAT, MAURO MEDEIROS ; COLETO, JULIANO LAUSER ; GOULART, MAURICIO GAYER ; TEIXEIRA, EDUARDO PORTO ; DOS SANTOS, KARINA MACHADO ; BORGES, EDUARDO NUNES</string>
+  </void>
+  <void property="cluster">
+   <int>11212</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11212</int>
+  </void>
+  <void property="localPublicado">
+   <string>Scientia Plena</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Extração de conhecimento a partir de bancos de dados oceanográficos mistos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>MACIEL, T. V. ; SEUS, V. ; Machado, Karina ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>11211</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11211</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Brasileira de Computação Aplicada</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Mineração de dados em triagem de risco de saúde</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, E. A. ; PINHEIRO, R. F. ; MACHADO, R. F. ; LINDENAU, G. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11230</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande. Anais da XIV MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Uma análise de aplicativos para gerência de contatos no sistema Android</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, R. F. ; PINHEIRO, R. F. ; NUNES, E. A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11216</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Identificação de contatos duplicados em dispositivos móveis utilizando similaridade textual</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>PINHEIRO, R. F. ; MACHADO, R. F. ; NUNES, E. A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11215</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>DeDup: um Aplicativo para Deduplicação de Contatos em Dispositivos Android</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; Emmendorfer, Leonardo ; Borges, Eduardo N. ; Machado, Karina</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11214</int>
+  </void>
+  <void property="localPublicado">
+   <string>ACM Symposium on Applied Computing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A methodology for selecting the most suitable cluster validation internal indices</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, R. C. M. ; Borges, Eduardo N. ; Machado, Karina</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11217</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Avaliação de Algoritmos para Mineração de Dados Disponíveis na Web</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>Barros, R. C. ; Winck, A. T. ; MACHADO, K. S. ; Basgalupp, M.P. ; Carvalho, A. C. P. L. F. ; Ruiz, D. D. ; Norberto de Souza, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11504</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Bioinformatics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Automatic design of decision-tree induction algorithms tailored to flexible-receptor docking data</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S.; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11505</int>
+  </void>
+  <void property="localPublicado">
+   <string>Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Mining flexible-receptor molecular docking data</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S.; Schroeder, Evelyn K ; Ruiz, Duncan D ; Cohen, Elisângela ML ; Norberto de Souza, Osmar</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11506</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>FReDoWS: a method to automate molecular docking simulations with explicit receptor flexibility and snapshots selection</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S.; Cohen, Elisangela ML ; Cohen, Marcelo ; Norberto de Souza, Osmar</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11507</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Effect of the explicit flexibility of the InhA enzyme from Mycobacterium tuberculosis in molecular docking simulations</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>SEUS, VINICIUS ROSA ; PERAZZO, GIOVANNI XAVIER ; WINCK, ANA T. ; WERHLI, ADRIANO V. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="cluster">
+   <int>10534</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11502</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of Biomedicine and Biotechnology (Print)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>An Infrastructure to Mine Molecular Descriptors for Ligand Selection on Virtual Screening</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S.; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11508</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Mining flexible-receptor docking experiments to select promising protein receptor snapshots</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S.; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11552</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB Latin America, 2010, Montevideo. International Society for Computational Biology Latin America Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Applying Model Trees on Flexible-Receptor Docking Experiments to select promising protein receptor snapshots</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, A. T. ; MACHADO, K. S. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11510</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adriano C. Machado Pereira; Gisele Lobo Pappa. Marco Winckler; Roberta Lima Gomes.. (Org.). Tópicos em sistemas colaborativos, multimídia, web e banco de dados.. Porto Alegre</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Processo de KDD aplicado à bioinformática</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Winck, A. ; MACHADO, K. S. ; RUIZ, D. D. A. ; STRUBE de LIMA, V. L.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11527</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Twenty Third International Conference on Industrial</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Association Rules to Identify Receptor and Ligands Structures thourgh Named Entities Recognition</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S.; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11528</int>
+  </void>
+  <void property="localPublicado">
+   <string>IADIS International Conference Applied Computing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Comparison of Discretization Methods of Flexible-Receptor Docking Data for Analyses by Decision Trees</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, A. T. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11529</int>
+  </void>
+  <void property="localPublicado">
+   <string>IADIS International Conference Applied Computing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Supporting Intermolecular Interaction Analyses of Flexible-Receptor Docking Simulations</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S.; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11539</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Bioinformatics, 2010, Búzios. LNBI-LNCS. Advances in Bioinformatics and Computational Biology.. Berlin: Springer-Verlag</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Discretization of Flexible-Receptor Docking Data</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, A. T. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11550</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB Latin America 2010, 2010, Montevideo. International Society for Computational Biology Latin America Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Context-Based Preprocessing on Flexible-Receptor Docking Data</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>QUEVEDO, C. V. ; WINCK, A. T. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11551</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB Latin America 2010, 2010, Montevideo. International Society for Computational Biology Latin America Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Study of Molecular Descriptor to Rank Candidate Ligands to Inhibit the InhA Receptor</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COHEN, E. M. L. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11553</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB Latin America, 2010, Montevideo. International Society for Computational Biology Latin America Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>The effect of InhA flexibility in docking simulations with ethionamide and triclosan</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S.; SCHROEDER, E. K. ; RUIZ, D. D. A. ; COHEN, E. M. L. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11554</int>
+  </void>
+  <void property="localPublicado">
+   <string>6th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2010, Ouro Preto, MG. Abstracts Book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>FREDOWS: A METHOD TO AUTOMATE MOLECULAR DOCKING SIMULATIONS WITH EXPLICIT RECEPTOR FLEXIBILITY AND SNAPSHOTS SELECTION</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COHEN, E. M. L. ; MACHADO, K. S. ; COHEN, M. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11555</int>
+  </void>
+  <void property="localPublicado">
+   <string>6th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2010, Ouro Preto. Abstracts Book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>EFFECT OF THE EXPLICIT FLEXIBILITY OF THE INHA ENZYME FROM MYCOBACTERIUM TUBERCULOSIS IN MOLECULAR DOCKING SIMULATIONS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Cornetet, L. R. ; WERHLI, A. V. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11548</int>
+  </void>
+  <void property="localPublicado">
+   <string>Xmeeting, 2011, Florianópolis. 2011 Abstract book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Scientific Workflow for Performing Molecular Dynamics Simulation</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Cornetet, L. R. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11549</int>
+  </void>
+  <void property="localPublicado">
+   <string>10º Mostra da Produção Universitária, 2011, Rio Grande. 10º Mostra da Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Workflow Científico para Dinâmica Molecular</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, A. T. ; QUEVEDO, C. V. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11526</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Bioinformatics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BERNARDI, C. A. C. ; MADALOSSO, O. M. ; CHARAO, A. S. ; WINCK, A. T. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11538</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Simpósio em Sistemas Computacionais (WSCAD-SSC), 2012, Petrópolis, RJ. Anais do XIII Simpósio em Sistemas Computacionais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Análise de Profilers para Programas em Java: Estudo de Caso Aplicado ao Algoritmo M5P do Software Weka</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PERAZZO, G. X. ; WINCK, A. T. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11547</int>
+  </void>
+  <void property="localPublicado">
+   <string>8th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2012, Campinhas-SP. X-Meeting 2012 -</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Application Of Data Mining To Select Promising Compounds Based on Molecular Descriptors</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>PERAZZO, GIOVANNI XAVIER ; WINCK, ANA T. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11537</int>
+  </void>
+  <void property="localPublicado">
+   <string>the 28th Annual ACM Symposium, 2013</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>A data warehouse as an infrastructure to mine molecular descriptors for virtual screening</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, M. M. ; GOULART, M. G. ; GELATTI, G. J. ; MACHADO, KARINA S. ; WERHLI, A. V. ; Mendizabal, O. M.</string>
+  </void>
+  <void property="cluster">
+   <int>11524</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11524</int>
+  </void>
+  <void property="localPublicado">
+   <string>2nd Workshop-School on Theoretical Computer Science</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Parallel Algorithm for the HP Protein Folding Problem</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, ANA T ; MACHADO, KARINA S ; DE SOUZA, OSMAR ; Ruiz, Duncan D</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11503</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Context-based preprocessing of molecular docking data</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>WERLANG, P. ; FAGUNDES, M. Q. ; ADAMATTI, D. F. ; MACHADO, K. S. ; GROLL, A. V. ; SILVA, P. E. A. ; WERHLI, A. V.</string>
+  </void>
+  <void property="cluster">
+   <int>11048</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11523</int>
+  </void>
+  <void property="localPublicado">
+   <string>14th International Workshop on Multi-Agent-Based Simulation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Multi-Agent-Based Simulation of Mycobacterium tuberculosis growth</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>TROINA, S. S. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11525</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>DBModeler: Um sistema web para criação, manutenção e consulta de diagramas de bancos de dados</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>Cornetet, L. R. ; SPERB, F. ; MATTE, U. ; WERHLI, ADRIANO V. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11546</int>
+  </void>
+  <void property="localPublicado">
+   <string>BSB Xmeeting 2013, 2013, Receife-PE. Xmeeting BSB Abstracts Book 2013</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Scientific Workflow for Performing Molecular Dynamics Simulation of Proteins</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>SEUS, V. R. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11545</int>
+  </void>
+  <void property="localPublicado">
+   <string>BSB Xmeeting 2013, 2013, Receife-PE. Xmeeting BSB Abstracts Book 2013</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Framework for Virtual Screening</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>Prates, N. S. ; SILVA JR., L. V. ; SILVA, P. E. A. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11544</int>
+  </void>
+  <void property="localPublicado">
+   <string>BSB Xmeeting 2013, 2013, Receife-PE. Xmeeting Abstracts Book 2013</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Molecular Dynamics Simulation of the AcrB Efflux Pump Protein</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BARBAT, M. M. ; COLETTO, J. L. ; GOULART, M. G. ; TEIXEIRA, E. P. ; MACHADO, KARINA S. ; Borges, E.N.</string>
+  </void>
+  <void property="cluster">
+   <int>11220</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11521</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional - MCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Extração de conhecimento a partir de bancos de dados oceanográficos mistos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BARRETO, N. A. ; MACHADO, KARINA S. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11542</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte. ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inference Of Regulatory Networks With A Convergence Improved Markov Chain Monte Carlo Sampler</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>MOTA, F. ; RIBEIRO, N. F. A. ; Emmendorfer, L. ; BUTZEN, P. F. ; MACHADO, KARINA S. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="cluster">
+   <int>11036</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11517</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXV Simpósio Brasileiro de Informática na Educação (SBIE 2014)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Desenvolvendo o Raciocínio Lógico no Ensino Médio: uma proposta utilizando a ferramenta Scratch</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>RICO, T. M. ; ESLABAO, M. ; KREMER, F. ; SILVA, P. E. A. ; Borges, E.N. ; PINTO, L. ; DELLAGOSTIN, O. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11543</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte. ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Leptospiras Species Classi cation based on Data Mining</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>WERLANG, P. ; FAGUNDES, M. Q. ; ADAMATTI, D. F. ; MACHADO, KARINA S. ; GROLL, A. V. ; SILVA, P. E. A. ; WERHLI, A. V.</string>
+  </void>
+  <void property="cluster">
+   <int>11030</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11516</int>
+  </void>
+  <void property="localPublicado">
+   <string>14th Ibero-American Conference on Artificial Intelligence - IBERAMIA</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estimation of Parameters of Mycobacterium tuberculosis Growth: A Multi-Agent-Based Simulation Approach</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>SCOTTA, A. ; HUTTNER, V. ; MACHADO, KARINA S. ; MARTINS, Ivete Pinto ; COUTO, Z. ; ESPINDOLA, D. B.</string>
+  </void>
+  <void property="cluster">
+   <int>10909</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11536</int>
+  </void>
+  <void property="localPublicado">
+   <string>3º Congresso Brasileiro de Informática na Educação (CBIE 2014) - Workshop de Ambientes Virtuais na Educação, 2014, Dourados - MS. Anais dos Workshops do CBIE 2014</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Uma aplicação da Realidade Aumentada em Laboratórios Mistos para Ensino de Química</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>MACIEL, T. V. ; SEUS, V. R. ; MACHADO, KARINA S. ; Borges, E.N.</string>
+  </void>
+  <void property="cluster">
+   <int>11219</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11520</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional - MCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Mineração de Dados em Triagem de Risco de Saúde</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>Cornetet, L. R. ; DURRUTHY, M. ; MONSERRAT, J. ; WERHLI, ADRIANO V. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11541</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio, 2014, Belo Horizonte. ISCB-Latin America X-Meeting in Bioinformatics with BSB and SoiBio Abstract Book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Framework for Performing Molecular Docking Simulations with Carbon Nanotubes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>PIANESSER, R. ; BRENNER, F. ; MACHADO, KARINA S. ; MARTINS, Ivete Pinto ; MUSA, M. ; GOUVEA, A. ; GALLON, R. F. ; ESPINDOLA, D. B.</string>
+  </void>
+  <void property="cluster">
+   <int>10888</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11522</int>
+  </void>
+  <void property="localPublicado">
+   <string>ESUD 2014 - XI Congresso Brasileiro de Ensino Superior a Distância</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Educação a Distância: Um panorama baseado no modelo da Universidade Aberta do Brasil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BRENNER, F. ; PIANESSER, R. ; ESPINDOLA, D. B. ; MARTINS, Ivete Pinto ; MUSA, M. ; GOUVEA, A. ; GALLON, R. F. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="cluster">
+   <int>10889</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11518</int>
+  </void>
+  <void property="localPublicado">
+   <string>ESUD 2014 - XI Congresso Brasileiro de Ensino Superior a Distância</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Revisão Sistemática da Educação a Distância: Um estudo de Caso da EaD no Brasil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>DREWS-JR, P. ; BAUER, M. ; MACHADO, KARINA S. ; PUCIARELLI, P. ; DUMONT, L. F. C.</string>
+  </void>
+  <void property="cluster">
+   <int>11519</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11519</int>
+  </void>
+  <void property="localPublicado">
+   <string>Symposium on Knowledge Discovery</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Machine Learning Approach to Predict the Pink Shrimp Harvest in the Patos Lagoon Estuary</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>GELATTI, G. J. ; CASSALES, V. ; Vargas, A.P. ; FELIPPE, C. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11535</int>
+  </void>
+  <void property="localPublicado">
+   <string>IHC&apos;14 - XIII Brazilian Symposium on Human Factors and Demonstrations, 2014, Foz do Iguaçu - PR. Proceedings of the XIII Brazilian Symposium on Human Factors and Demonstrations</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>SIGNUM: Portuguese-LIBRAS Translator based on Text Mining as Web Browser Extension</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>KRONBAUER, A. ; BALBINOT, B. L. ; SCHMIDT, L. A. ; MACHADO, L. N. ; SILVA, R. G. N. E. ; MACHADO, KARINA S. ; Winck, A. T.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11540</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Gaúcha de Bioinformática - EGB 2015, 2015, Porto Alegre - RS. Escola Gaúcha de Bioinformática - EGB 2015</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Python-Based API of the 3D-Tree Algorithm</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>CAMARGO, A. D. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11500</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Junior de Iniciação Científica em Ciências Exatas e Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A review about Petri Nets and Bioinformatics: representations of systems biology</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>DREWS-JR, P. ; TURRA, T. ; MACHADO, KARINA S. ; DUMONT, L. F. C.</string>
+  </void>
+  <void property="cluster">
+   <int>11511</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11511</int>
+  </void>
+  <void property="localPublicado">
+   <string>12th National Meeting on Artificial and Computational Intelligence (ENIAC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Temporal Series Prediction using Decision Trees: A Case Study on the Pink Shrimp Harvest</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>Vinicius Rosa Seus ; MACHADO, K. S. ; Borges, Eduardo N. ; Maciel, Thales V.</string>
+  </void>
+  <void property="cluster">
+   <int>11211</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11499</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Brasileira de Computação Aplicada</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Mineração de dados em triagem de risco de saúde</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>CAMARGO, ALEX ; MACHADO, KARINA ; WERHLI, ADRIANO</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11513</int>
+  </void>
+  <void property="localPublicado">
+   <string>MOL2NET</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Evaluation of computational tools for thermodynamics and structural analysis of protein stability upon point mutation prediction</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, KARINA; SEUS, VINICIUS ; GOMES, JORGE</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11514</int>
+  </void>
+  <void property="localPublicado">
+   <string>MOL2NET</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Appying a novel web-tool for performing virtual screening experiments</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>FISCHER, E. ; Cornetet, L. R. ; DURRUTHY, M. ; BURGER, M. ; MONSSERAT, J. ; WERHLI, A. V. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11534</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXIV Congresso de Iniciação Cientifica da 14a. Mostra da Produção Universitária - MPU, 2015, Rio Grande - RS. 14a. Mostra da Produção Universitária - MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Docagem molecular da enzima superóxido dismutase do nematode Caenorhabdtes elegans com o nanomaterial- Ffulereno (C 60 )</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>MENDES, M. C. ; SILVA, J. A. ; CALERO, F. ; MOTA, F. ; MACHADO, KARINA S. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11530</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVIII Seminário de Extensão na 14a, Mostra de Produção Universitária - MPU, 2015, Rio Grande - RS. XVIII Seminário de Extensão na 14a, Mostra de Produção Universitária - MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>DESENVOLVENDO O PENSAMENTO COMPUTACIONAL NO ENSINO FUNDAMENTAL POR MEIO DA FERRAMENTA CODE.ORG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>CAMARGO, A. D. ; WERHLI, A. V. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11531</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Gaúcha de Bioinformática - EGB 2015, 2015, Porto Alegre - RS. Escola Gaúcha de Bioinformática - EGB 2015</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>A comparison of molecular dynamics simulations using GROMACS with GPU and CPU</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>AGOSTINHO, NILZAIR B. ; MACHADO, KARINA S. ; WERHLI, ADRIANO V.</string>
+  </void>
+  <void property="cluster">
+   <int>10531</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11501</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Bioinformatics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Inference of regulatory networks with a convergence improved MCMC sampler</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>CAMARGO, A. D. ; WERHLI, A. V. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11532</int>
+  </void>
+  <void property="localPublicado">
+   <string>Encontro de Pós-Graduação na 13a. Mostra da Produção Universitária - MPU 2015, 2015, Rio Grande - RS. 13a. Mostra da Produção Universitária - MPU 2015</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Predição de estabilidade em pontos de mutação em proteína através de ferramentas computacionais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>MENDES, M. C. ; MARTINS, G. A. ; MOTA, F. ; MACHADO, K. S. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="cluster">
+   <int>11020</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11512</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Congresso Latino-Americano Interdisciplinar do Adolescente - CLIOA 2015 -</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>DESENVOLVENDO O PENSAMENTO COMPUTACIONAL: UMA ABORDAGEM BASEADA EM LÓGICA DE PROGRAMAÇÃO</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>SEUS, VINICIUS ; MACHADO, KARINA ; WERHLI, ADRIANO</string>
+  </void>
+  <void property="cluster">
+   <int>10547</int>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11515</int>
+  </void>
+  <void property="localPublicado">
+   <string>MOL2NET</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Proposal Tool for Manipulation of a Set of Protein Structures from PDB</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>AFONSO, F. ; CAMARGO, A. D. ; WERHLI, A. V. ; MACHADO, KARINA S.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11533</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXIV Congresso de Iniciação Cientifica na 14a. Mostra da Produção Universitária - MPU 2015, 2015, Rio Grande - RS. 14a. Mostra da Produção Universitária - MPU 2015</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Um estudo sobre o impacto em pontos de mutação utilizando o software mCSM</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>PALOMINO, J. C. ; MACHADO, KARINA S. ; GROLL, A. V. ; SILVA, P. E. A. ; MARTIN, A.</string>
+  </void>
+  <void property="id_membro">
+   <int>32</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11509</int>
+  </void>
+  <void property="localPublicado">
+   <string>Michio Kuroso; William Denny. (Org.). Advances in Tuberculosis Medicinal Chemistry. 1eded.London, UK</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Drug repurposing for tuberculosis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>GONZALES, G.V. ; ESTRADA, E. DA S.D. ; EMMENDORFER, L.R. ; ISOLDI, L.A. ; XIE, G. ; ROCHA, L.A.O. ; DOS SANTOS, E.D.</string>
+  </void>
+  <void property="cluster">
+   <int>11251</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11561</int>
+  </void>
+  <void property="localPublicado">
+   <string>Energy (Oxford)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A comparison of simulated annealing schedules for constructal design of complex cavities intruded into conductive walls with internal heat generation</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>Emmendorfer, Leonardo Ramos; POZO, Aurora Trinidad Ramirez</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11567</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Transactions on Evolutionary Computation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>&lt;![CDATA[Effective Linkage Learning Using Low-Order Statistics and Clustering]]&gt;</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L. ; R.. ; Um ; modelo ; computacional ; para ; a ; propagação ; de ; plantas ; anuais. ; Vetor ; (FURG), v. ; 16, p. ; 49-54, 2006.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11568</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Um modelo computacional para a propagação de plantas anuais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L. R.. Modelos Computacionais Para a Dinâmica de Metapopulações Interagentes. In: I Seminário de Pesquisa Docente, 2002, Canoinhas - SC, 2002.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11601</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L. R.. On the design of populational clustering. In: International Conference on Evolutionary Computation, 2010, Valencia, Espanha. Proceedings, 2010.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11593</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L. R.; POZO, Aurora Trinidad Ramirez</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11575</int>
+  </void>
+  <void property="localPublicado">
+   <string>Ying-ping Chen,; Meng-Hiot Lim. (Org.). Linkage in evolutionary computation. Studies in Computational Intelligence. New York</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Clustering-based Approach for Linkage Learning Applied to Multimodal Optimization</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>CAIUTA, R. ; POZO, Aurora Trinidad Ramirez ; EMMENDORFER, L. R. ; VERGILIO, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11589</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Joint Conference on Neural Networks (IJCNN2008)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Selecting Software Reliability Models with a Neural Network Meta Classifier</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F. ; PAES, T. ; SILVEIRA, J. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>11083</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11588</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Conferência Sul de Modelagem Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Effectiveness of Decision Trees for Detecting the Behavior of Agents</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>PAES, T. ; SILVEIRA, J. ; ADAMATTI, D. F. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>11080</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11587</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Poder de Captura das Árvores de Decisão para o Comportamento de Agentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F. ; WERHLI, A. V. ; LUGO. G. G. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10539</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11571</int>
+  </void>
+  <void property="localPublicado">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do IV Workshop- Escola de Sistemas de Agentes, seus Ambientes e apliCações</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>PAES, T. ; SILVEIRA, J. ; ADAMATTI, D. F. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>11005</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11574</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adamatti, D. .F... (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições.. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L. R.; ADAMATTI, D. F. ; SILVEIRA, J. ; PAES, T.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11586</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. ; PAES, T. ; ADAMATTI, D. F. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>11190</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11600</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra de produção universitária, 2010, Rio Grande. Mostra de Produção Universitária 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem da Dinâmica do Fluxo Granular Através de Autômatos Celulares e Simulação Baseada em Agentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, R. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11598</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Encontro Regional de Estudantes de Matemática do Sul, 2011, Curitiba. Anais do XVII Encontro Regional de Estudantes de Matemática do Sul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma estratégia híbrida para o problema de empacotamento de duas elipses</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LORENZ, W. ; WERHLI, A. V. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11592</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Seminário de Iniciação Científica, 2011, Ijuí. Anais do XIX Seminário de Iniciação Científica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Descoberta de conhecimento em bancos de dados aplicada ao caso de alunos com subsídio</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, R. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11565</int>
+  </void>
+  <void property="localPublicado">
+   <string>ICCEEg - Revista Jr de Iniciação Científica em Ciências Exatas e Engenharia,</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Estratégia Híbrida para o Problema de Empacotamento</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>NEVES, C. ; BRUM, R. S. ; KIRINUS, E. ; SANTOS, R. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11566</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Jr de Iniciação Científica em Ciências Exatas e Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem Ambiental: Perspectivas e Contribuições</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LORENZ, W. ; WERHLI, A. V. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11599</int>
+  </void>
+  <void property="localPublicado">
+   <string>10a Mostra de Produção Universitária - MPU, 2011, Rio Grande. Anais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Data Mining aplicado ao caso de alunos com subsídio do núcleo de assistência estudantil da Universidade Federal do Rio Grande - FURG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SOUZA, J. A. (Org.) ; KRUSCHE, N. (Org.) ; ADAMATTI, D. F. (Org.) ; Emmendorfer, Leonardo Ramos (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10987</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11570</int>
+  </void>
+  <void property="localPublicado">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais da V Conferência Sul em Modelagem Computacional ? VMCSul</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>LORENZ, W. ; SILVA, R. ; Emmendorfer, Leonardo Ramos ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11597</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI SImpósio de Informática da UNIFRA, 2012, Santa Maria/RS. Anais do XI SImpósio de Informática da UNIFRA</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Data Mining aplicado ao caso de alunos com subsídio no núcleo de assistência estudantil NAE da Universidade Federal do Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MARCOS, P. B. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11585</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Orpheu - A Performance-Oriented System for Musical Accompaniment: An Approach Using the Markov Decision Process</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BECKEL, C. C. ; Emmendorfer, Leonardo Ramos ; ORO, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11583</int>
+  </void>
+  <void property="localPublicado">
+   <string>5th LNCC Meeting on Computational Modeling</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An adaptation of the Hook and Jeeves optimization algorithm for the maximization of the dimensions of an ellipse inscribed in a given non-convex polygon</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BECKEL, C. ; ORO, N. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11582</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Conferência Sul em Modelagem Computacional - V MCSUL</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Heurística para o posicionamento de elipses tangentes no interior de um polígono de n lados</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GAMBETA-LEITE, M. R. S. ; SOUZA, R. V. ; SPOLAVORI, A. ; KRUSCHE, N. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="cluster">
+   <int>11584</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11584</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Conferência Sul em Modelagem Computacional ? VMCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo de caso sobre o acoplamento de um modelo de previsão numérica ao planejamento de alocação de berços no Porto de Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>QUADROS, C. ; FREITAS, C. R. ; SILVA, M. ; ANTIQUEIRA, L. ; PUREZA, S. ; HERNANDES, F. ; GAUTERIO, E. ; SILVEIRA, J. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11581</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Internacional sobre Interdisciplinaridade no Ensino</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Mobilidade Urbana em Rio Grande - RS: uma visão interdisciplinar</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>Salvá, Thyago ; Emmendorfer, Leonardo R. ; Werhli, Adriano V.</string>
+  </void>
+  <void property="cluster">
+   <int>10543</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11573</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Inference of Genetic Regulatory Networks Using an Estimation of Distribution Algorithm. Lecture Notes in Computer Science. 1ed</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, I. A. ; MACHADO, K. S. ; BORGES, E. N. ; Emmendorfer, Leonardo</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11591</int>
+  </void>
+  <void property="localPublicado">
+   <string>XII Mostra da Produção Universitária - XV Encontro de Pós-Graduação, 2013, Rio Grande. Anais da XII Mostra da Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Um método de agrupamento de dados por transferência</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BECKEL, C. C. ; ORO, N. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11576</int>
+  </void>
+  <void property="localPublicado">
+   <string>Conference on Engineering and Applied Sciences Optimization (OPT-i),</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Constructuve heuristic for gem cut: packing of ellipses in an irregular polygon</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>MOTA, F. P. ; RIBEIRO, N. ; Emmendorfer, Leonardo Ramos ; BUTZEN, P. F. ; MACHADO, K. S. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11590</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Informática na Educação, 2014, Dourados, MS. Anais do Simpósio Brasileiro de Informática na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Desenvolvendo o Raciocínio Lógico no Ensino Médio: uma proposta utilizando a ferramenta Scratch</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BECKEL, C. C. ; ORO, N. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11595</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXV Congresso Nacional de Matematica Aplicada e Computacional, 2014, Natal. Anais do XXXV Congresso Nacional de Matematica Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem matemática e computacional para o problema de empacotamento de elipses em polígonos irregulares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>GIL, V. O. ; FERRARI, F. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11594</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Encontro de Modelagem Computacional, 2014, Petrópilis, RJ. Anais do XVII Encontro de Modelagem Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Análise de Agrupamentos para Classificação Morfométrica de Galáxias</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>PROLO FILHO, J. F. ; FERREIRA, C. E. S. ; RODRIGUEZ, B. A. D. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11596</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXV Congresso Nacional de Matematica Aplicada e Computacional, 2014, Natal. Anais do XXXV Congresso Nacional de Matematica Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Métodos numéricos aplicados à Transformada Inversa de Laplace</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>GONZALES, G. V. ; EMMENDORFER, L. R. ; ISOLDI, L. A. ; ROCHA, L. A. O. ; SANTOS, E. D.</string>
+  </void>
+  <void property="cluster">
+   <int>11258</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11578</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional (MCSul)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>CONSTRUCTAL DESIGN AND SIMULATED ANNEALING EMPLOYED FOR GEOMETRIC OPTIMIZATION OF A Y-SHAPED CAVITY INTRUDED INTO CONDUCTIVE WALL</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>GIL, V. O. ; FERRARI, F. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11579</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional (MCSul)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Investigação da aplicação de algoritmos de agrupamento para o problema astrofísico de classificação de galáxias</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>GONZALES, G. V. ; EMMENDORFER, L. R. ; ISOLDI, L. A. ; ESTRADA, E. S. D. ; ROCHA, L. A. O. ; SANTOS, E. D.</string>
+  </void>
+  <void property="cluster">
+   <int>11259</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11577</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional (MCSul)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A COMPARATIVE STUDY OF SIMULATED ANNEALING WITH DIFFERENT COOLING SCHEDULES FOR GEOMETRIC OPTIMIZATION OF A HEAT TRANSFER PROBLEM ACCORDING TO CONSTRUCTAL DESIGN</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>LORENZ, W. G. ; EMMENDORFER, L. R. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11569</int>
+  </void>
+  <void property="localPublicado">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem estatística e computacional do comportamento de alunos bolsistas de programas de apoio do Núcleo de Assistência Estudantil da Universidade Federal do Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. ; FILHO, N.L.D. ; ESPINDOLA, D. B. ; BICHET, M. A. A. ; Emmendorfer, Leonardo Ramos ; SANTOS, R. A. P. ; FRAZZON, E. M. ; HENRIQUES, R. V. B. ; PEREIRA, C. E.</string>
+  </void>
+  <void property="cluster">
+   <int>10886</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11580</int>
+  </void>
+  <void property="localPublicado">
+   <string>12th International Conference on Industrial Informatics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>INCLUDING OPERATORS SKILL AND ENVIRONMENT CONDITIONS IN AN IMS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>GONZALES, G. V. ; SANTOS, E. D. ; Emmendorfer, LR ; ISOLDI, L. A. ; ROCHA, L. A. O. ; ESTRADA, E. S. D.</string>
+  </void>
+  <void property="cluster">
+   <int>11250</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11564</int>
+  </void>
+  <void property="localPublicado">
+   <string>Scientia Plena</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A COMPARATIVE STUDY OF SIMULATED ANNEALING WITH DIFFERENT COOLING SCHEDULES FOR GEOMETRIC OPTIMIZATION OF A HEAT TRANSFER PROBLEM ACCORDING TO CONSTRUCTAL DESIGN</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>BECKEL, C. C. ; ORO, N. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11560</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Journal of Engineering and Mathematical Modelling</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>An application of Hooke and Jeeves Method as a Constructive Heuristic for the Ellipse Packing Problem</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>GIL, V. O. ; FERRARI, F. ; Emmendorfer, Leonardo Ramos</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11559</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Brasileira de Computação Aplicada</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Investigação da aplicação de algoritmos de agrupamento para o problema astrofísico de classificação de galáxias</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>GONZALES, G. V. ; SANTOS, E. D. ; EMMENDORFER, L. R. ; ISOLDI, L. A. ; ESTRADA, E. S. D. ; ROCHA, L. A. O.</string>
+  </void>
+  <void property="cluster">
+   <int>11248</int>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11563</int>
+  </void>
+  <void property="localPublicado">
+   <string>Engenharia Térmica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Constructal Design And Simulated Annealing Employed For Geometric Optimization Of A Y-Shaped Cavity Intruded Into Conductive Wall</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>SOUZA FERREIRA, CARLOS EDUARDO ; Emmendorfer, Leonardo Ramos ; PROLO FILHO, JOÃO FRANCISCO</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11562</int>
+  </void>
+  <void property="localPublicado">
+   <string>Scientia Plena</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Formulação nodal aplicada à problemas de transporte bidimensional em geometria cartesiana</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L.R.; BECKEL, C. C. ; ORO, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>34</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11572</int>
+  </void>
+  <void property="localPublicado">
+   <string>Airam Sausen; Paulo Sausen; Sandro Sawick. (Org.). Pesquisas Aplicadas em Modelagem Matemática. 1ed.Ijuí</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Heurística Construtiva para o Empacotamento de Elipses em Polígonos Irregulares</string>
+  </void>
+ </object>
+</java>

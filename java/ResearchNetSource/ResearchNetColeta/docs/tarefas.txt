@@ -1,0 +1,84 @@
+###
+selecionar dados coletados
+publicações:
+	artigos em periodicos
+	artigos em conferencias
+	livros
+	capitulos de livros
+
+matriz de adjacencia
+
+vetor de nodos, contendo os nodos com as seguintes informações:
+nome, id, lista de publicações, numero de publicações (tem que bater com o do grafo)
+
+verificar apis para criação de grafos (preferencia java)
+
+adicionar nos dados salvos o id do nodo
+
+banco -> colocar o restante dos metadados
+
+salvar diferentes representações (mesmo artigo pra dois ou mais membros)
+
+###
+2011_09_14
+Podemos melhorar o esquema do banco criando várias tabelas. Sendo PK a
+chave primária e FK uma chave estrangeira:
+
+publicacao (id, titulo, autores, ano, paginas) PK(id)
+
+revista (publicacao_id, outros campos possíveis para AP)
+FK (publicacao_id referencia publicacao.id)
+PK (publicacao_id)
+
+revista_aceito (publicacao_id, outros campos possíveis para AA)
+FK (publicacao_id referencia publicacao.id)
+PK (publicacao_id)
+
+conferencia (publicacao_id, outros campos possíveis para TC)
+FK (publicacao_id referencia publicacao.id)
+PK (publicacao_id)
+
+livro (publicacao_id, outros campos possíveis para LP)
+FK (publicacao_id referencia publicacao.id)
+PK (publicacao_id)
+
+capitulo (publicacao_id, outros campos possíveis para CL)
+FK (publicacao_id referencia publicacao.id)
+PK (publicacao_id)
+
+Estas tabelas devem possuir os valores coletados para cada campo das
+publicações, incluindo publicações replicadas em dois ou mais lattes.
+
+Seria interessante armazenarmos quem é réplica de quem em outra
+tabela. Por exemplo,
+
+replicas (id1, id2)
+FK (id1 referencia publicacao.id)
+FK (id2 referencia publicacao.id)
+PK(id1, id2)
+check id1<id2
+
+Essa tabela pode sair do conjunto de membros de um objeto publicação
+(no python).
+
+Outra coisa legal é ter uma view "selecione todas as publicações do
+grupo COM réplicas" e outra "selecione todas as publicações do grupo
+SEM réplicas".
+
+Depois temos que relacionar a tabela membros (com o nome e id de cada
+pessoa) com a tabela publicações. Um relacionamento M:N , ou seja,
+criar uma nova tabela AUTORIA.
+
+Altera o esquema do banco conforme o que eu descrevi e depois me envia um dump.
+Termina a implementação da identificação das colaborações para a próxima quarta
+
+####
+2011_09_21
+coletar as replicas (listacompleta ou do compilador)
+fazer clustering
+mandar rede do c3 para tiago
+
+
+####
+2011_09_30
+programa que recebe os dois ids da aresta, e abre uma janela com as publicacaoes daquela aresta

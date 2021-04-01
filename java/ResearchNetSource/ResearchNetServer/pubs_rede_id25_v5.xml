@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_17" class="java.beans.XMLDecoder">
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, ADRIANO V. ; HUSMEIER, DIRK</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4319</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of Bioinformatics and Computational Biology (Print)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>GENE REGULATORY NETWORK RECONSTRUCTION BY BAYESIAN INTEGRATION OF PRIOR KNOWLEDGE AND/OR DIFFERENT EXPERIMENTAL CONDITIONS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Marcelo Paravisi ; WERHLI, A. V. ; Julio C. S. Jaques Jr. ; RODRIGUES, R. ; BICHO, A. ; JUNG, C. R. ; MUSSE, S. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4328</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4328</int>
+  </void>
+  <void property="localPublicado">
+   <string>Computer Graphics International, 2008, Istanbul. Proceedings of Computer Graphics International</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Continuum Crowds with Local Control</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Grzegorczyk, Marco ; Husmeier, D. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4323</int>
+  </void>
+  <void property="localPublicado">
+   <string>Frank Emmert-Streib; Matthias Dehmer. (Org.). Analysis of Microarray Data - A Network-Based Approach. 1ed.Weinheim</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Reverse Engineering Gene Regulatory Networks with Various Machine</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Botelho, S. S. C. ; BRAUNSTEI, S. H. ; WERHLI, A. V.</string>
+  </void>
+  <void property="cluster">
+   <int>4327</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4327</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simposio Brasileiro de Automação Inteligente, 2009, Brasília. Anais do IX Simpósio Brasileiro de Automação Inteligente,</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Análise Exploratória de Dados para o Desenvolvimento de Sistemas de Previsão de Alarmes em Plantas Industriais</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Adamatti, D. F. (Org.) ; LUGO, G.G (Org.) ; Emmendorfer, L. R. (Org.) ; WERHLI, A. V. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>4320</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4320</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do IV Workshop- Escola de Sistemas de Agentes, seus Ambientes e apliCações. Rio Grande: FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, A. V. (Org.) ; Emmendorfer, L. R. (Org.) ; COSTA, A. C. R. (Org.) ; Retamoso, M. (Org.)</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4321</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>IV MCSUL Southern Conference on Computational Modeling / IX ERMAC Encontro regional de Matemática Aplicada e Computacional</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4325</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Artificial Intelligence, 2010, São Bernardo do Campo. Lecture Notes in Artificial Intelligence, subseries of Lecture Notes in Computer Science. Berlim: Springer-Verlag</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Bayesian Network Structure Inference with an Hierarchical Bayesian Model</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Mendoza, M. R. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4326</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Neural network, 2010, São Bernardo do Campo. 2010 Eleventh Brazilian Symposium on Neural Networks (SBRN 2010). California: Conference Publishing Services (CPS)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Inferring Genetic Regulatory Networks with an Hierarchical Bayesian Model and a Parallel Sampling Algorithm</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4333</int>
+  </void>
+  <void property="localPublicado">
+   <string>9th European Conference on Computational Biology, 2010, Ghent. 9th European Conference on Computational Biology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Comparison of Bayesian networks and its extensions applied to the inference of regulatory networks</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Mendoza, M. R. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4334</int>
+  </void>
+  <void property="localPublicado">
+   <string>9th European Conference on Computational Biology, 2010, Ghent. 9th European Conference on Computational Biology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inferring genetic regulatory networks with an hierarchical Bayesian model and a parallel sampling algorithm</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Husmeier, D. ; WERHLI, A. V. ; Grzegorczyk, Marco</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4322</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPH Stumpf; DJ Balding; M. Girolami. (Org.). Handbook of Statistical Systems Biology. Chichester</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Advanced Applications of Bayesian Networks in Systems Biology</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>WAGNER, A. ; Emmendorfer, L. R. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4329</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Seminário de Iniciação Científica da UNIJUÍ, 2011, Ijuí. Salão do Conhecimento - XIX Seminário de Iniciação Científica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>DESCOBERTA DE CONHECIMENTO EM BANCOS DE DADOS: APLICADO AO CASO DE ALUNOS COM SUBSÍDIO NO NÚCLEO DE ASSITÊNCIA ESTUDANTIL NAE DA UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BARRETO, N. M. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4330</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande. Mostra de Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inferência de Redes Genéticas Regulatórias Utilizando Redes Booleanas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE, K. P. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4331</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - FURG, 2011, Rio Grande. Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inferência de Estrutura de Redes Biológicas com a Combinação de Métricas de Redes Bayesianas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LORENZ, W. G. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4332</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - FURG, 2011, Rio Grande. Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Data Mining: Aplicado ao Caso de Alunos com Subsídio no Núcleo de Assistência Estudantil - NAE da Universidade Federal do Rio Grande - FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4318</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Comparing the reconstruction of regulatory pathways with distinct Bayesian networks inference methods</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Mendoza, M. R. ; WERHLI, A. V. ; BAZZAN, A. L. C.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4324</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Redes Neurais, 2012, Curitiba. Proc. of the SBRN 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An epsilon-greedy mutation operator based on prior knowledge for GA convergence and accuracy improvement: an application to networks inference</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>PARAVISI, M. ; WERHLI, A. V. ; JACQUES JUNIOR, J. C. S. ; RODRIGUES, R. A. ; BICHO, A. L. ; JUNG, C. R. ; MUSSE, S. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4328</int>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4344</int>
+  </void>
+  <void property="localPublicado">
+   <string>26th Computer Graphics International Conference, 2008, Istambul , Turquia. Proceedings of the 26th Computer Graphics International Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Continuum Crowds with Local Control</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, R. A. ; BICHO, A. L. ; PARAVISI, M. ; JUNG, C. R. ; MAGALHÃES, L. P. ; MUSSE, S. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4338</int>
+  </void>
+  <void property="localPublicado">
+   <string>Lecture Notes in Computer Science</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Tree Paths: A New Model for Steering Behaviors. Proceedings of the 9th International Conference on Intelligent Virtual Agents</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>CASSOL, V. J. ; MARSON, F. P. ; VENDRAMINI, M. ; PARAVISI, M. ; BICHO, A. L. ; JUNG, C. R. ; MUSSE, S. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4346</int>
+  </void>
+  <void property="localPublicado">
+   <string>10th International Conference on Intelligent Virtual Agents - IVA, 2010, Philadelphia/Pennsylvania-USA. Booklet of short/poster papers of 10th International Conference on Intelligent Virtual Agents</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Computing Agents Motion using Terrain Reasoning</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, R. A. ; BICHO, A. L. ; PARAVISI, M. ; JUNG, C. R. ; MAGALHÃES, L. P. ; MUSSE, S. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4337</int>
+  </void>
+  <void property="localPublicado">
+   <string>Applied Artificial Intelligence</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>An Interactive Model for Steering Behaviors of Groups of Characters</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RAMOS, R. C. ; BICHO, A. L. ; CARVALHO, J. T. ; HAX, V. A.</string>
+  </void>
+  <void property="cluster">
+   <int>4345</int>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4345</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra da Produção Universitária - FURG, 2011, Rio Grande/RS, Brasil. Anais da X Mostra da Produção Universitária - FURG. Rio Grande/RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Consultoria em Legalização de Software</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>CASSOL, V. J. ; MARSON, F. P. ; VENDRAMINI, M. ; PARAVISI, M. ; MUSSE, S. R. ; BICHO, A. L. ; JUNG, C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4341</int>
+  </void>
+  <void property="localPublicado">
+   <string>Computer Graphics and Imaging - CGIM, 2011, Innsbruck/Austria. Proceedings of the 12th IASTED International Conference on Computer Graphics and Imaging - CGIM. Calgary/Canadá: ACTA Press</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulation of Autonomous Agents using Terrain Reasoning</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MAFFEI, R. Q. ; BOTELHO, S. S. C. ; SILVEIRA, L. ; DREWS JUNIOR, P. L. J. ; DUARTE FILHO, N. L. ; BICHO, A. L. ; ALMEIDA, F. R. ; LONGARAY, M. M.</string>
+  </void>
+  <void property="cluster">
+   <int>4342</int>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4342</int>
+  </void>
+  <void property="localPublicado">
+   <string>VIII Encontro Nacional de Inteligência Artificial - ENIA/CSBC, 2011, Natal/RN, Brasil. Anais do XXXI Congresso da Sociedade Brasileira de Computação - CSBC</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Space D*: Um Algoritmo para Path Planning Multi-Robôs</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MAFFEI, R. Q. ; BOTELHO, S. S. C. ; SILVEIRA, L. ; DREWS JUNIOR, P. L. J. ; DUARTE FILHO, N. L. ; BICHO, A. L. ; LONGARAY, M. M. ; ALMEIDA, F. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4343</int>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4343</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Simpósio Brasileiro de Automação Inteligente - SBAI, 2011, São João del-Rei/MG, Brasil. Anais do X Simpósio Brasileiro de Automação Inteligente - SBAI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>D*-space: Planejando Caminhos para Sistemas Multi-robôs</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BICHO, A. L. ; RODRIGUES, R. A. ; MUSSE, S. R. ; JUNG, C. R. ; PARAVISI, M. ; MAGALHÃES, L. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4335</int>
+  </void>
+  <void property="localPublicado">
+   <string>Computers Graphics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Simulating crowds based on a space colonization algorithm</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, L. ; MAFFEI, R. Q. ; ALMEIDA, F. R. ; LONGARAY, M. M. ; BOTELHO, S. S. C. ; DREWS JUNIOR, P. L. J. ; BICHO, A. L. ; DUARTE FILHO, N. L.</string>
+  </void>
+  <void property="cluster">
+   <int>4340</int>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4340</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Robotics Symposium and Latin American Robotics Symposium (SBR-LARS), 2012, Fortaleza/CE, Brasil. Proceedings of Brazilian Robotics Symposium and Latin American Robotics Symposium. Piscataway, NJ, EUA: IEEE Computer Society</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Using Space D* for Crowded Real Robots Environments</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, L. ; MAFFEI, R. Q. ; BOTELHO, S. S. C. ; DREWS JUNIOR, P. L. J. ; BICHO, A. L. ; DUARTE FILHO, N. L.</string>
+  </void>
+  <void property="cluster">
+   <int>4336</int>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4336</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of The Brazilian Computer Society (Online)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Space D*: A Path-Planning Algorithm for Multiple Robots in Unknown Environments</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BARROS, L. M. ; BICHO, A. L. ; GRILLON, H. ; JUNG, C. R. ; MAGALHÃES, L. P. ; MAIM, J. ; MUSSE, S. R. ; PARAVISI, M. ; PETTRÉ, J. ; RODRIGUES, R. A. ; THALMANN, D. ; YERSIN, B.</string>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4339</int>
+  </void>
+  <void property="localPublicado">
+   <string>Daniel Thalmann; Soraia Raupp Musse. (Org.). Crowd Simulation. 2ed.London/UK</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Behavioral Animation of Crowds</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BORGES, F.S. ; FREITAS, A. L. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4347</int>
+  </void>
+  <void property="localPublicado">
+   <string>Online)</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo de Caso sobre Programação Orientada a Aspectos Utilizando RMI. Hífen (Uruguaiana</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>CARNEIRO, A.P. ; MOREIRA, J.L. ; FREITAS, A. L. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4366</int>
+  </void>
+  <void property="localPublicado">
+   <string>Seminário de Informática, 2008, Torres - RS. Seminário de Informática</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Estudo sobre Técnicas de Otimização de Banco de Dados</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>MADSEN, C. A. B. W. ; FREITAS, A. L. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4368</int>
+  </void>
+  <void property="localPublicado">
+   <string>VIII Mostra de Produção Universitária, 2009, Rio Grande. XI ENCONTRO DE PÓS-GRADUAÇÃO. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>AXUL - Um framework PHP para a geração de interfaces XUL</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>CARNEIRO, A.P. ; MOREIRA, J.L. ; FREITAS, A. L. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4365</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Escola Regional de Banco de Dados, 2009, Ijuí - RS. V Escola Regional de Banco de Dados. Ijuí - RS</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TUNING - Técnicas de Otimização de Banco de Dados. Um Estudo Comparativo: Mysql e Postgresql</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, L.A.A. ; FREITAS, A. L. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4363</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Congresso Nacional de Educação EDUCERE, 2011, Curitiba. Formação para mudanças no contexto da educação: políticas, representações sociais e práticas. Curitiba</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Prática Docente a Serviço da Transformação Social</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4364</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Seminário Diálogos com Paulo Freire, 2011, Pelotas. Das Práticas Escolares às Pedagogias das Marchas</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Compreendendo a Atividade de Integração Curricular no Espaço Tempo da Sala de Aula</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4367</int>
+  </void>
+  <void property="localPublicado">
+   <string>I Encontro Internacional de Educação e IV Encontro Municipal de Educação, 2011, Piratini - RS. Escola:espaço de sonhos,construção e possibilidades</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Re-significando as Atividades em Sala de Aula</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4361</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Congresso Nacional de Educação - EDUCERE, 2011, Curitiba. Formação para mudanças no contexto da educação: políticas, representações sociais e práticas. Curitiba</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Ressignificando as Atividades no Espaço Tempo da Sala de Aula</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, L.A.A. ; FREITAS, A. L. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4355</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Fórum de Estudos: Leituras de Paulo Freire, 2011, Santa Rosa - RS. XIII Fórum de Estudos: Leituras de Paulo Freire</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Há, em Freire, Espaços na Educação a Distância para a Possibilidade de Conscientização?</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4356</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Fórum de Estudos: Leituras de Paulo Freire, 2011, Santa Rosa - RS. XIII Fórum de Estudos: Leituras de Paulo Freire</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Problematizando a Educação Conscientizadora na Promoção da Atividade de Integração Curricular</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4358</int>
+  </void>
+  <void property="localPublicado">
+   <string>VII Congresso Internacional de Educação, 2011, São Leopoldo. Profissão Docente: Há Futuro para este Ofício?. São Leopoldo</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Promoção da Atividade de Integração Curricular no Espaço Tempo Sala de Aula</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4359</int>
+  </void>
+  <void property="localPublicado">
+   <string>I Fórum Internacional Sobre Prática Docente Universitária, 2011, Uberlânida. Inclusão Social e Tecnologias de Informação e Comunicação. Uberlândia</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Produção de Recursos Tecnológicos na Atividade de Integração Curricular</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, L.A.A. ; FREITAS, A. L. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4360</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Colóquio Internacional &quot;Educação e Contemporaneidade&quot;, 2011, São Cristóvão. A Etnomatemática como Aporte às Práticas de Ensino na Educação de Jovens e Adultos. São Cristóvão</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>As Práticas Educativas a Serviço da Transformação Social: pela Sustentabilidade da Vida</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4357</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Colóquio Internacional &quot;Educação e Contemporaneidade&quot;, 2011, São Cristóvão. A Etnomatemática como Aporte às Práticas de Ensino na Educação de Jovens e Adultos. São Cristóvão</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Refletindo Sobre as Verdades no Espaço Tempo da Sala de Aula</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4362</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Congresso Nacional de Educação EDUCERE, 2011, Curitiba. Formação para mudanças no contexto da educação: políticas, representações sociais e práticas. Curitiba</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Atividade de Integração Curricular no Espaço Tempo da Sala de Aula</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4348</int>
+  </void>
+  <void property="localPublicado">
+   <string>I Seminário Diálogos em Educação a Distância, 2012, Rio Grande. Seminário Diálogos em Educação a Distância. Rio Grande: SEAD-FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>O Exercício, em Freire, da Conscientização Apoiado no Uso de Tecnologias na Educação</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, L.A.A. ; FREITAS, A. L. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4350</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Fórum de Estudos: Leituras de Paulo Freire, 2012, Erechim. Educação Popular e Transformação Social. Erechim: UFFS</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Conscientização, em Freire, Apoiada no Uso de Tecnologias na Educação a Distância</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A. ; SPEROTTO, R. I.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4351</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Seminário de Pesquisa em Educação da Região Sul - ANPED Sul, 2012, Caxias do Sul. A Pós-Graduação e as suas Interlocuções com a Educação Básica. Caxias do Sul</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Experienciações no Espaço Tempo da Sala de Aula: Em que condições são possíveis integrar os saberes?</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4352</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Congresso Internacional de Educação, Pesquisa e Gestão, 2012, Ponta Grossa. Políticas e Práticas Educacionais. Ponta Grossa</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Experienciações no Espaço Tempo da Sala de Aula:A tecnologia a favor da integração dos saberes</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4353</int>
+  </void>
+  <void property="localPublicado">
+   <string>II Fórum Internacional sobre Prática Docente Universitária, 2012, Uberlândia. Planejamento e Avaliação no Contexto Glocal. Uberlandia</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Da Educação Bancária a Educação Problematizadora: Os espaços menores entre esse extremos e a sua contribuição para o ensinar e o aprender. Em que medida isso é possível?</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4354</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Seminário Nacional Diálogos com Paulo Freire, 2012, Santa Maria. Educação, cultura e resistências na sociedade contemporânea. Santa Maria</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Da Educação Bancária a Educação Problematizadora: Desvelando os espaços menores entre esses extremos e as contribuições para o ensinar e o aprender</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FREITAS, A. L. C. ; FREITAS, L.A.A.</string>
+  </void>
+  <void property="id_membro">
+   <int>2</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4349</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Fórum de Estudos: Leituras de Paulo Freire, 2012, Erechim. Educação Popular e Transformação Social. Erechim: UFFS</string>
+  </void>
+  <void property="nome_membro">
+   <string>André Luis Castro de Freitas</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Conscientização em Espaços Menores: o inacabamento do professor</string>
+  </void>
+ </object>
+</java>

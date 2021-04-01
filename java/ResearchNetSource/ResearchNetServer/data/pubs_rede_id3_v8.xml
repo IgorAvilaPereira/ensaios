@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>VIOLANTE, M. ; MEINHARDT, Cristina ; REIS, Ricardo ; REORDA, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>10</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10821</int>
+  </void>
+  <void property="localPublicado">
+   <string>DATE 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Low-Cost SEE Mitigation Solution for Soft-Processors Embedded in Systems on Programmable Chips</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina; VIOLANTE, M. ; REORDA, M. S. ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>10</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10822</int>
+  </void>
+  <void property="localPublicado">
+   <string>LATW</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Recovery Scheme for Hardening System on Programmable Chips</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>VIOLANTE, M. ; REORDA, M. S. ; MEINHARDT, Cristina ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>10</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10823</int>
+  </void>
+  <void property="localPublicado">
+   <string>24th IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An On-Board Data-Handling Computer for Deep-Space Exploration Built Using Commercial-Of-The-Shelf SRAM-Based FPGAs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina; REIS, Ricardo ; TAVARES, Reginaldo da Nobrega</string>
+  </void>
+  <void property="id_membro">
+   <int>10</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10824</int>
+  </void>
+  <void property="localPublicado">
+   <string>IWS09 Iberchip XV Workshop</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Leiautes Regulares Baseados em Matrizes de Células</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T.; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10939</int>
+  </void>
+  <void property="localPublicado">
+   <string>15th International Conference on Electronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability analysis of logic circuits based on signal probability</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>NAVINER, L ; VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10936</int>
+  </void>
+  <void property="localPublicado">
+   <string>3rd International Conference on Design and Technology of Integrated Systems in Nanoscale Era</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Efficient computation of logic circuits reliability based on Probabilistic Transfer Matrix</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10937</int>
+  </void>
+  <void property="localPublicado">
+   <string>Joint 6th International IEEE Northeast Workshop on Circuits and Systems and TAISA Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability analysis of combinational circuits based on a probabilistic binomial model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T.; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10938</int>
+  </void>
+  <void property="localPublicado">
+   <string>51st Midwest Symposium on Circuits and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability of logic circuits under multiple simultaneous faults</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10940</int>
+  </void>
+  <void property="localPublicado">
+   <string>15th International Conference on Electronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>On the output events in concurrent error detection schemes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T.; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10941</int>
+  </void>
+  <void property="localPublicado">
+   <string>Colloque National du GDR SoC-SiP</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Evaluating signal reliability of logic circuits by signal probability</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>NAVINER, L ; NAVINER, J ; FRANCO, D. T. ; VASCONCELOS, M</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10935</int>
+  </void>
+  <void property="localPublicado">
+   <string>Fault-Tolerant Distributed Algorithms on VLSI Chips</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Methods and Metrics for Reliability Assessment</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T.; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10948</int>
+  </void>
+  <void property="localPublicado">
+   <string>Design, Automation and Test in Europe, 2009, Nice. Proceedings of DATE 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>SPR Tool: Signal Reliability Analysis of Logic Circuits</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MADRUGA, Felipe ; DUARTE FILHO, Nelson Lopes ; COELHO, Rafael ; PIAS, Marcelo</string>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11655</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Redes de Computadores - Salão de Ferramentas</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estimando Atrasos em Redes de Computadores Através de Sistemas de Coordenadas - A Ferramenta Euclideana</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, Silvia Silva da Costa ; DUARTE FILHO, Nelson Lopes ; Tyska, J ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, Rodrigo Ruas ; OLIVEIRA, R. R. ; HAX, V.</string>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11656</int>
+  </void>
+  <void property="localPublicado">
+   <string>VII SBGames</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Using Game Engines in Digital Manufacturing through Immersive and Collaborative Visualization Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes ; OLIVEIRA, Vinícius Menezes de ; MELLO JR, Claudio Dornelles ; ESTRADA, Emanuel ; GALERIANO, Marcelo ; CORREA, Ulisses ; DREWS, Paulo</string>
+  </void>
+  <void property="cluster">
+   <int>10757</int>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11654</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Sistemas Elétricos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT - Sistema Robótico de Inspeção para Linhas de Distribuição Elétrica Subterrâneas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes; PEDONE, Fernando Lopes</string>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11661</int>
+  </void>
+  <void property="localPublicado">
+   <string>EuroSys 2008, 2008, Glasgow. Anais do 2nd Workshop on Dependable Distributed Data (WDDDM&apos;08)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>DSMDB: A Distributed Shared Memory Approach for Building Replicated Database Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes; BOTELHO, Silvia Silva da Costa ; CARVALHO, J. ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, Rodrigo Ruas ; HAX, V.</string>
+  </void>
+  <void property="cluster">
+   <int>11624</int>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11624</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Automated Platform for Immersive and Collaborative Visualization of Industrial Models. Engineering of Complex Computer Systems. 1ed</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes; BOTELHO, Silvia Silva da Costa ; Tyska, J ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, R. R. ; OLIVEIRA, Rodrigo Ruas ; HAX, V.</string>
+  </void>
+  <void property="cluster">
+   <int>11479</int>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11653</int>
+  </void>
+  <void property="localPublicado">
+   <string>INCOM 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Multi-Cave Visualization System for Digital Manufacturing</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, J. F. L. ; PINTO, W. T. ; GOMES, S. C. P. ; ROSA, V. S. ; GERVINI, V. I. ; ROSA, A. L. M. ; Cassel, D. ; HARTMANN, E.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12223</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Seminário e Workshop em Engenharia Oceânica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Construção de um canal de testes para estudo de interação fluido-estrutura</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Cassel, D. ; ROSA, A. L. M. ; HARTMANN, E. ; PEREIRA, I. M. ; MOREIRA, T. G. ; GUIMARAES JR., D. S. ; GERVINI, V. I. ; ROSA, V. S. ; GOMES, S. C. P. ; COELHO, J. F. L. ; PINTO, W. T.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12224</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Seminário e Workshop em Engenharia Oceânica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Desenvolvimento de Controladores para uma Plataforma Móvel Destinada ao Estudo da Interação Fluido-Estrutura</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DAITX, F. F. ; ROSA, V. S. ; COSTA, E. ; BAMPI, S. ; FLORES, P. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12218</int>
+  </void>
+  <void property="localPublicado">
+   <string>2nd International Conference on Signals</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>VHDL generation of optimized FIR filters</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; GERVINI, V. I. ; GOMES, S. C. P. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12191</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A hardware DC motor emulator</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12219</int>
+  </void>
+  <void property="localPublicado">
+   <string>IFIP International Conference on Very Large Scale Integration. VLSI - SoC 2008.</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Novel Hardware Architecture Dedicated to Binary Arithmetic Decoder Engines for the H.264/AVC CABAD</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12220</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Workshop Iberchip</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design and Implementation of a High-Performance Architecture for Binarization Methods of Defined by H.264/AVC Standard</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MOREIRA, T. G. ; GUIMARAES JR., D. S. ; DINIZ, C. M. ; ROSA, V. S. ; GOMES, S. C. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12221</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Workshop Iberchip</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>FPGA Implementation of a AC Motor Controller with a hardware/software codesign approach</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12222</int>
+  </void>
+  <void property="localPublicado">
+   <string>21st Symposium on Integrated Circuits and Systems Design</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Novel Hardware Architecture Design for Binary Arithmetic Decoder Engines Based on Bitstream Flow Analysis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>SOARES, L. B. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12214</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Data storage using Compact Flash card and Hardware/Software Interface for FPGA Embedded Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; Altamiro A. Susin ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12216</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A High Performance H.264 Deblocking Filter Hardware Architecture</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Cassel, D. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12217</int>
+  </void>
+  <void property="localPublicado">
+   <string>24º simpósio sul de microeletrônica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of Hardware/Software board for the Real Time Control of Robotic Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; Altamiro A. Susin ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12213</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 3rd Pacific-Rim Symposium on Image and Video Technology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A high performance H.264 Deblocking Filter</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, A. L. M. ; TADEO, G. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12215</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of Electronic Interfaces to Control Robotic Systems Using FPGA</string>
+  </void>
+ </object>
+</java>

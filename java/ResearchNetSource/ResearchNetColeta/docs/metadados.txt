@@ -1,0 +1,60 @@
+dados a serem salvos
+
+Tipo 	(AP, AA, TC, LP, CL)
+titulo 	(AP, AA, TC, LP, CL)
+autores (AP, AA, TC, LP, CL)
+paginas (AP, AA, TC, LP, CL)
+ano 	(AP, AA, TC, LP, CL)
+volume 	(AP, TC, LP, CL)
+doi 	(AP, AA)
+revista	(AP, AA)
+numero 	(AP, AA)
+edicao 	(LP, CL)
+Evento	(TC)
+livro	(CL)
+editora (CL)
+
+AP Artigo em periodico:
+doi *
+autores *
+titulo *
+revista *
+volume * 
+paginas * 
+numero * 
+ano * 
+
+AA Artigo Aceito:
+doi *
+autores *
+titulo *
+revista *
+paginas * 
+numero * 
+ano * 
+
+TC Trabalho em congresso
+autores * 
+titulo * 
+nomeDoEvento *
+ano * 
+volume * 
+paginas * 
+
+LP Livro Publicado
+autores * 
+titulo * 
+edicao * 
+ano * 
+volume * 
+paginas * 
+
+CL Cap Livro Publicado
+autores * 
+titulo * 
+livro *
+edicao * 
+editora *
+ano *
+volume *
+paginas *

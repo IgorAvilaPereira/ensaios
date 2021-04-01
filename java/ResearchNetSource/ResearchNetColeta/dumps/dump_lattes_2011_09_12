@@ -1,0 +1,497 @@
+--
+-- PostgreSQL database dump
+--
+
+SET statement_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = off;
+SET check_function_bodies = false;
+SET client_min_messages = warning;
+SET escape_string_warning = off;
+
+SET search_path = public, pg_catalog;
+
+SET default_tablespace = '';
+
+SET default_with_oids = false;
+
+--
+-- Name: capitulo; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE capitulo (
+    id_capitulo integer NOT NULL,
+    livro character varying,
+    edicao character varying,
+    editora character varying,
+    volume character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.capitulo OWNER TO postgres;
+
+--
+-- Name: capitulo_id_capitulo_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE capitulo_id_capitulo_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.capitulo_id_capitulo_seq OWNER TO postgres;
+
+--
+-- Name: capitulo_id_capitulo_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE capitulo_id_capitulo_seq OWNED BY capitulo.id_capitulo;
+
+
+--
+-- Name: capitulo_id_capitulo_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('capitulo_id_capitulo_seq', 1, false);
+
+
+--
+-- Name: conferencia; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE conferencia (
+    id_conferencia integer NOT NULL,
+    volume character varying,
+    evento character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.conferencia OWNER TO postgres;
+
+--
+-- Name: conferencia_id_conferencia_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE conferencia_id_conferencia_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.conferencia_id_conferencia_seq OWNER TO postgres;
+
+--
+-- Name: conferencia_id_conferencia_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE conferencia_id_conferencia_seq OWNED BY conferencia.id_conferencia;
+
+
+--
+-- Name: conferencia_id_conferencia_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('conferencia_id_conferencia_seq', 1, false);
+
+
+--
+-- Name: livro; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE livro (
+    id_livro integer NOT NULL,
+    edicao character varying,
+    volume character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.livro OWNER TO postgres;
+
+--
+-- Name: livro_id_livro_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE livro_id_livro_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.livro_id_livro_seq OWNER TO postgres;
+
+--
+-- Name: livro_id_livro_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE livro_id_livro_seq OWNED BY livro.id_livro;
+
+
+--
+-- Name: livro_id_livro_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('livro_id_livro_seq', 1, false);
+
+
+--
+-- Name: membros; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE membros (
+    id_membro integer NOT NULL,
+    nome character varying,
+    id_lattes character varying
+);
+
+
+ALTER TABLE public.membros OWNER TO postgres;
+
+--
+-- Name: publicacao; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE publicacao (
+    id_publicacao integer NOT NULL,
+    tipo character varying(2),
+    titulo character varying,
+    autores character varying,
+    ano integer,
+    paginas character varying
+);
+
+
+ALTER TABLE public.publicacao OWNER TO postgres;
+
+--
+-- Name: publicacao_id_publicacao_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE publicacao_id_publicacao_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.publicacao_id_publicacao_seq OWNER TO postgres;
+
+--
+-- Name: publicacao_id_publicacao_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE publicacao_id_publicacao_seq OWNED BY publicacao.id_publicacao;
+
+
+--
+-- Name: publicacao_id_publicacao_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('publicacao_id_publicacao_seq', 1, false);
+
+
+--
+-- Name: revista; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE revista (
+    id_revista integer NOT NULL,
+    doi character varying,
+    revista character varying,
+    volume character varying,
+    numero character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.revista OWNER TO postgres;
+
+--
+-- Name: revista_aceito; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE revista_aceito (
+    id_revista_aceito integer NOT NULL,
+    doi character varying,
+    revista character varying,
+    numero character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.revista_aceito OWNER TO postgres;
+
+--
+-- Name: revista_aceito_id_revista_aceito_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE revista_aceito_id_revista_aceito_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.revista_aceito_id_revista_aceito_seq OWNER TO postgres;
+
+--
+-- Name: revista_aceito_id_revista_aceito_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE revista_aceito_id_revista_aceito_seq OWNED BY revista_aceito.id_revista_aceito;
+
+
+--
+-- Name: revista_aceito_id_revista_aceito_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('revista_aceito_id_revista_aceito_seq', 1, false);
+
+
+--
+-- Name: revista_id_revista_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE revista_id_revista_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.revista_id_revista_seq OWNER TO postgres;
+
+--
+-- Name: revista_id_revista_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE revista_id_revista_seq OWNED BY revista.id_revista;
+
+
+--
+-- Name: revista_id_revista_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('revista_id_revista_seq', 1, false);
+
+
+--
+-- Name: id_capitulo; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE capitulo ALTER COLUMN id_capitulo SET DEFAULT nextval('capitulo_id_capitulo_seq'::regclass);
+
+
+--
+-- Name: id_conferencia; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE conferencia ALTER COLUMN id_conferencia SET DEFAULT nextval('conferencia_id_conferencia_seq'::regclass);
+
+
+--
+-- Name: id_livro; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE livro ALTER COLUMN id_livro SET DEFAULT nextval('livro_id_livro_seq'::regclass);
+
+
+--
+-- Name: id_publicacao; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE publicacao ALTER COLUMN id_publicacao SET DEFAULT nextval('publicacao_id_publicacao_seq'::regclass);
+
+
+--
+-- Name: id_revista; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE revista ALTER COLUMN id_revista SET DEFAULT nextval('revista_id_revista_seq'::regclass);
+
+
+--
+-- Name: id_revista_aceito; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE revista_aceito ALTER COLUMN id_revista_aceito SET DEFAULT nextval('revista_aceito_id_revista_aceito_seq'::regclass);
+
+
+--
+-- Data for Name: capitulo; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY capitulo (id_capitulo, livro, edicao, editora, volume, id_publicacao) FROM stdin;
+\.
+
+
+--
+-- Data for Name: conferencia; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY conferencia (id_conferencia, volume, evento, id_publicacao) FROM stdin;
+\.
+
+
+--
+-- Data for Name: livro; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY livro (id_livro, edicao, volume, id_publicacao) FROM stdin;
+\.
+
+
+--
+-- Data for Name: membros; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY membros (id_membro, nome, id_lattes) FROM stdin;
+\.
+
+
+--
+-- Data for Name: publicacao; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY publicacao (id_publicacao, tipo, titulo, autores, ano, paginas) FROM stdin;
+\.
+
+
+--
+-- Data for Name: revista; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY revista (id_revista, doi, revista, volume, numero, id_publicacao) FROM stdin;
+\.
+
+
+--
+-- Data for Name: revista_aceito; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY revista_aceito (id_revista_aceito, doi, revista, numero, id_publicacao) FROM stdin;
+\.
+
+
+--
+-- Name: capitulo_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY capitulo
+    ADD CONSTRAINT capitulo_pkey PRIMARY KEY (id_capitulo);
+
+
+--
+-- Name: conferencia_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY conferencia
+    ADD CONSTRAINT conferencia_pkey PRIMARY KEY (id_conferencia);
+
+
+--
+-- Name: id_membros; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY membros
+    ADD CONSTRAINT id_membros PRIMARY KEY (id_membro);
+
+
+--
+-- Name: id_publi; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY publicacao
+    ADD CONSTRAINT id_publi PRIMARY KEY (id_publicacao);
+
+
+--
+-- Name: livro_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY livro
+    ADD CONSTRAINT livro_pkey PRIMARY KEY (id_livro);
+
+
+--
+-- Name: revista_aceito_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY revista_aceito
+    ADD CONSTRAINT revista_aceito_pkey PRIMARY KEY (id_revista_aceito);
+
+
+--
+-- Name: revista_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY revista
+    ADD CONSTRAINT revista_pkey PRIMARY KEY (id_revista);
+
+
+--
+-- Name: capitulo_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY capitulo
+    ADD CONSTRAINT capitulo_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: conferencia_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY conferencia
+    ADD CONSTRAINT conferencia_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: livro_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY livro
+    ADD CONSTRAINT livro_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: revista_aceito_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY revista_aceito
+    ADD CONSTRAINT revista_aceito_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: revista_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY revista
+    ADD CONSTRAINT revista_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: public; Type: ACL; Schema: -; Owner: postgres
+--
+
+REVOKE ALL ON SCHEMA public FROM PUBLIC;
+REVOKE ALL ON SCHEMA public FROM postgres;
+GRANT ALL ON SCHEMA public TO postgres;
+GRANT ALL ON SCHEMA public TO PUBLIC;
+
+
+--
+-- PostgreSQL database dump complete
+--
+

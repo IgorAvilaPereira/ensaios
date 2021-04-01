@@ -1,0 +1,3368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_17" class="java.beans.XMLDecoder">
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Marcelo Paravisi ; WERHLI, A. V. ; Julio C. S. Jaques Jr. ; RODRIGUES, R. ; BICHO, A. ; JUNG, C. R. ; MUSSE, S. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4328</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4328</int>
+  </void>
+  <void property="localPublicado">
+   <string>Computer Graphics International, 2008, Istanbul. Proceedings of Computer Graphics International</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Continuum Crowds with Local Control</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Grzegorczyk, Marco ; Husmeier, D. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4323</int>
+  </void>
+  <void property="localPublicado">
+   <string>Frank Emmert-Streib; Matthias Dehmer. (Org.). Analysis of Microarray Data - A Network-Based Approach. 1ed.Weinheim</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Reverse Engineering Gene Regulatory Networks with Various Machine</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, ADRIANO V. ; HUSMEIER, DIRK</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4319</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of Bioinformatics and Computational Biology (Print)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>GENE REGULATORY NETWORK RECONSTRUCTION BY BAYESIAN INTEGRATION OF PRIOR KNOWLEDGE AND/OR DIFFERENT EXPERIMENTAL CONDITIONS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Botelho, S. S. C. ; BRAUNSTEI, S. H. ; WERHLI, A. V.</string>
+  </void>
+  <void property="cluster">
+   <int>4327</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4327</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simposio Brasileiro de Automação Inteligente, 2009, Brasília. Anais do IX Simpósio Brasileiro de Automação Inteligente,</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Análise Exploratória de Dados para o Desenvolvimento de Sistemas de Previsão de Alarmes em Plantas Industriais</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4333</int>
+  </void>
+  <void property="localPublicado">
+   <string>9th European Conference on Computational Biology, 2010, Ghent. 9th European Conference on Computational Biology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Comparison of Bayesian networks and its extensions applied to the inference of regulatory networks</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4325</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Artificial Intelligence, 2010, São Bernardo do Campo. Lecture Notes in Artificial Intelligence, subseries of Lecture Notes in Computer Science. Berlim: Springer-Verlag</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Bayesian Network Structure Inference with an Hierarchical Bayesian Model</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Mendoza, M. R. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4326</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Neural network, 2010, São Bernardo do Campo. 2010 Eleventh Brazilian Symposium on Neural Networks (SBRN 2010). California: Conference Publishing Services (CPS)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Inferring Genetic Regulatory Networks with an Hierarchical Bayesian Model and a Parallel Sampling Algorithm</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, A. V. (Org.) ; Emmendorfer, L. R. (Org.) ; COSTA, A. C. R. (Org.) ; Retamoso, M. (Org.)</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4321</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>IV MCSUL Southern Conference on Computational Modeling / IX ERMAC Encontro regional de Matemática Aplicada e Computacional</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Adamatti, D. F. (Org.) ; LUGO, G.G (Org.) ; Emmendorfer, L. R. (Org.) ; WERHLI, A. V. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>4320</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4320</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do IV Workshop- Escola de Sistemas de Agentes, seus Ambientes e apliCações. Rio Grande: FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Mendoza, M. R. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4334</int>
+  </void>
+  <void property="localPublicado">
+   <string>9th European Conference on Computational Biology, 2010, Ghent. 9th European Conference on Computational Biology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inferring genetic regulatory networks with an hierarchical Bayesian model and a parallel sampling algorithm</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LORENZ, W. G. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4332</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - FURG, 2011, Rio Grande. Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Data Mining: Aplicado ao Caso de Alunos com Subsídio no Núcleo de Assistência Estudantil - NAE da Universidade Federal do Rio Grande - FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>WAGNER, A. ; Emmendorfer, L. R. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4329</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Seminário de Iniciação Científica da UNIJUÍ, 2011, Ijuí. Salão do Conhecimento - XIX Seminário de Iniciação Científica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>DESCOBERTA DE CONHECIMENTO EM BANCOS DE DADOS: APLICADO AO CASO DE ALUNOS COM SUBSÍDIO NO NÚCLEO DE ASSITÊNCIA ESTUDANTIL NAE DA UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BARRETO, N. M. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4330</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande. Mostra de Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inferência de Redes Genéticas Regulatórias Utilizando Redes Booleanas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE, K. P. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4331</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - FURG, 2011, Rio Grande. Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inferência de Estrutura de Redes Biológicas com a Combinação de Métricas de Redes Bayesianas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Husmeier, D. ; WERHLI, A. V. ; Grzegorczyk, Marco</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4322</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPH Stumpf; DJ Balding; M. Girolami. (Org.). Handbook of Statistical Systems Biology. Chichester</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Advanced Applications of Bayesian Networks in Systems Biology</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Mendoza, M. R. ; WERHLI, A. V. ; BAZZAN, A. L. C.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4324</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Redes Neurais, 2012, Curitiba. Proc. of the SBRN 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An epsilon-greedy mutation operator based on prior knowledge for GA convergence and accuracy improvement: an application to networks inference</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>4318</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Comparing the reconstruction of regulatory pathways with distinct Bayesian networks inference methods</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S. ; SCHROEDER, E. K. ; RUIZ, D. D. A. ; Winck, A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4853</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Brazilian Simposium on Bioinformatics, 2008, Santo André. LNBI-LNCS. Advances in Bioinformatics and Computational Biology.. Berlin: Springer-Verlag</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Extracting Information from Flexible Receptor-Flexible Ligand Docking Experiments</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Winck, A. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4856</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Brasilian Symposium on Bioinformatics, 2009, Porto Alegre. LNBI-LNCS. Advances in Bioinformatics and Computational Biology.. Berlin: Springer-Verlag</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>FReDD: supporting mining strategies though a flexible-receptor docking database</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S. ; SCHROEDER, E. K. ; RUIZ, D. D. A. ; COHEN, E. M. L. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4864</int>
+  </void>
+  <void property="localPublicado">
+   <string>6th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2010, Ouro Preto, MG. Abstracts Book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>FREDOWS: A METHOD TO AUTOMATE MOLECULAR DOCKING SIMULATIONS WITH EXPLICIT RECEPTOR FLEXIBILITY AND SNAPSHOTS SELECTION</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S. ; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4846</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Mining flexible-receptor docking experiments to select promising protein receptor snapshots</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, A. T. ; MACHADO, K. S. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4848</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adriano C. Machado Pereira; Gisele Lobo Pappa. Marco Winckler; Roberta Lima Gomes.. (Org.). Tópicos em sistemas colaborativos, multimídia, web e banco de dados.. Porto Alegre</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Processo de KDD aplicado à bioinformática</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Winck, A. ; MACHADO, K. S. ; RUIZ, D. D. A. ; STRUBE de LIMA, V. L.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4850</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Twenty Third International Conference on Industrial, Engineering Other Applications of Applied Intelligent Systems, 2010, Córdoba. Trends in Applied Intelligent Systems. IEA/AIE 2010 Part III LNAI-LNCS. Berlin: Springer-Verlag</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Association Rules to Identify Receptor and Ligands Structures thourgh Named Entities Recognition</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S. ; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4851</int>
+  </void>
+  <void property="localPublicado">
+   <string>IADIS International Conference Applied Computing, 2010, Timisoara. Applied Computing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Comparison of Discretization Methods of Flexible-Receptor Docking Data for Analyses by Decision Trees</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, A. T. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4852</int>
+  </void>
+  <void property="localPublicado">
+   <string>IADIS International Conference Applied Computing, 2010, Timisoara. Applied Computing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Supporting Intermolecular Interaction Analyses of Flexible-Receptor Docking Simulations</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, A. T. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4860</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB Latin America 2010, 2010, Montevideo. International Society for Computational Biology Latin America Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Context-Based Preprocessing on Flexible-Receptor Docking Data</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>QUEVEDO, C. V. ; WINCK, A. T. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4861</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB Latin America 2010, 2010, Montevideo. International Society for Computational Biology Latin America Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Study of Molecular Descriptor to Rank Candidate Ligands to Inhibit the InhA Receptor</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S. ; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4862</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB Latin America, 2010, Montevideo. International Society for Computational Biology Latin America Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Applying Model Trees on Flexible-Receptor Docking Experiments to select promising protein receptor snapshots</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COHEN, E. M. L. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4863</int>
+  </void>
+  <void property="localPublicado">
+   <string>ISCB Latin America, 2010, Montevideo. International Society for Computational Biology Latin America Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>The effect of InhA flexibility in docking simulations with ethionamide and triclosan</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COHEN, E. M. L. ; MACHADO, K. S. ; COHEN, M. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4865</int>
+  </void>
+  <void property="localPublicado">
+   <string>6th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2010, Ouro Preto. Abstracts Book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>EFFECT OF THE EXPLICIT FLEXIBILITY OF THE INHA ENZYME FROM MYCOBACTERIUM TUBERCULOSIS IN MOLECULAR DOCKING SIMULATIONS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S. ; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4855</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Bioinformatics, 2010, Búzios. LNBI-LNCS. Advances in Bioinformatics and Computational Biology.. Berlin: Springer-Verlag</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Discretization of Flexible-Receptor Docking Data</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Cohen, Elisangela ML ; MACHADO, K. S. ; Cohen, Marcelo ; Norberto de Souza, Osmar</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4845</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Effect of the explicit flexibility of the InhA enzyme from Mycobacterium tuberculosis in molecular docking simulations</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Cornetet, L. R. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4859</int>
+  </void>
+  <void property="localPublicado">
+   <string>10º Mostra da Produção Universitária, 2011, Rio Grande. 10º Mostra da Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Workflow Científico para Dinâmica Molecular</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S. ; Schroeder, Evelyn K ; Ruiz, Duncan D ; Cohen, Elisângela ML ; Norberto de Souza, Osmar</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4844</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Genomics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>FReDoWS: a method to automate molecular docking simulations with explicit receptor flexibility and snapshots selection</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, K. S. ; WINCK, A. T. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4843</int>
+  </void>
+  <void property="localPublicado">
+   <string>Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Mining flexible-receptor molecular docking data</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Cornetet, L. R. ; WERHLI, A. V. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4858</int>
+  </void>
+  <void property="localPublicado">
+   <string>Xmeeting, 2011, Florianópolis. 2011 Abstract book</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Scientific Workflow for Performing Molecular Dynamics Simulation</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BERNARDI, C. A. C. ; MADALOSSO, O. M. ; CHARAO, A. S. ; WINCK, A. T. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4854</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Simpósio em Sistemas Computacionais (WSCAD-SSC), 2012, Petrópolis, RJ. Anais do XIII Simpósio em Sistemas Computacionais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Análise de Profilers para Programas em Java: Estudo de Caso Aplicado ao Algoritmo M5P do Software Weka</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Barros, R. C. ; WINCK, A. T. ; MACHADO, K. S. ; BASGALUPP, M. P. ; CARVALHO, A. C. P. F. L. ; RUIZ, D. D. A. ; NORBERTO DE SOUZA, O</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4847</int>
+  </void>
+  <void property="localPublicado">
+   <string>BMC Bioinformatics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>AA</string>
+  </void>
+  <void property="titulo">
+   <string>Automatic Design of Decision-Tree Induction Algorithms Tailored to Flexible-Receptor Docking Data</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>WINCK, A. T. ; QUEVEDO, C. V. ; MACHADO, K. S. ; NORBERTO DE SOUZA, O ; RUIZ, D. D. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4849</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Bioinformatics, 2012, Campo Grande. LNBI-LNCS. Advances in Bioinformatics and Computational Biology. Berlin: Springer-Verlag</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Comparative Analysis of Public Ligand Databases Based on Molecular Descriptors</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PERAZZO, G. X. ; WINCK, A. T. ; MACHADO, K. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>23</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4857</int>
+  </void>
+  <void property="localPublicado">
+   <string>8th International Conference of the Brazilian Association for Bioinformatics and Computational Biology, 2012, Campinhas-SP. X-Meeting 2012 -</string>
+  </void>
+  <void property="nome_membro">
+   <string>Karina dos Santos Machado</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Application Of Data Mining To Select Promising Compounds Based on Molecular Descriptors</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>CAIUTA, R. ; POZO, Aurora Trinidad Ramirez ; EMMENDORFER, L. R. ; VERGILIO, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4875</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Joint Conference on Neural Networks (IJCNN2008), 2008, Hong Kong. International Joint Conference on Neural Networks (IJCNN2008)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Selecting Software Reliability Models with a Neural Network Meta Classifier</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L. R. ; POZO, Aurora Trinidad Ramirez</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4871</int>
+  </void>
+  <void property="localPublicado">
+   <string>Ying-ping Chen,; Meng-Hiot Lim. (Org.). Linkage in evolutionary computation. Studies in Computational Intelligence. New York</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Clustering-based Approach for Linkage Learning Applied to Multimodal Optimization</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Emmendorfer, Leonardo Ramos ; POZO, Aurora Trinidad Ramirez</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4868</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Transactions on Evolutionary Computation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Effective Linkage Learning Using Low-Order Statistics and Clustering</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4877</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Conference on Evolutionary Computation, 2010, Valencia, Espanha. Proceedings</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>On the design of populational clustering</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>EMMENDORFER, L. R. ; ADAMATTI, D. F. ; SILVEIRA, J. ; PAES, T.</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4872</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações, 2010, Rio Grande. Anais do IV Wesaac</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F. ; WERHLI, A. V. ; LUGO. G. G. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4320</int>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4869</int>
+  </void>
+  <void property="localPublicado">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do IV Workshop- Escola de Sistemas de Agentes, seus Ambientes e apliCações</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>PAES, T. ; SILVEIRA, J. ; ADAMATTI, D. F. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4599</int>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4873</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2010, Rio Grande. Anais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Poder de Captura das Árvores de Decisão para o Comportamento de Agentes</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>PAES, T. ; SILVEIRA, J. ; ADAMATTI, D. F. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4573</int>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4870</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adamatti, D. .F... (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições.. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F. ; PAES, T. ; SILVEIRA, J. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4602</int>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4874</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Conferência Sul de Modelagem Computacional, 2010, Rio Grande. Anais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Effectiveness of Decision Trees for Detecting the Behavior of Agents</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. ; PAES, T. ; ADAMATTI, D. F. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4652</int>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4880</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra de produção universitária, 2010, Rio Grande. Mostra de Produção Universitária 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem da Dinâmica do Fluxo Granular Através de Autômatos Celulares e Simulação Baseada em Agentes</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, R. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4866</int>
+  </void>
+  <void property="localPublicado">
+   <string>ICCEEg - Revista Jr de Iniciação Científica em Ciências Exatas e Engenharia,</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Estratégia Híbrida para o Problema de Empacotamento</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LORENZ, W. ; WERHLI, A. V. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4876</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Seminário de Iniciação Científica, 2011, Ijuí. Anais do XIX Seminário de Iniciação Científica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Descoberta de conhecimento em bancos de dados aplicada ao caso de alunos com subsídio</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, R. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4878</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Encontro Regional de Estudantes de Matemática do Sul, 2011, Curitiba. Anais do XVII Encontro Regional de Estudantes de Matemática do Sul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma estratégia híbrida para o problema de empacotamento de duas elipses</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LORENZ, W. ; WERHLI, A. V. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4879</int>
+  </void>
+  <void property="localPublicado">
+   <string>10a Mostra de Produção Universitária - MPU, 2011, Rio Grande. Anais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Data Mining aplicado ao caso de alunos com subsídio do núcleo de assistência estudantil da Universidade Federal do Rio Grande - FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>NEVES, C. ; BRUM, R. S. ; KIRINUS, E. ; SANTOS, R. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>24</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4867</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Jr de Iniciação Científica em Ciências Exatas e Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Leonardo Ramos Emmendorfer</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem Ambiental: Perspectivas e Contribuições</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>WIECZOREK, I. A. ; MENDIZABAL, O. M. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4503</int>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4968</int>
+  </void>
+  <void property="localPublicado">
+   <string>10ª Mostra de Produção Universitária, 2011, Rio Grande. 10ª Mostra de Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Elicitação de Requisitos para o Desenvolvimento de Ferramentas Educacionais para o Ensino de Organização e arquitetura de Computadores</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>JACOBI, E. B. ; HAX, V. A. ; Tyska, J. C ; DUARTE FILHO, Nelson Lopes ; MENDIZABAL, O. M.</string>
+  </void>
+  <void property="cluster">
+   <int>4967</int>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4967</int>
+  </void>
+  <void property="localPublicado">
+   <string>10ª Mostra de Produção Universitária, 2011, Rio Grande. 10ª Mostra de Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Implementação de uma Infraestrutura para Nuvem Computacional</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>POPIOLEK, P. ; MENDIZABAL, O. M.</string>
+  </void>
+  <void property="cluster">
+   <int>4966</int>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4966</int>
+  </void>
+  <void property="localPublicado">
+   <string>10ª Mostra de Produção Universitária, 2011, Rio Grande. 10ª Mostra de Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Gerência Dinâmica de Máquinas Virtuais para Computação em Nuvem</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LIBARDONI, M. ; VARGAS, André Prisco ; MENDIZABAL, O. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4969</int>
+  </void>
+  <void property="localPublicado">
+   <string>10ª Mostra de Produção Universitária, 2011, Rio Grande. 10ª Mostra de Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo de Tecnologias para Dispositivos Móveis</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>POPIOLEK, P. ; MENDIZABAL, O. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4960</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Redes de Computadores, 2012, Pelotas. X Escola Regional de Redes de Computadores</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Monitoramento e Análise do Impacto no Desempenho em Ambientes Virtualizados</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GIL, J. P. S. ; VARGAS, André Prisco ; MENDIZABAL, O</string>
+  </void>
+  <void property="cluster">
+   <int>4374</int>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4964</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra da Produção Universitária, 2012, Rio Grande. MPU - Mostra da Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Suprte a Comunicação em Grupo para Dispositivos Móveis Utilizando Wi-Fi</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>JACOBI, E. B. ; POPIOLEK, P. ; HAX, V. A. ; Tyska, J. C ; DUARTE FILHO, Nelson Lopes ; MENDIZABAL, O. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4959</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Jr de Iniciação Científica em Ciências Exatas e Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>AA</string>
+  </void>
+  <void property="titulo">
+   <string>O Modelo de Computação em Nuvem e sua Aplicabilidade</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>HAX, V. A. ; BOTELHO, S. ; DUARTE FILHO, Nelson Lopes ; MENDIZABAL, O. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4961</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Redes de Computadores, 2012, Pelotas. X Escola Regional de Redes de Computadores</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo da Viabilidade do ROS como Plataforma para IoT</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MULLER, R. H. ; MENDIZABAL, O</string>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4963</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra da Produção Universitária, 2012, Rio Grande. MPU - Mostra da Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Geração de Carga para Processamento de Transações Online Usando TPC-C</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MENDIZABAL, O. M. ; SPIER, M. ; SAAD, R.</string>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4962</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE International Requirements Engineering Conference (RE), 2012, Chicago. 20th IEEE International Requirements Engineering Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Log-Based Approach for Performance Requirements Elicitation and Prioritization</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>POPIOLEK, P. ; MENDIZABAL, O</string>
+  </void>
+  <void property="id_membro">
+   <int>28</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4965</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra da Produção Universitária, 2012, Rio Grande. MPU - Mostra da Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Odorico Machado Mendizabal</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Virtualização de Servidores: Monitoramento de Recursos e Análise de Desempenho</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C. ; GOMES, S. C. P.</string>
+  </void>
+  <void property="cluster">
+   <int>5061</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5061</int>
+  </void>
+  <void property="localPublicado">
+   <string>5th Latin American Robotics Symposium - LARS, 2008, Salvador. Proceedings of the 5th Latin American Robotics Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>SLAM in Underwater Environment using SIFT and Topologic Maps</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>CENTENO, M. L. ; GOMES, S. C. P. ; PEREIRA, I. M. ; DINIZ, Claudio Machado ; DREWS JR, P. L. J. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5060</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Seminário e Workshop de Engenharia Oceânica, 2008, Rio Grande. Anais do III Seminário e Workshop de Engenharia Oceânica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Controle em Profundidade de um Veículo Subaquático do Tipo ROV</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C. ; MEDEIROS, M. M. ; GONCALVES, E. M. N.</string>
+  </void>
+  <void property="cluster">
+   <int>4665</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5057</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Congresso Brasileiro de Automática, 2008, Juiz de Fora - MG - Brazil. Anais do XVII Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>SIFT and Topologic Maps applied to robotic SLAM in Underwater Environment</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; OLIVEIRA, V. M. ; DUARTE FILHO, N. L. ; MELLO JÚNIOR, C. D. ; ESTRADA, E. D. ; GALERIANO, M. P. ; DREWS JR, P. L. J. ; CORREA, U. B.</string>
+  </void>
+  <void property="cluster">
+   <int>4469</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5055</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simposio Brasileiro de Sistemas Elétricos, 2008, Belo Horizonte. Anais do SBSE 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Sistema Robótico de Inspeção para Linhas de Distribuição Elétrica Subterrâneas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>5017</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5017</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Eletrônica de Iniciação Científica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Abordagem Baseada em Visão Computacional para Localização e Mapeamento Simultâneos de Robôs Subaquáticos. REIC</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>5056</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5056</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso da Sociedade Brasileira de Computação - Concurso de Trabalhos de Iniciação Científica, 2008, Belem. Anais do XXVIII Congresso da Sociedade Brasileira de Computação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Abordagem Baseada em Visão Computacionalpara Localização e Mapeamento Simultâneos de Robôs Subaquáticos</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C. ; OLIVEIRA, G. L.</string>
+  </void>
+  <void property="cluster">
+   <int>5058</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5058</int>
+  </void>
+  <void property="localPublicado">
+   <string>MTS/IEEE Oceans, 2008, Quebec. Proc. of the MTS/IEEE Oceans</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>NLMAP - Visual-based Self Localization and Mapping for Autonomous Underwater Vehicles</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>5059</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5059</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop of Undergraduate Work - Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI), 2008, Campo Grande. Proceedings of the XXI Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Visão Computacional aplicada à Localização e Mapeamento Simultâneos de Robôs Subaquáticos</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; OLIVEIRA, G. L. ; DREWS JR, P. L. J. ; FIGUEIREDO, M.</string>
+  </void>
+  <void property="cluster">
+   <int>5051</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5051</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Latin American Robotics Symposium (LARS), 2009, Valparaiso - Chile. Proceedings of IEEE Latin American Robotics Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Visual Odometry and Mapping for Underwater Autonomous Vehicles</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; OLIVEIRA, G. L. ; FIGUEIREDO, M. ; HAFFELE, C.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5052</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Automação Inteligente (SBAI), 2009, Brasilia. Anais do Simpósio Brasileiro de Automação Inteligente (SBAI)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Visual Odometry and Mapping for Underwater Autonomous Vehicles</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; HAFFELE, C. ; OLIVEIRA, G. L. ; FIGUEIREDO, M. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5053</int>
+  </void>
+  <void property="localPublicado">
+   <string>III MCSUL - 3rd Southern Conference on Computational Modelling, 2009, Rio Grande - Brazil. Anais do III MCSUL</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Self Organizing Maps for AUVs Mapping</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C. ; CAMPOS, M. F. M.</string>
+  </void>
+  <void property="cluster">
+   <int>5050</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5050</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasilia. Anais do IX Simpósio Brasileiro de Automação Inteligente</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Localização de um Robô Subterrâneo Para Inspeção de Linhas de Transmissão</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>NUNEZ, P. ; DREWS JR, P. L. J. ; ROCHA, R. P. P. ; DIAS, J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5048</int>
+  </void>
+  <void property="localPublicado">
+   <string>European Conference on Mobile Robots, 2009, Dubrovnik. Proceedings of the 4th European Conference on Mobile Robots</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Data Fusion Calibration for a 3D Laser Range Finder and a Camera using Inertial Data</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>NUNEZ, P. ; DREWS JR, P. L. J. ; ROCHA, R. P. P. ; CAMPOS, M. F. M. ; DIAS, J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5047</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 2009 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2009, St. Louis USA. The 2009 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Novelty Detection and 3D Shape Retrieval based on Gaussian Mixture Models for Autonomous Surveillance Robotics</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>MEIRELES, A. B. ; CORNACCHIA, T. M. ; CASAS, E. B. L ; GODOY, G. C. ; MARQUES, F. S. ; DREWS JR, P. L. J. ; ALVES NETO,A. ; CAMPOS, M. F. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5046</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Congress of Mechanical Engineering (COBEM), 2009, Gramado - Brazil. Anais do COBEM 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Multidisciplinary Approach In Tooth Wear: Biomechanical Aspects And Computational View</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>MEIRELES, A. B. ; CORNACCHIA, T. M. ; CASAS, E. B. L ; BASTOS, F. S. ; GODOY, G. C. ; MARQUES, F. S. ; DREWS JR, P. L. J. ; ALVES NETO,A. ; CAMPOS, M. F. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5045</int>
+  </void>
+  <void property="localPublicado">
+   <string>I International Conference on Biodental Engineering, 2009, Porto - Portugal. I International Conference on Biodental Engineering</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Methods for Assessing Dental Wear in Bruxism</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>FARIA, D. R. ; PRADO, J. A. S. ; DREWS JR, P. L. J. ; DIAS, J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5049</int>
+  </void>
+  <void property="localPublicado">
+   <string>European Conference on Mobile Robots, 2009, Dubrovnik. Proceedings of the 4th European Conference on Mobile Robots</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Object Shape Retrieval through Grasp Exploration</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; FIGUEIREDO, M. ; HAFFELE, C. ; OLIVEIRA, G. L.</string>
+  </void>
+  <void property="cluster">
+   <int>5016</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5016</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of the Brazilian Computer Society (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Appearance-based odometry and mapping with feature descriptors for underwater robots</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>5015</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5015</int>
+  </void>
+  <void property="localPublicado">
+   <string>Sea Technology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A Visual System For Distributed Mosaics Using AUV Fleets</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; OLIVEIRA, G. L. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="cluster">
+   <int>5054</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5054</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE/OES Oceans, 2009, Bremen, Germany. Proceedings of IEEE/OES Oceans</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A new approach for Visual Underwater Mapping using Topological Shell Maps</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>KHOSHHAL, K. ; ALIAKBARPOUR, H. ; QUINTAS, J. ; DREWS JR, P. L. J. ; DIAS, J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5042</int>
+  </void>
+  <void property="localPublicado">
+   <string>13th International Conference on Information Fusion (FUSION), 2010, Edinburg, UK. Proceedings of 13th International Conference on Information Fusion (FUSION)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Probabilistic LMA-Based Classification of Human Behaviour Understanding Using Power Spectrum Techinique</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; ROCHA, R. P. P. ; DIAS, J. ; CAMPOS, M. F. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5041</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Automática, 2010, Bonito - Brazil. Anais do XVIII Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Detecção de Mudanças e Recuperação de Forma em Mapas 3D Baseados em Nuvens de Pontos</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; QUINTAS, J. ; DIAS, J. ; ANDERSSON, M. ; NYG RDS, J. ; RYDELL, J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5038</int>
+  </void>
+  <void property="localPublicado">
+   <string>13th International Conference on Information Fusion (FUSION), 2010, Edinburgh, UK. Proceedings of 13th International Conference on Information Fusion</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Crowd Behavior Analysis under Cameras Network Fusion using Probabilistic Methods</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; CAMPOS, M. F. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5037</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXII Concurso de Teses e Dissertações da SBC - CSBC, 2010, Belo Horizonte. Anais do Congresso da SBC (CSBC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Detecção de Mudanças e Recuperação de Forma em Mapas 3D Baseados em Nuvens de Pontos</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; NUNEZ, P. ; ROCHA, R. P. P. ; CAMPOS, M. F. M. ; DIAS, J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5036</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE International Conference on Robotics and Automation (ICRA), 2010, Anchorage, USA. Proceedings of the IEEE Int. Conf. on Robotics and Automation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Novelty Detection and 3D Shape Retrieval using Superquadrics and Multi-Scale Sampling for Autonomous Mobile Robots</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MEIRELES, A. B. ; CASAS, E. B. L ; CORNACCHIA, T. M. ; CAMPOS, M. F. M. ; ALVES NETO,A. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5035</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 17th International Conference on Systems, Signals and Image Processing (IWSSIP 2010), 2010, Niteroi, Brazil. Proceedings of the 17th International Conference on Systems, Signals and Image Processing. Niteroi, RJ, Brazil: Editora da Universidade Federal Fluminense</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Computer Vision Algorithm for Detecting Wear in Teeth</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; HAFFELE, C. ; FIGUEIREDO, M. ; OLIVEIRA, G. L. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="cluster">
+   <int>5014</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5014</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Mapas auto-organizáveis em veículos autônomos subaquáticos</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; OLIVEIRA, G. L. ; DREWS JR, P. L. J. ; FIGUEIREDO, M. ; HAFFELE, C.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5018</int>
+  </void>
+  <void property="localPublicado">
+   <string>Hanafiah Yussof. (Org.). Robot Localization and Map Building. Vienna, Austria</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Self-Localization and Mapping for Underwater Autonomous Vehicles</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>OLIVEIRA, G. L. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; FIGUEIREDO, M. ; HAFFELE, C.</string>
+  </void>
+  <void property="cluster">
+   <int>5039</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5039</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE International Conference on Multisensor Fusion and Integration, 2010, Salt Lake, USA. Proceedings of the 2010 IEEE International Conference on Multisensor Fusion and Integration</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Sensor Fusion based on Multi-Self-Organizing Maps for SLAM</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>OLIVEIRA, G. L. ; FIGUEIREDO, M. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; HAFFELE, C.</string>
+  </void>
+  <void property="cluster">
+   <int>5040</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5040</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Automática, 2010, Bonito - Brazil. Anais do XVIII Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Fusao Sensorial de Mapas Auto-Organizáveis para SLAM</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>NUNEZ, P. ; DREWS JR, P. L. J. ; BANDERA, A. ; ROCHA, R. P. P. ; CAMPOS, M. F. M. ; DIAS, J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5043</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE/RSJ International Conference on Intelligent Robots and Systems, 2010, Taipei - Taiwan. Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Change Detection in 3D Environments Based on Gaussian Mixture Model and Robust Structural Matching for Autonomous Robotic Applications</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; HAFFELE, C. ; FIGUEIREDO, M. ; DREWS JR, P. L. J. ; OLIVEIRA, G. L.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5044</int>
+  </void>
+  <void property="localPublicado">
+   <string>Latin American Robotics Symposium, 2010, São Bernardo do Campo - Brazil. Proceedings of VII Latin American Robotics Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Growing Cell Structures applied to Sensor Fusion and SLAM</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>OLIVEIRA ; DREWS JR, P. L. J. ; OLIVEIRA, V. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5073</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária, 2011, Rio Grande, Brazil. X Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Filtragem de Estados Com Restrições de Igualdade Seguindo a Técnica de Projeção Estimativa aplicada sobre o Filtro de KalmanTENDIDO</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BEM, R. A. ; MELO, A. S.</string>
+  </void>
+  <void property="cluster">
+   <int>5032</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5032</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE 9th International Conference on. Industrial Informatics, 2011, Lisboa. IEEE 9th International Conference on. Industrial Informatics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Analyzing and Exploring Feature Detectors in Images</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>KUHN, V. N. ; DREWS JR, P. L. J. ; GOMES, S. C. P. ; BOTELHO, S. S. C. ; CUNHA, M. A. B.</string>
+  </void>
+  <void property="cluster">
+   <int>5033</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5033</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Simpósio Brasileiro de Automática - SBAI 2011, 2011, Sao Joao del Rei - Brazil. Anais do X Simpósio Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Controle automático de um ROV para inspeção de estruturas submersas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MORITA, L. Y. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5069</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária, 2011, Rio Grande, Brazil. X Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Instrumentação Subaquática Utilizando Sonar</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>TURRA, T. A. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5070</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária, 2011, Rio Grande, Brazil. X Mostra de Produção Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inspeção de Cabos Subaquáticos Utilizando Visão Computacional</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, Luan ; MAFFEI, R. Q. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; BICHO, A. L. ; DUARTE FILHO, N. L. ; LONGARAY, M. M. ; ALMEIDA, F. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4342</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5031</int>
+  </void>
+  <void property="localPublicado">
+   <string>ENIA - VIII Encontro Nacional de Inteligência Artificial - CSBC, 2011, Natal. ENIA - VIII Encontro Nacional de Inteligência Artificial - CSBC</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Space D*: Um Algoritmo para Path Planning Multi-Robôs</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, Luan ; MAFFEI, R. Q. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; DUARTE FILHO, N. L. ; BICHO, A. L. ; LONGARAY, M. M. ; ALMEIDA, F. R.</string>
+  </void>
+  <void property="cluster">
+   <int>4343</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5034</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Simpósio Brasileiro de Automática - SBAI 2011, 2011, Sao Joao del Rey - Brazil. Anais do X Simpósio Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>D*-Space: planejando caminhos para sistemas multi-robôs</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SILVA FILHO, S. C. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5071</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária, 2011, Rio Grande, Brazil. X Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Detecção de Mudanças em Nuvens de Pontos Tridimensionais</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, P. N. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5072</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária, 2011, Rio Grande, Brazil. X Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Aprendizado Semi-Supervisionado na Classificação de Algas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FIGUEIREDO, M. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; HAFFELE, C.</string>
+  </void>
+  <void property="cluster">
+   <int>5021</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5021</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Symposium on Neural Networks, 2012, Curitiba, Brazil. Proceedings of Brazilian Symposium on Neural Networks</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Self-organizing mapping of robotic environments based on neural networks</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVA FILHO, S. C. ; DREWS JR, P. L. J. ; BOTELHO, S. S. C. ; NUNEZ, P.</string>
+  </void>
+  <void property="cluster">
+   <int>5023</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5023</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Congresso Brasileiro de Automática, 2012, Campina Grande, Brazil. Anais do XIX Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelando Nuvens de Pontos Tridimensionais como Misturas de Gaussianas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FIGUEIREDO, M. ; HAFFELE, C. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; OLIVEIRA, G. L.</string>
+  </void>
+  <void property="cluster">
+   <int>5024</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5024</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Congresso Brasileiro de Automática, 2012, Campina Grande, Brazil. Anais do XIX Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Utilizando Representações Multi-semânticas para Mapeamento Topológico em Robótica Móvel</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, Luan ; GUTH, F. A. ; FIGUEIREDO, M. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="cluster">
+   <int>5025</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5025</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Congresso Brasileiro de Automática, 2012, Campina Grande, Brazil. Anais do XIX Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelando Head Direction Cells para Estimativa de Orientacão Idiotética de Robôs Móveis</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FIGUEIREDO, M. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; HAFFELE, C.</string>
+  </void>
+  <void property="cluster">
+   <int>5028</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5028</int>
+  </void>
+  <void property="localPublicado">
+   <string>Latin American Robotics Symposium / Brazilian Robotics Symposium (LARS/SBR), 2012, Fortaleza, Brazil. Proceedings of IEEE Latin American Robotics Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Spatial and Perceptive Mapping using Semantically Self-Organizing Maps applied to Mobile Robots</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GUTH, F. A. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5065</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária FURG, 2012, Rio Grande. Anais da XI Mostra de Produção Universitária FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Células Neuronais e a Localização de Ambientes uma alternativa para aplicações de SLAM em robótica</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, Luan ; MAFFEI, R. Q. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; BICHO, A. L. ; DUARTE FILHO, N. L.</string>
+  </void>
+  <void property="cluster">
+   <int>4336</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5013</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of the Brazilian Computer Society (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Space D* - A path-planning algorithm for multiple robots in unknown environments</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVA FILHO, S. C. ; MARCOLINO, L. F. V. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5064</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária FURG, 2012, Rio Grande. Anais da XI Mostra de Produção Universitária FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelando Nuvens de Pontos 3D com Misturas de Gaussianas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FARIA, M. F. ; DREWS JR, P. L. J. ; MACHADO, P. N.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5066</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária FURG, 2012, Rio Grande. Anais da XI Mostra de Produção Universitária FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Aprendizado Semi-supervisionado na Classificação de Microalgas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; COLARES, R. G. ; MACHADO, P. N. ; FARIA, M. F. ; DETONI, A. M. S. ; TAVANO, V. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5030</int>
+  </void>
+  <void property="localPublicado">
+   <string>Encontro Nacional de Inteligência Artificial - ENIA, 2012, Curitiba. Anais do IX Encontro Nacional de Inteligência Artificial - ENIA</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Aprendizado Ativo e Semi-Supervisionado na Classificacao de Microalgas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>OLIVEIRA, V. M. ; DREWS JR, P. L. J. ; OLIVEIRA</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5026</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Congresso Brasileiro de Automática, 2012, Campina Grande, Brazil. Anais do XIX Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Filtragem e Estimação de Estados com Restrições Aplicado ao SLAM Visual</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; MACHARET, D. G. ; CAMPOS, M. F. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5027</int>
+  </void>
+  <void property="localPublicado">
+   <string>Latin American Robotics Symposium / Brazilian Robotics Symposium (LARS/SBR), 2012, Fortaleza, Brazil. Proceedings of IEEE Latin American Robotics Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Terrain-Based Path Planning for Mobile Robots with Bounded Curvature</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>KUHN, V. N. ; DREWS JR, P. L. J. ; GOMES, S. C. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5022</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Congresso Brasileiro de Automática, 2012, Campina Grande, Brazil. Anais do XIX Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Controlling a Inspection ROV Using Low Cost Sensors</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>ALMEIDA, F. R. ; BOTELHO, S. S. C. ; SILVEIRA, Luan ; DREWS JR, P. L. J. ; MAFFEI, R. Q. ; DUARTE FILHO, N. L. ; BICHO, A. L. ; LONGARAY, M. M.</string>
+  </void>
+  <void property="cluster">
+   <int>4340</int>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5029</int>
+  </void>
+  <void property="localPublicado">
+   <string>Latin American Robotics Symposium / Brazilian Robotics Symposium (LARS/SBR), 2012, Fortaleza, Brazil. Proceedings of IEEE Latin American Robotics Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Using Space D* for Crowded Real Robots Environments</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; KUHN, V. N. ; GOMES, S. C. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5020</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Conference on Offshore and Marine Technology: Science and Innovation, 2012, Rio Grande, Brazil. Proceedings of International Conference on Offshore and Marine Technology: Science and Innovation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Tracking System for Underwater Inspection Using Computer Vision</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>VIEIRA, A. W. ; DREWS JR, P. L. J. ; CAMPOS, M. F. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5019</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE International Conference on Robotics and Automation - ICRA, 2012, Saint Paul. Proceedings of IEEE International Conference on Robotics and Automation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Efficient Change Detection in 3D Environment for Autonomous Surveillance Robots based on Implicit Volume</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FIGUEIREDO, M. ; BOTELHO, S. S. C. ; DREWS JR, P. L. J. ; HAFFELE, C.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5063</int>
+  </void>
+  <void property="localPublicado">
+   <string>5th International Conference on Spatial Cognition, 2012, Roma, Italy. Proceedings of 5th International Conference on Spatial Cognition</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Self-Organizing Mapping of Robotic Environments Based on Neural Networks</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MARCOLINO, L. F. V. ; SILVA FILHO, S. C. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5068</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária FURG, 2012, Rio Grande. Anais da XI Mostra de Produção Universitária FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Manipulação de Nuvem Pontos Utilizando Point Cloud Library</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>VEBER, L. ; DREWS JR, P. L. J.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5067</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária FURG, 2012, Rio Grande. Anais da XI Mostra de Produção Universitária FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Restauração de Imagens Subaquáticas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GUTIERREZ, M. A. ; MANSO, L. J. ; SILVA FILHO, S. C. ; DREWS JR, P. L. J. ; NUNEZ, P.</string>
+  </void>
+  <void property="id_membro">
+   <int>30</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5062</int>
+  </void>
+  <void property="localPublicado">
+   <string>5th International Conference on Spatial Cognition, 2012, Roma, Italy. Proceedings of 5th International Conference on Spatial Cognition</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Lilles Jorge Drews Junior</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>The spatial change detection problem in robotics: A probabilistic approach based on Mixture of Gaussians</string>
+  </void>
+ </object>
+</java>

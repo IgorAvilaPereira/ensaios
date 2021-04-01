@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="undirected">
+<!--name:#Gerenciamento de Informações#-->
+<!--years:2008/2016-->
+<!--diameter:-->
+<!--giant:0.0-->
+<!--density:0.0-->
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="link" for="node" attr.name="link" attr.type="string"/>
+<key id="pubs" for="node" attr.name="pubs" attr.type="int"/>
+<key id="betweenness" for="node" attr.name="betweenness" attr.type="string"/>
+<key id="pagerank" for="node" attr.name="pagerank" attr.type="string"/>
+<key id="degree" for="node" attr.name="degree" attr.type="string"/>
+<key id="cluster_coefficient" for="node" attr.name="cluster_coefficient" attr.type="string"/>
+<key id="closeness" for="node" attr.name="closeness" attr.type="string"/>
+<key id="amount" for="edge" attr.name="amount" attr.type="int"/>
+<!-- nodes -->
+<!-- edges -->
+</graph>
+</graphml>

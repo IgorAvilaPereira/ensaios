@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="undirected">
+<!--name:#C3 Geral 2008 - 2011#-->
+<!--years:2008/2011-->
+<!--diameter:3/0/-->
+<!--giant:0.5-->
+<!--density:0.16666666666666666-->
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="link" for="node" attr.name="link" attr.type="string"/>
+<key id="pubs" for="node" attr.name="pubs" attr.type="int"/>
+<key id="betweenness" for="node" attr.name="betweenness" attr.type="string"/>
+<key id="pagerank" for="node" attr.name="pagerank" attr.type="string"/>
+<key id="degree" for="node" attr.name="degree" attr.type="string"/>
+<key id="cluster_coefficient" for="node" attr.name="cluster_coefficient" attr.type="string"/>
+<key id="closeness" for="node" attr.name="closeness" attr.type="string"/>
+<key id="amount" for="edge" attr.name="amount" attr.type="int"/>
+<!-- nodes -->
+<node id="25">
+<data key="name">Graçaliz Pereira Dimuro</data>
+<data key="link">http://lattes.cnpq.br/9414212573217453</data>
+<data key="pubs">61</data>
+<data key="pagerank">1,00</data>
+<data key="degree">1</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,33</data>
+</node >
+<node id="4">
+<data key="name">Antonio Carlos da Rocha Costa</data>
+<data key="link">http://lattes.cnpq.br/5601943285331545</data>
+<data key="pubs">47</data>
+<data key="pagerank">1,00</data>
+<data key="degree">1</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,33</data>
+</node >
+<node id="13">
+<data key="name">Diana Francisca Adamatti</data>
+<data key="link">http://lattes.cnpq.br/4984043849101331</data>
+<data key="pubs">45</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="15">
+<data key="name">Eder Mateus Nunes Gonçalves</data>
+<data key="link">http://lattes.cnpq.br/8560050240967369</data>
+<data key="pubs">4</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<!-- edges -->
+<edge source="4" target="25">
+<data key="amount">25</data>
+</edge>
+</graph>
+</graphml>

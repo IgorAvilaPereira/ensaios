@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>             
+<!--  An excerpt of an egocentric social network  -->             
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">             
+<graph edgedefault="undirected">             
+<!-- data schema -->             
+<key id="name" for="node" attr.name="name" attr.type="string"/>             
+<key id="nickname" for="node" attr.name="nickname" attr.type="string"/>             
+<key id="gender" for="node" attr.name="gender" attr.type="string"/>             
+<key id="image" for="node" attr.name="image" attr.type="string"/>             
+<key id="link" for="node" attr.name="link" attr.type="string"/>             
+<key id="amount" for="edge" attr.name="amount" attr.type="int"/>             
+<key id="pubs" for="node" attr.name="pubs" attr.type="int"/>
+<!-- nodes -->                 
+<node id="0">                 
+<data key="name">Adriano Velasque Werhli</data>                 
+<data key="nickname">WERHLI, A. V.;WERHLI, ADRIANO V.</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4773665E8</data>                 
+<data key="link">http://lattes.cnpq.br/4393367734853964</data>                 
+<data key="pubs">2</data>                 
+</node>
+<!-- nodes -->                 
+<node id="1">                 
+<data key="name">Antonio Carlos da Rocha Costa</data>                 
+<data key="nickname">COSTA, A. C. R.</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4781212H1</data>                 
+<data key="link">http://lattes.cnpq.br/5601943285331545</data>                 
+<data key="pubs">24</data>                 
+</node>
+<!-- nodes -->                 
+<node id="2">                 
+<data key="name">Danúbia Bueno Espíndola</data>                 
+<data key="nickname">ESPÍNDOLA, Danúbia Bueno</data>                 
+<data key="gender">F</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4162354Z7</data>                 
+<data key="link">http://lattes.cnpq.br/9582755594379866</data>                 
+<data key="pubs">2</data>                 
+</node>
+<!-- nodes -->                 
+<node id="3">                 
+<data key="name">Diana Francisca Adamatti</data>                 
+<data key="nickname">ADAMATTI, D. F.</data>                 
+<data key="gender">F</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4706034A8</data>                 
+<data key="link">http://lattes.cnpq.br/4984043849101331</data>                 
+<data key="pubs">5</data>                 
+</node>
+<!-- nodes -->                 
+<node id="4">                 
+<data key="name">Eder Mateus Nunes Gonçalves</data>                 
+<data key="nickname">GONÇALVES, Eder Mateus Nunes</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4702367Y1</data>                 
+<data key="link">http://lattes.cnpq.br/8560050240967369</data>                 
+<data key="pubs">5</data>                 
+</node>
+<!-- nodes -->                 
+<node id="5">                 
+<data key="name">Emanuel da Silva Diaz Estrada</data>                 
+<data key="nickname">ESTRADA, E. S. D.</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4232081P5</data>                 
+<data key="link">http://lattes.cnpq.br/3463902649683230</data>                 
+<data key="pubs">7</data>                 
+</node>
+<!-- nodes -->                 
+<node id="6">                 
+<data key="name">Graçaliz Pereira Dimuro</data>                 
+<data key="nickname">DIMURO, G. P.;Dimuro, Graçaliz P.;Dimuro, G.P.;Dimuro, Graçaliz Pereira</data>                 
+<data key="gender">F</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4796586U1</data>                 
+<data key="link">http://lattes.cnpq.br/9414212573217453</data>                 
+<data key="pubs">24</data>                 
+</node>
+<!-- nodes -->                 
+<node id="7">                 
+<data key="name">Leonardo Ramos Emmendorfer</data>                 
+<data key="nickname">EMMENDORFER, L. R.;Emmendorfer, Leonardo Ramos</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4701185E9</data>                 
+<data key="link">http://lattes.cnpq.br/1129100746134234</data>                 
+<data key="pubs">4</data>                 
+</node>
+<!-- nodes -->                 
+<node id="8">                 
+<data key="name">Nelson Lopes Duarte Filho</data>                 
+<data key="nickname">DUARTE FILHO, Nelson Lopes;Duarte Filho, Nelson L.</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4797197E9</data>                 
+<data key="link">http://lattes.cnpq.br/5369672706522008</data>                 
+<data key="pubs">12</data>                 
+</node>
+<!-- nodes -->                 
+<node id="9">                 
+<data key="name">Paulo Lilles Jorge Drews Junior</data>                 
+<data key="nickname">DREWS JR, P. L. J.;Drews Junior, Paulo Lilles Jorge; Drews, P.; Drews Jr., P.; Drews, Paulo</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4138367D0</data>                 
+<data key="link">http://lattes.cnpq.br/5551697165370587</data>                 
+<data key="pubs">14</data>                 
+</node>
+<!-- nodes -->                 
+<node id="10">                 
+<data key="name">Rodrigo Andrade de Bem</data>                 
+<data key="nickname">DE BEM, Rodrigo Andrade</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4705325E6</data>                 
+<data key="link">http://lattes.cnpq.br/3935196239515458</data>                 
+<data key="pubs">2</data>                 
+</node>
+<!-- nodes -->                 
+<node id="11">                 
+<data key="name">Silvia Silva da Costa Botelho</data>                 
+<data key="nickname">BOTELHO, S. S. C.;Botelho, Silvia;Botelho, Silvia S. C.</data>                 
+<data key="gender">F</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4723628Z9</data>                 
+<data key="link">http://lattes.cnpq.br/8800859024101679</data>                 
+<data key="pubs">36</data>                 
+</node>
+<!-- nodes -->                 
+<node id="12">                 
+<data key="name">Vinícius Menezes de Oliveira</data>                 
+<data key="nickname">OLIVEIRA, V. M.</data>                 
+<data key="gender">M</data>                 
+<data key="image">http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&amp;id=K4768963H2</data>                 
+<data key="link">http://lattes.cnpq.br/9262132256691648</data>                 
+<data key="pubs">6</data>                 
+</node>
+<!-- edges -->                         
+<edge source="0" target="3">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="0" target="7">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="0" target="11">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="1" target="6">                         
+<data key="amount">24</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="2" target="11">                         
+<data key="amount">2</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="3" target="0">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="3" target="7">                         
+<data key="amount">4</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="3" target="11">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="4" target="5">                         
+<data key="amount">4</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="4" target="8">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="4" target="9">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="4" target="11">                         
+<data key="amount">5</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="4" target="12">                         
+<data key="amount">4</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="5" target="4">                         
+<data key="amount">4</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="5" target="8">                         
+<data key="amount">2</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="5" target="9">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="5" target="11">                         
+<data key="amount">6</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="5" target="12">                         
+<data key="amount">7</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="6" target="1">                         
+<data key="amount">24</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="7" target="0">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="7" target="3">                         
+<data key="amount">4</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="8" target="4">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="8" target="5">                         
+<data key="amount">2</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="8" target="9">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="8" target="11">                         
+<data key="amount">11</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="8" target="12">                         
+<data key="amount">2</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="9" target="4">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="9" target="5">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="9" target="8">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="9" target="11">                         
+<data key="amount">14</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="9" target="12">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="10" target="11">                         
+<data key="amount">2</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="0">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="2">                         
+<data key="amount">2</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="3">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="4">                         
+<data key="amount">5</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="5">                         
+<data key="amount">6</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="8">                         
+<data key="amount">11</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="9">                         
+<data key="amount">14</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="10">                         
+<data key="amount">2</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="11" target="12">                         
+<data key="amount">5</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="12" target="4">                         
+<data key="amount">4</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="12" target="5">                         
+<data key="amount">7</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="12" target="8">                         
+<data key="amount">2</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="12" target="9">                         
+<data key="amount">1</data>                         
+</edge>
+<!-- edges -->                         
+<edge source="12" target="11">                         
+<data key="amount">5</data>                         
+</edge>
+</graph>            
+</graphml>

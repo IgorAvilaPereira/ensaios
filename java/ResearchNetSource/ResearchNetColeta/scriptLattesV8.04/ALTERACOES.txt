@@ -1,0 +1,15 @@
+Alterações feitas no código do scriptlattes
+
+2012/06/21
+Alterado métodos salvarMatrizTXT e salvarMatrizXML da classe grupo, para salvar os pesos das arestas como int;
+
+2011/09/16
+Modificado metodo carregarDadosCVLattes da classe Grupo, para não imprimir todos as caracteristicas do membro. Imprime somente ID e NOME do pesquisador.
+
+Modificado metodo compilarLista da classe Compilador, para não imprimir as publicacoes similares.
+
+2011/09/15
+Criado atributo id_publicacao nas classes ArtigoAceito, ArtigoEmPeriodico, CapituloDeLivroPublicado, LivroPublicado, TrabalhoCompletoEmCongresso.
+Neste atributo sera guardado o id de cada publicacao no banco de dados.
+
+Criada lista de replicas na classe compiladorDeListas. Cada replica eh uma dupla com os ids das duas publicacoes similares no banco de dados. Esta lista é preenchida no metodo compilarLista.

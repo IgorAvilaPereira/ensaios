@@ -1,0 +1,10 @@
+strict graph grafo1 {
+	graph [bb="0,0,175,126", id=grafo1, overlap=False];
+	node [label="\N", fontsize=8, shape=rectangle, style=filled];
+	0 [label="Roberto M. Cesar Junior [9]", URL="http://lattes.cnpq.br/2240951178648368", color="#003399", fontcolor="#FFFFFF", height="0.25", pos="66,117", width="1.8333"];
+	1 [label="Jesús P. Mena Chalco [10]", URL="http://lattes.cnpq.br/4727357182510680", color="#003399", fontcolor="#FFFFFF", height="0.25", pos="112,63", width="1.75"];
+	2 [label="Andréa Britto Mattos [2]", URL="http://lattes.cnpq.br/2837012019824386", color="#003399", fontcolor="#FFFFFF", height="0.25", pos="66,9", width="1.6389"];
+	0 -- 1 [pos="74.013,107.59 82.456,97.683 95.671,82.169 104.08,72.298"];
+	0 -- 2 [pos="58.866,107.99 52.503,99.332 43.645,85.595 40,72 34.668,52.114 48.596,30.156 58.065,18.13"];
+	1 -- 2 [pos="103.99,53.594 95.544,43.683 82.329,28.169 73.921,18.298"];
+}

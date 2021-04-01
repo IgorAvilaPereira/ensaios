@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Marcelo Paravisi ; WERHLI, A. V. ; Julio C. S. Jaques Jr. ; RODRIGUES, R. ; BICHO, A. ; JUNG, C. R. ; MUSSE, S. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10552</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10552</int>
+  </void>
+  <void property="localPublicado">
+   <string>Computer Graphics International</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Continuum Crowds with Local Control</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Grzegorczyk, Marco ; Husmeier, D. ; WERHLI, A. V.</string>
+  </void>
+  <void property="id_publicacao">
+   <int>10545</int>
+  </void>
+  <void property="localPublicado">
+   <string>Frank Emmert-Streib; Matthias Dehmer. (Org.). Analysis of Microarray Data - A Network-Based Approach. 1ed.Weinheim</string>
+  </void>
+  <void property="nome_membro">
+   <string>Adriano Velasque Werhli</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Reverse Engineering Gene Regulatory Networks with Various Machine</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>PARAVISI, M. ; WERHLI, A. V. ; JACQUES JUNIOR, J. C. S. ; RODRIGUES, R. A. ; BICHO, A. L. ; JUNG, C. R. ; MUSSE, S. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10552</int>
+  </void>
+  <void property="id_membro">
+   <int>1</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10572</int>
+  </void>
+  <void property="localPublicado">
+   <string>26th Computer Graphics International Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Alessandro de Lima Bicho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Continuum Crowds with Local Control</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T.; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10939</int>
+  </void>
+  <void property="localPublicado">
+   <string>15th International Conference on Electronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability analysis of logic circuits based on signal probability</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10940</int>
+  </void>
+  <void property="localPublicado">
+   <string>15th International Conference on Electronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>On the output events in concurrent error detection schemes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T.; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10941</int>
+  </void>
+  <void property="localPublicado">
+   <string>Colloque National du GDR SoC-SiP</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Evaluating signal reliability of logic circuits by signal probability</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>NAVINER, L ; VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10936</int>
+  </void>
+  <void property="localPublicado">
+   <string>3rd International Conference on Design and Technology of Integrated Systems in Nanoscale Era</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Efficient computation of logic circuits reliability based on Probabilistic Transfer Matrix</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10937</int>
+  </void>
+  <void property="localPublicado">
+   <string>Joint 6th International IEEE Northeast Workshop on Circuits and Systems and TAISA Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability analysis of combinational circuits based on a probabilistic binomial model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T.; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>12</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10938</int>
+  </void>
+  <void property="localPublicado">
+   <string>51st Midwest Symposium on Circuits and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability of logic circuits under multiple simultaneous faults</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; DUARTE Filho, N. L. ; OLIVEIRA, V. M. ; MELLO JR., C. D. ; ESTRADA, E. S. D. ; GALERIANO, M. P. ; CORREA, U. B. ; DREWS JR., P.</string>
+  </void>
+  <void property="cluster">
+   <int>10757</int>
+  </void>
+  <void property="id_membro">
+   <int>19</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11270</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Sistemas Elétricos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Emanuel da Silva Diaz Estrada</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Tatubot - Sistema Robótico de Inspeção para Linhas de Distribuição Elétrica Subterrâneas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>ESTRADA, E. S. D.; MELLO JR., C. D. ; Gonçalves, E. M. N. ; Oliveira, G. L. ; ALMEIDA, R. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>10758</int>
+  </void>
+  <void property="id_membro">
+   <int>19</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11269</int>
+  </void>
+  <void property="localPublicado">
+   <string>5th Latin American Robotics Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Emanuel da Silva Diaz Estrada</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT - Robotic System for Inspection of Undergrounded Cable System</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; Gonçalves, E. M. N. ; MELLO JR., C. D. ; ESTRADA, E. S. D. ; SOUTO JR., H. D. ; ALMEIDA, R. ; SANTOS, T. S.</string>
+  </void>
+  <void property="cluster">
+   <int>10759</int>
+  </void>
+  <void property="id_membro">
+   <int>19</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11271</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Emanuel da Silva Diaz Estrada</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT ROBOTIC SYSTEM FOR INSPECTION OF UNDERGROUNDED CABLE SYSTEM</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>ESTRADA, E. S. D.; Silveira, L. ; CORREA, U. B. ; OLIVEIRA, V. M. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>11255</int>
+  </void>
+  <void property="id_membro">
+   <int>19</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11255</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Emanuel da Silva Diaz Estrada</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Arquitetura de navegação autônoma de linhas subterrâneas de distribuição de energia</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MADRUGA, Felipe ; DUARTE FILHO, Nelson Lopes ; COELHO, Rafael ; PIAS, Marcelo</string>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11655</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Redes de Computadores - Salão de Ferramentas</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estimando Atrasos em Redes de Computadores Através de Sistemas de Coordenadas - A Ferramenta Euclideana</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes; PEDONE, Fernando Lopes</string>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11661</int>
+  </void>
+  <void property="localPublicado">
+   <string>EuroSys 2008, 2008, Glasgow. Anais do 2nd Workshop on Dependable Distributed Data (WDDDM&apos;08)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>DSMDB: A Distributed Shared Memory Approach for Building Replicated Database Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes ; OLIVEIRA, Vinícius Menezes de ; MELLO JR, Claudio Dornelles ; ESTRADA, Emanuel ; GALERIANO, Marcelo ; CORREA, Ulisses ; DREWS, Paulo</string>
+  </void>
+  <void property="cluster">
+   <int>10757</int>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11654</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Sistemas Elétricos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT - Sistema Robótico de Inspeção para Linhas de Distribuição Elétrica Subterrâneas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, Silvia Silva da Costa ; DUARTE FILHO, Nelson Lopes ; Tyska, J ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, Rodrigo Ruas ; OLIVEIRA, R. R. ; HAX, V.</string>
+  </void>
+  <void property="id_membro">
+   <int>40</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11656</int>
+  </void>
+  <void property="localPublicado">
+   <string>VII SBGames</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Using Game Engines in Digital Manufacturing through Immersive and Collaborative Visualization Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C.; DREWS, P. ; LEIVAS, G</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12175</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Oceans</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>NLMAP - Visual-based Self Localization and Mapping for Autonomous Underwater Vehicles</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>SIMAS, G. ; BOTELHO, S. S. C. ; grando, n. ; COLARES, R.</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12062</int>
+  </void>
+  <void property="localPublicado">
+   <string>Advances in Soft Computing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Dimensional Reduction in the Protein Secondary Structure Prediction ? Nonlinear Method Improvements</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE, N. ; BOTELHO, S. S. C. ; Tyska, j. ; P. botelho ; R. maffei ; R. Oliveira ; v. hax</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12063</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A general purpose cave-like system for visualization of animated and 4D cad modeling</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS JR, P. L. J. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12065</int>
+  </void>
+  <void property="localPublicado">
+   <string>REIC. Revista Eletrônica de Iniciação Científica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Abordagem Baseada em Visão Computacional para Localização e Mapeamento Simultâneos de Robôs Subaquáticos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DUCHINSKI, M. ; CENTENO, T. M. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12169</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Técnicas para redução de perturbações em imagens subaquáticas destinadas ao controle de AUVS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS, P. ; MEDEIROS, M. M. ; GONCALVES, E. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12170</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>SIFT and Topologic Maps applied to robotic SLAM in Underwater Environment</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS, P. ; BOTELHO, S. S. C. ; GOMES, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12171</int>
+  </void>
+  <void property="localPublicado">
+   <string>Latin American Robotic System - LARS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>SLAM in Underwater Environment using SIFT and Topologic Maps Accepted</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS, P. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12173</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso da Sociedade Brasileira de Computação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Abordagem Baseada em Visão Computacional para Localização e Mapeamento Simultâneos de Robôs Subaquáticos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DREWS, P. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12174</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop in Under-graduated Work</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Visão Computacional aplicada à Localização e Mapeamento Simultâneos de Robôs Subaquáticos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MEDEIROS, M. M. ; COLARES, R. ; ALMEIDA, R. R. ; SIMAS, G. ; GONCALVES, E. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12177</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Latin American Robotic Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Mixed Reality RoboCup Category - An overview of FURGBOL-PV Contributions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Estrada, E. ; ALMEIDA, R. R. ; CORREA, U. B. ; OLIVEIRA, V. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>11255</int>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12064</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Arquitetura de navegação autônoma de linhas subterrâneas de distribuição de energia</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Estrada, E. ; MELLO, C. ; GONCALVES, E. ; LEIVAS, G ; ALMEIDA, R. R. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>10758</int>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12172</int>
+  </void>
+  <void property="localPublicado">
+   <string>Latin American Robotic System - LARS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Robotic System for Inspection of Undergrounded Cable System</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MELLO, C. ; GONÇALVES, L. ; Estrada, E. ; LEIVAS, G ; ALMEIDA, R. R. ; BOTELHO, S. S. C. ; THIAGO,S.</string>
+  </void>
+  <void property="cluster">
+   <int>10759</int>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12176</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Latin American Robotic Symposium</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT ? Robotic System for Inspection of Undergrounded Cable System</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>PINTO, Ivete ; BOTELHO, S. S. C. ; Souza, R. ; Sonego, T. ; COLARES, R.</string>
+  </void>
+  <void property="cluster">
+   <int>11472</int>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12179</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Seminário Jogos Eletrônicos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Saberlândia: plataforma lúdica integrando robótica e multimídia para educação</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>PINTO, Ivete ; BOTELHO, S. S. C. ; Souza, R. ; COLARES, R. ; CAMPOS, R. L.</string>
+  </void>
+  <void property="cluster">
+   <int>11473</int>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12178</int>
+  </void>
+  <void property="localPublicado">
+   <string>SBGames</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Plataforma Saberlândia: Integrando Robótica e Multimídia no Desenvolvimento de Jogos Educacionais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C.; OLIVEIRA, V. ; DUARTE, N. ; MELLO, C. ; Estrada, E. ; Galeriano, M. ; DREWS, P. ; CORREA, U. B.</string>
+  </void>
+  <void property="cluster">
+   <int>10757</int>
+  </void>
+  <void property="id_membro">
+   <int>55</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12168</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simposio Brasileiro de Sistemas Elétricos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Silvia Silva da Costa Botelho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT ? Sistema Robótico de Inspeção para Linhas de Distribuição Elétrica Subterrâneas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Estrada, E. ; Silveira L. ; BOTELHO, S. S. C. ; OLIVEIRA, V. M.</string>
+  </void>
+  <void property="cluster">
+   <int>11255</int>
+  </void>
+  <void property="id_membro">
+   <int>58</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12242</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vinícius Menezes de Oliveira</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Arquitetura de navegação autônoma de linhas subterrâneas de distribuição de energia</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; DUARTE FILHO, N. L. ; OLIVEIRA, V. M. ; Mello Jr., C. D. ; Estrada, E. ; Galeriano, M. ; LILLES, P. D. ; CORREA, U. B.</string>
+  </void>
+  <void property="cluster">
+   <int>10757</int>
+  </void>
+  <void property="id_membro">
+   <int>58</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12254</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Sistemas Elétricos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vinícius Menezes de Oliveira</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Tatubot - Sistema Robótico de Inspeção para Linhas de Distribuição Elétrica Subterrâneas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; OLIVEIRA, V. M. ; Gonçalves, E. N. ; Estrada, E. ; Mello Jr., C. D. ; LILLES, P. D. ; ALMEIDA, R. ; SOUTO JR., H. ; Santos, T.</string>
+  </void>
+  <void property="cluster">
+   <int>10758</int>
+  </void>
+  <void property="id_membro">
+   <int>58</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12255</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vinícius Menezes de Oliveira</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT ? ROBOTIC SYSTEM FOR INSPECTION OF UNDERGROUNDED CABLE SYSTEM</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; OLIVEIRA, V. M. ; Mello Jr., C. D. ; Gonçalves, E. N. ; Estrada, E. ; ALMEIDA, R. ; Santos, T. ; SOUTO JR., H. ; OLIVEIRA, G.</string>
+  </void>
+  <void property="cluster">
+   <int>10759</int>
+  </void>
+  <void property="id_membro">
+   <int>58</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12256</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Latino-Americano de Robótica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vinícius Menezes de Oliveira</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT - Robotic System for Inspection of Undergrounded Cable System</string>
+  </void>
+ </object>
+</java>

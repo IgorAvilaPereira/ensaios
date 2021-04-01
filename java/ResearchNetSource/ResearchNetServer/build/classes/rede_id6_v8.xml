@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="undirected">
+<!--name:#Nautec#-->
+<!--years:/-->
+<!--diameter:3/1/0/2/-->
+<!--giant:1.0-->
+<!--density:0.4-->
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="link" for="node" attr.name="link" attr.type="string"/>
+<key id="pubs" for="node" attr.name="pubs" attr.type="int"/>
+<key id="betweenness" for="node" attr.name="betweenness" attr.type="string"/>
+<key id="pagerank" for="node" attr.name="pagerank" attr.type="string"/>
+<key id="degree" for="node" attr.name="degree" attr.type="string"/>
+<key id="cluster_coefficient" for="node" attr.name="cluster_coefficient" attr.type="string"/>
+<key id="closeness" for="node" attr.name="closeness" attr.type="string"/>
+<key id="amount" for="edge" attr.name="amount" attr.type="int"/>
+<!-- nodes -->
+<node id="34">
+<data key="name">Leonardo Ramos Emmendorfer</data>
+<data key="link">http://lattes.cnpq.br/1129100746134234</data>
+<data key="pubs">43</data>
+<data key="pagerank">0,68</data>
+<data key="degree">1</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,54</data>
+</node >
+<node id="32">
+<data key="name">Karina dos Santos Machado</data>
+<data key="link">http://lattes.cnpq.br/3528633359332021</data>
+<data key="pubs">57</data>
+<data key="pagerank">1,81</data>
+<data key="degree">3</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,88</data>
+</node >
+<node id="45">
+<data key="name">Paulo Lilles Jorge Drews Junior</data>
+<data key="link">http://lattes.cnpq.br/5551697165370587</data>
+<data key="pubs">79</data>
+<data key="pagerank">0,66</data>
+<data key="degree">1</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,58</data>
+</node >
+<node id="43">
+<data key="name">Odorico Machado Mendizabal</data>
+<data key="link">http://lattes.cnpq.br/6058299964884859</data>
+<data key="pubs">24</data>
+<data key="pagerank">0,66</data>
+<data key="degree">1</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,58</data>
+</node >
+<node id="0">
+<data key="name">Adriano Velasque Werhli</data>
+<data key="link">http://lattes.cnpq.br/4393367734853964</data>
+<data key="pubs">31</data>
+<data key="pagerank">1,25</data>
+<data key="degree">2</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,75</data>
+</node >
+<!-- edges -->
+<edge source="0" target="32">
+<data key="amount">3</data>
+</edge>
+<edge source="0" target="34">
+<data key="amount">2</data>
+</edge>
+<edge source="32" target="43">
+<data key="amount">1</data>
+</edge>
+<edge source="32" target="45">
+<data key="amount">2</data>
+</edge>
+</graph>
+</graphml>

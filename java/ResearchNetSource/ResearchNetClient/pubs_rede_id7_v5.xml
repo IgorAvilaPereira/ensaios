@@ -1,0 +1,4315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_17" class="java.beans.XMLDecoder">
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina ; VIOLANTE, M. ; REIS, Ricardo ; REORDA, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4491</int>
+  </void>
+  <void property="localPublicado">
+   <string>DECIDE 2008, 2008, Mexico. Proceedings of DECIDE 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Recovery Scheme for Hardening System on Programmable Chips</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina ; TAVARES, Reginaldo da Nobrega ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4513</int>
+  </void>
+  <void property="localPublicado">
+   <string>SForum, 2008, Gramado - Brasil. SForum</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>OrBDD Logic Synthesis: Improving Timing Through Fan out Managing</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina ; VIOLANTE, M. ; REORDA, M. S. ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4490</int>
+  </void>
+  <void property="localPublicado">
+   <string>SIM 2009, 2008, Bento Gonçalves. Proceedings of SIM 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An Experimental Analysis of the Lockstep Architecture</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina ; VIOLANTE, M. ; REORDA, M. S. ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4487</int>
+  </void>
+  <void property="localPublicado">
+   <string>LATW, 2009, Buzios. IEEE Digital Library - IEEE Xplore IEEE Catalog Number: CFP09LAT Library of Congress: 2009901807</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Recovery Scheme for Hardening System on Programmable Chips</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>VIOLANTE, M. ; REORDA, M. S. ; MEINHARDT, Cristina ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4488</int>
+  </void>
+  <void property="localPublicado">
+   <string>24th IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems, 2009, Chicago. Proceeding of 24th IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An On-Board Data-Handling Computer for Deep-Space Exploration Built Using Commercial-Of-The-Shelf SRAM-Based FPGAs</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina ; REIS, Ricardo ; TAVARES, Reginaldo da Nobrega</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4489</int>
+  </void>
+  <void property="localPublicado">
+   <string>IWS09 Iberchip XV Workshop, 2009, Buenos Aires. Anais of Iberchip XV Workshop 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Leiautes Regulares Baseados em Matrizes de Células</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>VIOLANTE, M. ; MEINHARDT, Cristina ; REIS, Ricardo ; REORDA, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4486</int>
+  </void>
+  <void property="localPublicado">
+   <string>DATE 2009, 2009, Nice - França. DATE Proceedings</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Low-Cost SEE Mitigation Solution for Soft-Processors Embedded in Systems on Programmable Chips</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Christian Silva ; Eduardo Teixeira ; Mauro Barbat ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4484</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXIV CRICTE, 2010, Rio Grande. XXIV CRICTE - Anais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>IMPLEMENTAÇÃO DE UM SIMULADOR DE SISTEMA DE MEMÓRIA CACHE</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Matheus Machado ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4485</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXIV CRICTE, 2010, Rio Grande. XXIV CRICTE - Anais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>UMA IMPLEMENTAÇÃO DO ALGORITMO BOOTH USANDO MANIPULAÇÃO DE BITS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Diones Fischer ; Marcio Macedo ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4510</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra de Produção Universitaria, 2010, Rio Grande. MPU 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>ESTUDO DOS ATRASOS CAUSADOS PELA TEMPERATURA EM TRANSISTORES DE NOVAS TECNOLOGIAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Matheus Muller Korb ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4512</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra de Produção Universitaria, 2010, Rio Grande. MPU 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>ESTUDO DA INFLUÊNCIA DA TENSÃO VGS NO COMPORTAMENTO DA CORRENTE DE TRANSISTORES EM 16 NANÔMETROS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Marcio Macedo ; Diones Fischer ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4511</int>
+  </void>
+  <void property="localPublicado">
+   <string>MPU - Mostra de Produção Universitaria, 2010, Rio Grande. MPU 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>COMPARAÇÃO ENTRE OS EFEITOS DA TEMPERATURA EM TRANSISTORES DE NOVAS TECNOLOGIAS NANOMÉTRICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina ; GUEX, Jerson P. ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4481</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVI Iberchip Workshop, 2010, Foz do Iguaçu. XVI Iberchip Workshop</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo do impacto da variabilidade em um conjunto de blocos básicos para composição de leiautes regulares</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>GUEX, Jerson P. ; MEINHARDT, Cristina ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4482</int>
+  </void>
+  <void property="localPublicado">
+   <string>SIM 2010, 2010, Porto Alegre. SIM 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Case Study about Variability Impact in a Set of Basic Blocks Designed to Regular Layouts</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Diones Fischer ; Marcio Macedo ; Matheus Muller Korb ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4483</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXIV CRICTE, 2010, Rio Grande. XXIV CRICTE - Anais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>ESTUDO DA INFLUÊNCIA DA TEMPERATURA NO COMPORTAMENTO ELÉTRICO DE TRANSISTORES EM TECNOLOGIAS NANOMÉTRICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BRUN, J. V. F. ; BUTZEN, P. F. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4506</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4506</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Mostra de Produção Universitária - MPU FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Projeto de flip-flops tipo D com baixo consumo de potência</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, C. S. ; SILVA, A. N. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4508</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4508</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Mostra de Produção Universitária - MPU FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Avaliação de Famílias Lógicas para Circuitos com Baixo Consumo de Potência</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, A. N. ; NUNES, C. S. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4509</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4509</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Mostra de Produção Universitária - MPU FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>AVALIAÇÃO DA EFICÁCIA DE MODELOS DE TRANSISTORES NO PROJETO DE CIRCUITOS COM BAIXO CONSUMO DE ENERGIA</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Violante, Massimo ; MEINHARDT, Cristina ; REIS, R. A. L. ; Reis, Ricardo ; Sonza Reorda, Matteo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4473</int>
+  </void>
+  <void property="localPublicado">
+   <string>Print)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A Low-Cost Solution for Deploying Processor Cores in Harsh Environments. IEEE Transactions on Industrial Electronics (1982</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GUEX, Jerson P. ; MEINHARDT, Cristina ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4480</int>
+  </void>
+  <void property="localPublicado">
+   <string>SIM 2011, 2011, Porto Alegre. SIM 2011</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Impact of Process Variability considering Transistor Networks Delay</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>ZIMPECK, A. L. ; AGUIAR, Y. Q. ; MACIEL, B. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4502</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4502</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Mostra de Produção Universitária - MPU FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>PROJETO DE UM SOMADOR TOLERANTE A FALHAS COM BAIXO CONSUMO DE POTÊNCIA</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>WIECZORECK, I. ; MENDIZABAL, Odorico Machado ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4503</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4503</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Mostra de Produção Universitária - MPU FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>ELICITAÇÃO DE REQUISITOS PARA O DESENVOLVIMENTO DE FERRAMENTAS EDUCACIONAIS PARA O ENSINO DE ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>STERZ, A. P. ; NUNES, C. S. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4504</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4504</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Mostra de Produção Universitária - MPU FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>AVALIAÇÃO DO DESEMPENHO E CONSUMO DE POTÊNCIA DE PORTAS LÓGICAS CMOS EM TECNOLOGIAS NANOMÉTRICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, I. A. C. ; BUTZEN, P. F. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4505</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4505</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Mostra de Produção Universitária - MPU FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>PROJETO DE UM BLOCO DE MÉMORIA SRAM NA TECNOLOGIA DE 16NM</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>AGUIAR, Y. Q. ; MACIEL, B. ; ZIMPECK, A. L. ; BUTZEN, P. F. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4507</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4507</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Mostra de Produção Universitária - MPU FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>OTIMIZAÇÃO DO DIMENSIONAMENTO DOS TRANSISTORES DE UM CIRCUITO SOMADOR PARA REDUÇÃO DE ATRASOS E CONSUMO DE POTÊNCIA</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, I. A. C. ; Meinhardt, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4475</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4475</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simposio Sul de Microeletronica - SIM 2012, 2012, Sao Miguel das Missoes. Anais do Simposio Sul de Microeletronica - SIM 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of 16nm SRAM Architecture</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MEINHARDT, Cristina ; REIS, Ricardo</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4474</int>
+  </void>
+  <void property="localPublicado">
+   <string>2012 IEEE Third Latin American Symposium on Circuits and Systems (LASCAS), 2012, Playa del Carmen. Proceedings of 2012 IEEE Third Latin American Symposium on Circuits and Systems (LASCAS)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Evaluation of Process Variability on Current for Nanotechnologies Devices</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, C. S. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4478</int>
+  </void>
+  <void property="localPublicado">
+   <string>SForum - The 12th Microelectronics Students Forum, 2012, Brasilia. SForum - The 12th Microelectronics Students Forum</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Energy Evaluation of Nanometer CMOS Technologies</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, A. N. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4479</int>
+  </void>
+  <void property="localPublicado">
+   <string>SForum - The 12th Microelectronics Students Forum, 2012, Brasilia. SForum - The 12th Microelectronics Students Forum</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Full Adder Cells Evaluation for Subthreshold Operation on 32nm CMOS Technology</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>TOLEDO, S. P. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4501</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4501</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>AVALIAÇÃO DE TRÊS ARQUITETURAS DE SOMADORES PROJETADOS EM TECNOLOGIAS CMOS NANOMÉTRICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>AFONSO, R. M. ; BUTZEN, P. F. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4500</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4500</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>AVALIAÇÃO ELÉTRICA DE LATCHES EM TECNOLOGIA CMOS NANOMÉTRICA</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SCHIVITTZ, R. B. ; BUTZEN, P. F. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4499</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4499</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Automatização da caracterização do consumo de potência estática em circuitos CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, L. A. ; BUTZEN, P. F. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4498</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4498</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>MECANISMO DE INJEÇÃO DE FALHAS DO TIPO SET EM CIRCUITOS COMBINACIONAIS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>WIECZORECK, I. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4497</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4497</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>EMPREGO DE REDUNDÂNCIA PARA AUMENTAR A CONFIABILIDADE DE CIRCUITOS CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, I. ; BUTZEN, P. F. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4496</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4496</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>DESENVOLVIMENTO DE UMA FERRAMENTA PARA A CARACTERIZAÇÃO TEMPORAL DE PORTAS LÓGICAS CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>ULLOA, G. ; BUTZEN, P. F. ; MEINHARDT, Cristina</string>
+  </void>
+  <void property="cluster">
+   <int>4495</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4495</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>DESENVOLVIMENTO DE UMA FERRAMENTA EDUCACIONAL PARA O ESTUDO DE FAMÍLAS LÓGICAS MOS ESTÁTICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, F. G. R. G. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4494</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4494</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>PROJETO DE SOMADORES DE 1 BIT EM TECNOLOGIAS NANOMÉTRICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>ZIMPECK, A. L. ; Meinhardt, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4493</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4493</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>SIMULADOR DE FALHAS STUCK-OPEN PARA PORTAS LÓGICAS CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BRUN, J. V. F. ; BUTZEN, P. F. ; Meinhardt, Cristina ; AZZOLIN, R. Z.</string>
+  </void>
+  <void property="cluster">
+   <int>4492</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4492</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Caracterização temporal de Flip-Flops D</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, C. S. ; SILVA, A. N. ; GOMES, I. A. C. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4477</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4477</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simposio Sul de Microeletronica - SIM 2012, 2012, Sao Miguel das Missoes. Anais do Simposio Sul de Microeletronica - SIM 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Evaluating the Efficacy of Low Power Process to Design Low Power Circuits</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, A. N. ; MACHADO, I. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4476</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4476</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simposio Sul de Microeletronica - SIM 2012, 2012, Sao Miguel das Missoes. Anais do Simposio Sul de Microeletronica - SIM 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Full Adders Architectures Evaluation for 32nm Technology</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, I. A. C. ; MEINHARDT, Cristina ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4472</int>
+  </void>
+  <void property="id_membro">
+   <int>7</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4472</int>
+  </void>
+  <void property="localPublicado">
+   <string>ICCEEg - Revista Jr de Iniciação Científica em Ciências Exatas e Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Cristina Meinhardt</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Projeto de um Bloco de Memória SRAM em Tecnologias CMOS Nanométricas de 16nm</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4546</int>
+  </void>
+  <void property="localPublicado">
+   <string>15th International Conference on Electronics, Circuits and Systems, 2008. ICECS 2008., 2008, St. Julien&apos;s. Proceedings of ICECS 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>On the output events in concurrent error detection schemes</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T. ; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4547</int>
+  </void>
+  <void property="localPublicado">
+   <string>Colloque National du GDR SoC-SiP, 2008, Paris. Colloque National du GDR SoC-SiP</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Evaluating signal reliability of logic circuits by signal probability</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEVASCONCELOS, M ; FRANCO, D ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4531</int>
+  </void>
+  <void property="localPublicado">
+   <string>Microelectronics and Reliability</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Relevant metrics for evaluation of concurrent error detection schemes</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D ; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4530</int>
+  </void>
+  <void property="localPublicado">
+   <string>Microelectronics and Reliability</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Signal probability for reliability evaluation of logic circuits</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>NAVINER, L ; VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4542</int>
+  </void>
+  <void property="localPublicado">
+   <string>3rd International Conference on Design and Technology of Integrated Systems in Nanoscale Era, 2008, DTIS 2008., 2008, Tozeur. Proceedings of DTIS 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Efficient computation of logic circuits reliability based on Probabilistic Transfer Matrix</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>VASCONCELOS, M ; FRANCO, D. T. ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4543</int>
+  </void>
+  <void property="localPublicado">
+   <string>Joint 6th International IEEE Northeast Workshop on Circuits and Systems and TAISA Conference, 2008. NEWCAS-TAISA 2008., 2008, Montreal. Proceedins of NEWCAS-TAISA 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability analysis of combinational circuits based on a probabilistic binomial model</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T. ; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4544</int>
+  </void>
+  <void property="localPublicado">
+   <string>51st Midwest Symposium on Circuits and Systems, 2008. MWSCAS 2008., 2008, Knoxville. Proceedings of MWSCAS 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability of logic circuits under multiple simultaneous faults</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T. ; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4545</int>
+  </void>
+  <void property="localPublicado">
+   <string>15th International Conference on Electronics, Circuits and Systems, 2008. ICECS 2008., 2008, St. Julien&apos;s. Proceedings of ICECS 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability analysis of logic circuits based on signal probability</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T. ; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4550</int>
+  </void>
+  <void property="localPublicado">
+   <string>Design, Automation and Test in Europe, 2009, Nice. Proceedings of DATE 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>SPR Tool: Signal Reliability Analysis of Logic Circuits</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>NAVINER, L ; NAVINER, J ; FRANCO, D. T. ; VASCONCELOS, M</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4541</int>
+  </void>
+  <void property="localPublicado">
+   <string>Fault-Tolerant Distributed Algorithms on VLSI Chips, 2009, Dagstuhl. Dagstuhl Seminar Proceedings. Dagstuhl: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Methods and Metrics for Reliability Assessment</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, D. T. ; VASCONCELOS, M ; NAVINER, L ; NAVINER, J</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4539</int>
+  </void>
+  <void property="localPublicado">
+   <string>SBCCI 2010, 2010, São Paulo. SBCCI&apos;10 Proceedings of the 23rd symposium on Integrated circuits and system design. New York: ACM</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>On evaluating the signal reliability of self-checking arithmetic circuits</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BORGES, M. T. ; OLIVEIRA, R. F. ; FRANCO, D. T.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4540</int>
+  </void>
+  <void property="localPublicado">
+   <string>25th South Symposium on Microelectronics, 2010, Pelotas. Anais do SIM 2010. Porto Alegre: EDIPUCRS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Software Tool for the Analysis of Reliability in Combinational Logic Circuits</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>AFONSO, V. ; CORREA, M. M. ; AGOSTINI, Luciano ; FRANCO, D. T.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4548</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXVII South Symposium on Microeletronics, 2012, Ijuí e São Miguel da Missões. Proceedings of XXVII South Symposium on Microeletronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>A Dedicated Hardware Solution for the HEVC Interpolation Unit</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PAGLIARINI, S. N. ; FRANCO, D. T. ; Lirida Naviner ; Jean-François Naviner</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4549</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXVII South Symposium on Microeletronics, 2012, Ijuí e São Miguel da Missões. Proceedings of XXVII South Symposium on Microeletronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Reliability Estimation Methods:Trade-Offs Between Complexity and Accuracy</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>OBADOWSKI, V. N. ; RIECHEL, T. L. ; CRUZ, M. F. ; UGOSKI, P. E. M. ; RICHTER, C. M. ; SEVERO, S. L. S. ; A. P. Lerm ; OLIVEIRA, M. O. ; PAZ, M. C. R. ; BRETAS, A. S. ; FRANCO, D. T. ; CIARELLI, W. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4538</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, CBA 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Novo Método para Minimização de Componentes Harmônicos em Sinais PWM Baseado em Multiplicadores de Lagrange Aplicados a HEPWM</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>CRUZ, M. F. ; RIECHEL, T. L. ; OBADOWSKI, V. N. ; UGOSKI, P. E. M. ; RICHTER, C. M. ; SEVERO, S. L. S. ; A. P. Lerm ; OLIVEIRA, M. O. ; PAZ, M. C. R. ; BRETAS, A. S. ; FRANCO, D. T. ; CIARELLI, W. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4537</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, CBA 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Sistema Supervisório Voltado para Oscilografia em Tempo Real de Geradores Síncronos</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PAZ, M. C. R. ; OLIVEIRA, M. O. ; BRETAS, A. S. ; CRUZ, M. F. ; RIECHEL, T. L. ; OBADOWSKI, V. N. ; UGOSKI, P. E. M. ; RICHTER, C. M. ; A. P. Lerm ; SEVERO, S. L. S. ; FRANCO, D. T. ; CIARELLI, W. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4535</int>
+  </void>
+  <void property="localPublicado">
+   <string>2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (TD-LA), 2012, Montevideo. Proceedings of the 2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (TD-LA)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Active Power Regulation of Auxiliary Generation Units in Hydroelectric Power Plants Using Power Electronic Switching</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>OLIVEIRA, M. O. ; PAZ, M. C. R. ; BRETAS, A. S. ; CRUZ, M. F. ; RIECHEL, T. L. ; OBADOWSKI, V. N. ; UGOSKI, P. E. M. ; RICHTER, C. M. ; SEVERO, S. L. S. ; A. P. Lerm ; FRANCO, D. T. ; CIARELLI, W. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4536</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, CBA 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Controle de Potência Ativa em Geradores Auxiliares de Usinas Hidrelétricas Através de sua Compensação Série</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>OBADOWSKI, V. N. ; RIECHEL, T. L. ; CRUZ, M. F. ; UGOSKI, P. E. M. ; RICHTER, C. M. ; SEVERO, S. L. S. ; A. P. Lerm ; OLIVEIRA, M. O. ; PAZ, M. C. R. ; BRETAS, A. S. ; FRANCO, D. T. ; CIARELLI, W. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4534</int>
+  </void>
+  <void property="localPublicado">
+   <string>2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (TD-LA), 2012, Montevideo. Proceedings of the 2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (TD-LA)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A New Method to Minimize Harmonic Components on PWM Signals Based on Lagrange Multipliers</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>CRUZ, M. F. ; RIECHEL, T. L. ; OBADOWSKI, V. N. ; UGOSKI, P. E. M. ; RICHTER, C. M. ; SEVERO, S. L. S. ; A. P. Lerm ; OLIVEIRA, M. O. ; PAZ, M. C. R. ; BRETAS, A. S. ; FRANCO, D. T. ; CIARELLI, W. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4533</int>
+  </void>
+  <void property="localPublicado">
+   <string>2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (TD-LA), 2012, Montevideo. Proceedings of the 2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (TD-LA)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Supervisory System for Real-Time Oscillography of Synchronous Generators</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>OBADOWSKI, V. N. ; RIECHEL, T. L. ; CRUZ, M. F. ; UGOSKI, P. E. M. ; RICHTER, C. M. ; SEVERO, S. L. S. ; A. P. Lerm ; FRANCO, D. T. ; CIARELLI, W. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>9</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4532</int>
+  </void>
+  <void property="localPublicado">
+   <string>6º Seminário de Eletrônica de Potência e Controle, 2012, Santa Maria. 6. Seminário de Eletrônica de Potência e Controle - SEPOC. Santa Maria</string>
+  </void>
+  <void property="nome_membro">
+   <string>Denis Teixeira Franco</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma nova técnica para análise HEPWM baseada na aplicação de multiplicadores de Lagrange</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MADRUGA, Felipe ; DUARTE FILHO, Nelson Lopes ; COELHO, Rafael ; PIAS, Marcelo</string>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4916</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Redes de Computadores - Salão de Ferramentas, 2008, Rio de Janeiro. Anais do SBRC 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estimando Atrasos em Redes de Computadores Através de Sistemas de Coordenadas - A Ferramenta Euclideana</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, Silvia Silva da Costa ; DUARTE FILHO, Nelson Lopes ; Tyska, J ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, Rodrigo Ruas ; OLIVEIRA, R. R. ; HAX, V.</string>
+  </void>
+  <void property="cluster">
+   <int>4841</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4917</int>
+  </void>
+  <void property="localPublicado">
+   <string>VII SBGames, 2008, Belo Horizonte. Anais do Simpósio Brasileial ro de Jogos para Computador e Entretenimento Digital - 2008</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Using Game Engines in Digital Manufacturing through Immersive and Collaborative Visualization Systems</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes ; PEDONE, Fernando Lopes</string>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4921</int>
+  </void>
+  <void property="localPublicado">
+   <string>EuroSys 2008, 2008, Glasgow. Anais do 2nd Workshop on Dependable Distributed Data (WDDDM&apos;08)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>DSMDB: A Distributed Shared Memory Approach for Building Replicated Database Systems</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes ; OLIVEIRA, Vinícius Menezes de ; MELLO JR, Claudio Dornelles ; ESTRADA, Emanuel ; GALERIANO, Marcelo ; CORREA, Ulisses ; DREWS, Paulo</string>
+  </void>
+  <void property="cluster">
+   <int>4469</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4915</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Sistemas Elétricos, 2008, Belo Horizonte. Anais do SBSE 2008. Belo Horizonte: Editora da Universidade Federal de Minas Gerais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TATUBOT - Sistema Robótico de Inspeção para Linhas de Distribuição Elétrica Subterrâneas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes ; BOTELHO, Silvia Silva da Costa ; Tyska, J ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, R. R. ; OLIVEIRA, Rodrigo Ruas ; HAX, V.</string>
+  </void>
+  <void property="cluster">
+   <int>4838</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4914</int>
+  </void>
+  <void property="localPublicado">
+   <string>INCOM 2009, 2009, Moscou. Anais di 13th IFAC Symposium on Information Control Problems in Manufacturing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Multi-Cave Visualization System for Digital Manufacturing</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes ; BOTELHO, Silvia Silva da Costa ; CARVALHO, J. ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, Rodrigo Ruas ; HAX, V.</string>
+  </void>
+  <void property="cluster">
+   <int>4901</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4901</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Automated Platform for Immersive and Collaborative Visualization of Industrial Models. Engineering of Complex Computer Systems. 1ed</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ESTRADA, Emanuel ; Silveira, L. ; Gonçalves, E. ; DUARTE FILHO, Nelson Lopes ; OLIVEIRA, V. ; BOTELHO, Silvia Silva</string>
+  </void>
+  <void property="cluster">
+   <int>4663</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4913</int>
+  </void>
+  <void property="localPublicado">
+   <string>1st International Conference on Applied Robotics for the Power Industry (CARPI), 2010, Montreal. Anais do 1st International Conference on Applied Robotics for the Power Industry (CARPI)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Autonomous navigation for underground energy line inspection robot</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Duarte Filho, Nelson ; Costa Botelho, Silvia ; Tyska Carvalho, Jonata ; Botelho Marcos, Pedro ; Queiroz Maffei, Renan ; Remor Oliveira, Rodrigo ; Ruas Oliveira, Rodrigo ; Alves Hax, Vinicius ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="cluster">
+   <int>4834</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4894</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Journal, Advanced Manufacturing Technology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>An immersive and collaborative visualization system for digital manufacturing</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes ; BOTELHO, Silvia Silva ; CARVALHO, J. ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, Rodrigo Ruas ; HAX, V.</string>
+  </void>
+  <void property="cluster">
+   <int>4835</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4895</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A general purpose cave-like system for visualization of animated and 4D cad modeling</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>VIEIRA, Jeison ; BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="cluster">
+   <int>4896</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4896</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Um Framework para Memória Compartilhada Distribuída e Eestudo de Caso em Aplicações de Geociências sobre Clusters de Computadores</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes ; CARVALHO, J. ; MARCOS, Pedro ; Maffei, Renan ; OLIVEIRA, Rodrigo Ruas ; HAX, V. ; BOTELHO, Silvia Silva da Costa</string>
+  </void>
+  <void property="cluster">
+   <int>4899</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4899</int>
+  </void>
+  <void property="localPublicado">
+   <string>ROCHA, L. A. O. (Org.) ; Botelho, S.S.C. (Org.) ; ADAMATTI, D. F. (Org.). (Org.). Simpósio de Modelagem Computacional do Sul. 1ed</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A General Purpose Cave-like System for Visualization of Animated and 4D CAD Modeling</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes ; VIEIRA, Jeison ; BOTELHO, Silvia Silva da Costa</string>
+  </void>
+  <void property="cluster">
+   <int>4900</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4900</int>
+  </void>
+  <void property="localPublicado">
+   <string>ROCHA, L. A. O. (Org.) ; Botelho, S.S.C. (Org.) ; ADAMATTI, D. F. (Org.). (Org.). Simpósio de Modelagem Computacional do Sul. 1ed</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Framework for Distributed Shared Memory - Case Study in Geoscience Applications on Clusters of Computers</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>OLIVEIRA, D. P. ; BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="cluster">
+   <int>4910</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4910</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Seminário e workshop em Engenharia Oceânica, 2010, Rio Grande. Anais do IV Seminário e workshop em Engenharia Oceânica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>SAP-RISCO4D Sistemas de Avaliação 4D para Projetos na Construção Naval</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>OLIVEIRA, D. P. ; BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="cluster">
+   <int>4911</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4911</int>
+  </void>
+  <void property="localPublicado">
+   <string>4MCSUL, 2010, Rio Grande. Anais do 4MCSUL</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem de um Sistema de Visualização 4D na Construção Naval</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>OLIVEIRA, D. P. ; BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="cluster">
+   <int>4912</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4912</int>
+  </void>
+  <void property="localPublicado">
+   <string>23 Congresso Nacional de Transporte Aquaviário, Construção Naval e Offshore, 2010, Rio de Janeiro. Anais do 23 Congresso Nacional de Transporte Aquaviário, Construção Naval e Offshore</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>SAP-RISCO4D: UM SISTEMA DE VISUALIZAÇÃO 4D PARA ACOMPANHAMENTO DE PROJETOS NA CONSTRUÇÃO NAVAL</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Tavares, D.C. ; BOTELHO, Silvia Silva ; Marube, N.N. ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="cluster">
+   <int>4920</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4920</int>
+  </void>
+  <void property="localPublicado">
+   <string>EuroITV 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Interactive Virtual Worlds in Brazilian Digital Television</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Silveira, L. ; Maffei, Renan ; BOTELHO, Silvia Silva da Costa ; DREWS, Paulo ; DUARTE FILHO, Nelson Lopes ; BICHO, A. ; LONGARAY, M.</string>
+  </void>
+  <void property="cluster">
+   <int>4343</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4908</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Simpósio Brasileiro de Automática, 2011, São João del Rey. X Simpósio Brasileiro de Automática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>D*-Space: planejando caminhos para sistemas multi-robôs</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>CARVALHO, J. ; SANTOS, Rafael ; BOTELHO, Silvia Silva ; Duarte Filho, Nelson L. ; OLIVEIRA, Rodrigo Ruas ; Santos, E.</string>
+  </void>
+  <void property="cluster">
+   <int>4836</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4909</int>
+  </void>
+  <void property="localPublicado">
+   <string>Internet of Things (iThings/CPSCom), 2011 International Conference on and 4th International Conference on Cyber, Physical and Social Computing, 2011, Dalian. Anais Internet of Things (iThings/CPSCom), 2011 International Conference on and 4th International Conference on Cyber, Physical and Social Computing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Hyper-Environments: A Different Way to Think about IoT</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes ; BOTELHO, Silvia Silva da Costa</string>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4922</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE RFID 2011, 2011, Orlando. Anais do IEEE RFID 2011</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>RFID in Shipbuilding - Proposed Case Study Involving Shipyard in Brazil</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Silveira, L. ; Maffei, Renan ; BOTELHO, Silvia Silva ; Drews, Paulo Lilles ; DUARTE FILHO, Nelson Lopes ; BICHO, A.</string>
+  </void>
+  <void property="cluster">
+   <int>4342</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4907</int>
+  </void>
+  <void property="localPublicado">
+   <string>ENIA - VIII Encontro Nacional de Inteligência Artificial, 2011, Natal. Anais do VIII Encontro Nacional de Inteligência Artificial</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Space D*: Um Algoritmo para Path Planning Multi-Robôs</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SCHROEDER, G. ; ESPINDOLA, Danubia ; BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4918</int>
+  </void>
+  <void property="localPublicado">
+   <string>WES - Workshop on Embedded Systems for Oil, Gas and Energy Industry, 2012, Rio Grande. Anais WES 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Rastreamento e imersão 3d para visualização de estruturas navais e offshore</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Santos, E. ; Duarte Filho, Nelson L. ; Botelho, Silvia S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4919</int>
+  </void>
+  <void property="localPublicado">
+   <string>WES - Workshop on Embedded Systems for Oil, Gas and Energy Industry, 2012, Rio Grande. Anais WES 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Rastreamento em Tempo Real em Ambientes de Construção e Montagem: o Caso da Indústria Naval</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, Silvia Silva ; DUARTE FILHO, Nelson Lopes ; ESPINDOLA, Danubia ; OLIVEIRA, D. P. ; CARVALHO, J.</string>
+  </void>
+  <void property="cluster">
+   <int>4517</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4902</int>
+  </void>
+  <void property="localPublicado">
+   <string>NAVTEC 2012 - Conferência Internacional em Tecnologias Naval e Offshore: Ciência e Inovação, 2012, Rio Grande. Anais NAVTEC 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Engenharia de Serviço na Indústria Naval</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MORAES, F. ; BOTELHO, Silvia Silva da Costa ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="cluster">
+   <int>4906</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4906</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE LARS, 2012, 2012, Fortaleza. Proceedings of IEEE Latin American Robotic Systems - IEEE LARS, 2012. New York: IEEE Xplore</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Parallel High Dimensional Self Organizing Maps Using CUDA</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PIRES, F. ; ASSIS, L. F. ; DUARTE FILHO, Nelson Lopes ; BOTELHO, S.</string>
+  </void>
+  <void property="cluster">
+   <int>4903</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4903</int>
+  </void>
+  <void property="localPublicado">
+   <string>NAVTEC 2012 - Conferência Internacional em Tecnologias Naval e Offshore: Ciência e Inovação, 2012, Rio Grande. Anais NAVTEC 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Sistema Integrado para Controle de Projetos na Construção Naval com Análise de Risco</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>ALMEIDA, F. ; BOTELHO, Silvia Silva da Costa ; Silveira, L. ; DREWS, Paulo ; Maffei, Renan ; DUARTE FILHO, Nelson Lopes ; BICHO, A. ; LONGARAY, M.</string>
+  </void>
+  <void property="cluster">
+   <int>4340</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4905</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Latin American Robotic Systems - IEEE LARS, 2012, 2012, Fortaleza. Proceedings of IEEE Latin American Robotic Systems - IEEE LARS, 2012. New York: IEEE Xplore</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Using Space D* for Crowded Real Robots Environments</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>ESPINDOLA, Danubia ; DUARTE FILHO, Nelson Lopes ; BOTELHO, Silvia Silva da Costa ; CARVALHO, J. ; PEREIRA, C. E.</string>
+  </void>
+  <void property="cluster">
+   <int>4518</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4904</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Sixth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies, 2012, Barcelona. Anais of The Sixth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies. Barcelona: IARIA</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Internet of Things to Provide Scalability in Product-Service Systems</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE FILHO, Nelson Lopes (Org.) ; BOTELHO, Silvia Silva da Costa (Org.) ; ESTEFEN, S. (Org.) ; PINTO, E. C. (Org.) ; GIROLDO, D. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>4898</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4898</int>
+  </void>
+  <void property="localPublicado">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Offshore and Marine Technology: Science and Innovation</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PINTO, E.C. (Org.) ; GIROLDO, D. (Org.) ; DUARTE FILHO, Nelson Lopes (Org.) ; BOTELHO, Silvia Silva da Costa (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>4897</int>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4897</int>
+  </void>
+  <void property="localPublicado">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Conferência Internacional em Tecnologia Naval e Offshore: Ciência e Inovação</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Silveira, Luan ; Maffei, Renan Q. ; Botelho, Silvia S. C. ; Drews, Paulo L. ; Bicho, Alessandro de L. ; DUARTE FILHO, Nelson Lopes</string>
+  </void>
+  <void property="id_membro">
+   <int>26</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4893</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of the Brazilian Computer Society (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nelson Lopes Duarte Filho</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Space D*</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; DA ROSA JUNIOR, L. S. ; CHIAPPETTA FILHO, E. J. D. ; MOURA, D. S. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4989</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXIII South Symposium on Microelectronics (SIM), 2008, Bento Gonçalves. Proceedings of XXIII South Symposium on Microelectronics (SIM). Porto Alegre: Evangraf</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Accurate Method for Subthreshold and Gate Leakage Current Estimation in CMOS Complex Gates</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MOURA, D. S. ; BUTZEN, P. F. ; ROSA JR, L. S. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5012</int>
+  </void>
+  <void property="localPublicado">
+   <string>VIII Student Forum on Microelectronics, 2008, Gramado. VIII Student Forum on Microelectronics. Porto Alegre: SBC</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Fast Algorithm to Leakage Power Reduction by Input Vector Control</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>CHIAPPETTA F., E.J.D. ; BUTZEN, P. F. ; ROSA JR, L. S. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5011</int>
+  </void>
+  <void property="localPublicado">
+   <string>VIII Student Forum on Microelectronics, 2008, Gramado. VIII Student Forum on Microelectronics. Porto Alegre: SBC</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>A Simple Model to Estimate Intrinsic Power Consumption in CMOS Logic Gates</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; ROSA JR, L. S. ; CHIAPPETTA F., E.J.D. ; MOURA, D. S. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4991</int>
+  </void>
+  <void property="localPublicado">
+   <string>17th ACM/IEEE International Workshop on Logic and Synthesis, 2008, Lake Tahoe. Workshop Notes of the 17th ACM/IEEE International Workshop on Logic and Synthesis</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Subthreshold and Gate Leakage Estimation in Complex Gates</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Keane, John ; Venkatraman, Shrinivas ; BUTZEN, P. F. ; KIM, C. H.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4990</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Custom Integrated Circuits Conference, 2008. Custom Integrated Circuits Conference</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An array-based test circuit for fully automated gate dielectric breakdown characterization</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; DA ROSA JUNIOR, L. S. ; CHIAPPETTA FILHO, E. J. D. ; MOURA, D. S. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4988</int>
+  </void>
+  <void property="localPublicado">
+   <string>18th ACM Great Lakes symposium on VLSI (GLSVLSI), 2008, Orlando, Florida. Proceedings of 18th ACM Great Lakes symposium on VLSI (GLSVLSI). New York: ACM</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simple and Accurate Method for Fast Static Current Estimation in CMOS Complex Gates with Interaction of Leakage Mechanisms</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, D. C. ; BUTZEN, P. F. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5010</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Student Forum on Microelectronics, 2009, Natal. IX Student Forum on Microelectronics. Natal</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Evaluation of Standard Cell Libraries with Different Templates and Gate design approaches</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4976</int>
+  </void>
+  <void property="localPublicado">
+   <string>Ricardo Reis. (Org.). Advanced Topics on VLSI Design. 1ed.Porto Alegre</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Leakage Current in Sub-Micrometer CMOS Gates</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; DAL BEM, V. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4977</int>
+  </void>
+  <void property="localPublicado">
+   <string>J. Mattos, L. Rosa Jr.; M. Pilla. (Org.). Desafios e Avanços em Computação: o Estado da Arte. Pelotas, RS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Efeitos Físicos Nanométricos em Circuitos Integrados Digitais</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4987</int>
+  </void>
+  <void property="localPublicado">
+   <string>24th South Symposium on Microelectronics, 2009, Pelotas. Proceedings of the 24th South Symposium on Microelectronics. Pelotas: Editora e Gráfica Universitária PREC-UFPel</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Loading Effect Analysis Considering Routing Resistance</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4986</int>
+  </void>
+  <void property="localPublicado">
+   <string>International19th International Workshop on Power And Timing Modeling Optimization and Simulation, 2009, Delft. Lecture Notes in Computer Science</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Routing Resistance Influence in Loading Effect on Leakage Analysis</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; DAL BEM, V. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4973</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of Low Power Electronics (Print)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Leakage Analysis Considering the Effect of Inter-Cell Wire Resistance for Nanoscaled CMOS Circuits</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; Dal BEM, V. ; REIS, A. I. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4975</int>
+  </void>
+  <void property="localPublicado">
+   <string>Microelectronics and Reliability</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Transistor Network Restructuring Against NBTI Degradation</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; DAL BEM, V. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4985</int>
+  </void>
+  <void property="localPublicado">
+   <string>South Symposium on Microelectronics, 2010, Porto Alegre. Proceedings. Porto Alegre: EDIPUCRS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Designing NBTI Robust Gates</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; ROSA JR, L. S. ; CHIAPPETTA F., E.J.D. ; REIS, A. I. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4974</int>
+  </void>
+  <void property="localPublicado">
+   <string>Microelectronics Journal</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Standby Power Consumption Estimation by Interacting Leakage Current Mechanisms in Nanoscaled CMOS Digital Circuits</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, I. A. C. ; BUTZEN, P. F. ; MEINHARDT, C.</string>
+  </void>
+  <void property="cluster">
+   <int>4505</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5009</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - FURG, 2011, Rio Grande. Anais da Mostra de Produção Universitária - FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Projeto de um Bloco de Memória SRAM na Tecnologia de 16nm</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DAL BEM, V. ; BUTZEN, P. F. ; MARRANGHELLO, F. S. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4984</int>
+  </void>
+  <void property="localPublicado">
+   <string>29th IEEE International Conference on Computer Design - ICCD 2011, 2011, Amherst. Proceedings of 29th IEEE International Conference on Computer Design - ICCD 2011</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Impact and optimization of lithography-aware regular layout in digital circuit design</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DAL BEM, V. ; BUTZEN, P. F. ; KLOCK, C. E. ; CALLEGARO, V. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4983</int>
+  </void>
+  <void property="localPublicado">
+   <string>24th Symposium on Integrated Circuits and Systems Design - SBCCI 2011, 2011, João Pessoa. Proceedings of 24th Symposium on Integrated Circuits and Systems Design - SBCCI 2011</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Area impact analysis of via-configurable regular fabric for digital integrated circuit design</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DAL BEM, V. ; BUTZEN, P. F. ; MARRANGHELLO, F. S. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4982</int>
+  </void>
+  <void property="localPublicado">
+   <string>26th South Symposium on Microelectronics - SIM2011, 2011, Novo Hamburgo. Proceedings of South Symposium on Microelectronics - SIM2011</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Area Overhead and Performance Impact of Regular Transistor Layout Design in Digital Integrated Circuit</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>ZIMPECK, A. L. ; AGUIAR, Y. Q. ; MACIEL, B. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4502</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5003</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Anais da Mostra de Produção Universitária - MPU FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Projeto de um Somador Tolerante a Falhas com Baixo Consumo de Potência</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BUTZEN, P. F. ; DAL BEM, V. ; REIS, A. I. ; RIBAS, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4981</int>
+  </void>
+  <void property="localPublicado">
+   <string>South Symposium on Microelectronics, 2012, São Miguel das Missões. Proceedings of South Symposium on Microelectronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Logic Gates Design for Aging Enhancement</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>STERZ, A. P. ; NUNES, C. S. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4504</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5004</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Anais da Mostra de Produção Universitária - MPU FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Avaliação do Desempenho e Consumo de Potência de Portas Lógicas CMOS em Tecnologias Nanométricas</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BRUN, J. V. ; BUTZEN, P. F. ; MEINHARDT, C.</string>
+  </void>
+  <void property="cluster">
+   <int>4506</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5005</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Anais da Mostra de Produção Universitária - MPU FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Projeto de Flip-Flops tipo D com Baixo Consumo de Potência</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>AGUIAR, Y. Q. ; MACIEL, B. ; ZIMPECK, A. L. ; BUTZEN, P. F. ; MEINHARDT, C.</string>
+  </void>
+  <void property="cluster">
+   <int>4507</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5006</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Anais da Mostra de Produção Universitária - MPU FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Otimização do Dimensionamento dos Transistores de um Circuito Somador para Redução de Atrasos e Consumo de Potência</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, C. S. ; SILVA, A. N. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4508</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5007</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Anais da Mostra de Produção Universitária - MPU FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Avaliação de Famílias Lógicas para Circuitos com Baixo Consumo de Potência</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Keane, John ; Venkatraman, Shrinivas ; BUTZEN, P. F. ; KIM, C. H.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4972</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Print)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>An Array-Based Test Circuit for Fully Automated Gate Dielectric Breakdown Characterization</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, A. N. ; NUNES, C. S. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4509</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5008</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária - MPU FURG, 2011, Rio Grande. Anais da Mostra de Produção Universitária - MPU FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Avaliação da Eficácia de Modelos de Transistores no Projeto de Circuitos com Baixo Consumo de Energia</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>AFONSO, R. M. ; BUTZEN, P. F. ; MEINHARDT, C.</string>
+  </void>
+  <void property="cluster">
+   <int>4500</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5000</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>AVALIAÇÃO ELÉTRICA DE LATCHES EM TECNOLOGIA CMOS NANOMÉTRICA</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SCHIVITTZ, R. ; BUTZEN, P. F. ; MEINHARDT, C.</string>
+  </void>
+  <void property="cluster">
+   <int>4499</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4999</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Automatização da caracterização do consumo de potência estática em circuitos CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>REIS, A. I. ; BUTZEN, P. F. ; Dal BEM, V. ; REIS, A. I. ; RIBAS, Renato Perez</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4971</int>
+  </void>
+  <void property="localPublicado">
+   <string>Microelectronics and Reliability</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Design of CMOS logic gates with enhanced robustness against aging degradation</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>TOLEDO, S. P. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4501</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5001</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>AVALIAÇÃO DE TRÊS ARQUITETURAS DE SOMADORES PROJETADOS EM TECNOLOGIAS CMOS NANOMÉTRICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>STERZ, A. P. ; BUTZEN, P. F. ; MEINHARDT, C. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5002</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Avaliação Elétrica de Diferentes Portas Lógicas XOR CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BRUN, J. V. ; BUTZEN, P. F. ; MEINHARDT, C. ; AZZOLIN, R.</string>
+  </void>
+  <void property="cluster">
+   <int>4492</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4992</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Caracterização temporal de Flip-Flops D</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, C. S. ; SILVA, A. N. ; GOMES, I. A. C. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4477</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4980</int>
+  </void>
+  <void property="localPublicado">
+   <string>South Symposium on Microelectronics (SIM 2012), 2012, São Miguel das Missões. Proceedings of South Symposium on Microelectronics (SIM 2012)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Evaluating the Efficacy of Low Power Process to Design Low Power Circuits</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, L. A. ; BUTZEN, P. F. ; MEINHARDT, C.</string>
+  </void>
+  <void property="cluster">
+   <int>4498</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4998</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>MECANISMO DE INJEÇÃO DE FALHAS DO TIPO SET EM CIRCUITOS COMBINACIONAIS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, A. N. ; MACHADO, I. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4476</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4979</int>
+  </void>
+  <void property="localPublicado">
+   <string>South Symposium on Microelectronics (SIM 2012), 2012, São Miguel das Missões. Proceedings of South Symposium on Microelectronics (SIM 2012)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Full Adders Architectures Evaluation for 32nm Technology</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>ZIMPECK, A. L. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4493</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4993</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>SIMULADOR DE FALHAS STUCK-OPEN PARA PORTAS LÓGICAS CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, I. A. C. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4475</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4978</int>
+  </void>
+  <void property="localPublicado">
+   <string>SIM 2012 - South Symposium on Microelectronics, 2012, São Miguel das Missões. Proceedings of SIM 2012 - South Symposium on Microelectronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of 16nm SRAM Architecture</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>WIECZORECK, I. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4497</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4997</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>EMPREGO DE REDUNDÂNCIA PARA AUMENTAR A CONFIABILIDADE DE CIRCUITOS CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, I. A. C. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4472</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4970</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Junior de Iniciação Científica em Ciências Exatas e Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Projeto de um Bloco de Memória SRAM em Tecnologias CMOS Nanométricas de 16nm</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, F. G. R. G. ; MEINHARDT, C. ; BUTZEN, P. F.</string>
+  </void>
+  <void property="cluster">
+   <int>4494</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4994</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>PROJETO DE SOMADORES DE 1 BIT EM TECNOLOGIAS NANOMÉTRICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, I. ; BUTZEN, P. F. ; MEINHARDT, C.</string>
+  </void>
+  <void property="cluster">
+   <int>4496</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4996</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>DESENVOLVIMENTO DE UMA FERRAMENTA PARA A CARACTERIZAÇÃO TEMPORAL DE PORTAS LÓGICAS CMOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>ULLOA, G. ; BUTZEN, P. F. ; MEINHARDT, C.</string>
+  </void>
+  <void property="cluster">
+   <int>4495</int>
+  </void>
+  <void property="id_membro">
+   <int>29</int>
+  </void>
+  <void property="id_publicacao">
+   <int>4995</int>
+  </void>
+  <void property="localPublicado">
+   <string>11ª Mostra da Produção Universitária MPU, 2012, Rio Grande. 11ª Mostra da Produção Universitária MPU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Paulo Francisco Butzen</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>DESENVOLVIMENTO DE UMA FERRAMENTA EDUCACIONAL PARA O ESTUDO DE FAMÍLAS LÓGICAS MOS ESTÁTICAS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5269</int>
+  </void>
+  <void property="localPublicado">
+   <string>21st Symposium on Integrated Circuits and Systems Design, 2008, Gramado, Brasil. 21st Symposium on Integrated Circuits and Systems Design</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Novel Hardware Architecture Design for Binary Arithmetic Decoder Engines Based on Bitstream Flow Analysis</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S. ; GERVINI, V. I. ; GOMES, S. C. P. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5250</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A hardware DC motor emulator</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Cassel, D. ; ROSA, A. L. M. ; HARTMANN, E. ; PEREIRA, I. M. ; MOREIRA, T. G. ; GUIMARAES JR., D. S. ; GERVINI, V. I. ; ROSA, V. S. ; GOMES, S. C. P. ; COELHO, J. F. L. ; PINTO, W. T.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5271</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Seminário e Workshop em Engenharia Oceânica, 2008, Rio Grande. III Seminário e Workshop em Engenharia Oceânica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Desenvolvimento de Controladores para uma Plataforma Móvel Destinada ao Estudo da Interação Fluido-Estrutura</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, J. F. L. ; PINTO, W. T. ; GOMES, S. C. P. ; ROSA, V. S. ; GERVINI, V. I. ; ROSA, A. L. M. ; Cassel, D. ; HARTMANN, E.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5270</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Seminário e Workshop em Engenharia Oceânica, Semengo&apos;08, 2008, Rio Grande. III Seminário e Workshop em Engenharia Oceânica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Construção de um canal de testes para estudo de interação fluido-estrutura</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MOREIRA, T. G. ; GUIMARAES JR., D. S. ; DINIZ, C. M. ; ROSA, V. S. ; GOMES, S. C. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5268</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Workshop Iberchip, 2008. XIV Workshop Iberchip</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>FPGA Implementation of a AC Motor Controller with a hardware/software codesign approach</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5267</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Workshop Iberchip, 2008, Puebla, México. XIV Workshop Iberchip</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design and Implementation of a High-Performance Architecture for Binarization Methods of Defined by H.264/AVC Standard</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5266</int>
+  </void>
+  <void property="localPublicado">
+   <string>IFIP International Conference on Very Large Scale Integration. VLSI - SoC 2008., 2008, Rodes, Grécia. IFIP International Conference on Very Large Scale Integration</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Novel Hardware Architecture Dedicated to Binary Arithmetic Decoder Engines for the H.264/AVC CABAD</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DAITX, F. F. ; ROSA, V. S. ; COSTA, E. ; BAMPI, S. ; FLORES, P. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5265</int>
+  </void>
+  <void property="localPublicado">
+   <string>2nd International Conference on Signals, Circuits and Systems. SCS 2008., 2008, Tunísia. 2nd International Conference on Signals, Circuits and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>VHDL generation of optimized FIR filters</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Cassel, D. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5264</int>
+  </void>
+  <void property="localPublicado">
+   <string>24º simpósio sul de microeletrônica, 2009, Pelotas, RS. 24º simpósio sul de microeletrônica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of Hardware/Software board for the Real Time Control of Robotic Systems</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S. ; Altamiro A. Susin ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5263</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009, 2009, Pelotas, RS. 24º simpósio sul de microeletrônica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A High Performance H.264 Deblocking Filter Hardware Architecture</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>SOARES, L. B. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5261</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009, 2009, Pelotas, RS. 24º simpósio sul de microeletrônica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Data storage using Compact Flash card and Hardware/Software Interface for FPGA Embedded Systems</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S. ; Altamiro A. Susin ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5260</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 3rd Pacific-Rim Symposium on Image and Video Technology, 2009, Tóquio, Japão. Pacific-Rim Symposium on Image and Video Technology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A high performance H.264 Deblocking Filter</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, A. L. M. ; TADEO, G. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5262</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009, 2009, Pelotas, RS. 24º simpósio sul de microeletrônica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of Electronic Interfaces to Control Robotic Systems Using FPGA</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S. ; Silva, L. M. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5254</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop IBERCHIP, 2010, Foz do Iguaçu, PR, Brasil. XVI Workshop IBERCHIP</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An H.264 Deblocking Filter in FPGA with RGB Video Output</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, S. C. P. ; ZEILMANN, A. P ; TERRES, M. A. S. M. ; SOARES, L. B. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5258</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling - 4º MCSUL, 2010, RIo Grande. 4th Southern Conference on Computational Modeling - 4º MCSUL</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Análise sobre Leis de Controle para Veículos Subaquáticos Não Tripulados</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S. ; GERVINI, V. I. ; GOMES, S. C. P. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5257</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Latin American Symposium on Circuits and Systems, 2010, Foz do Iguaçu. IEEE Latin American Symposium on Circuits and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A hardware DC Motor emulator</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S. ; Silva, L. M. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5256</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Conference on Electronic Circuits and Systems, 2010, Atenas. Proceedings of the 17th International Conference on Electronic Circuits and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>High Performance Architectures for the Arithmetic Encoder of the H.264/AVC CABAC Entropy Coder</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Martins, A. L. M. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5255</int>
+  </void>
+  <void property="localPublicado">
+   <string>Electronics, Circuits, and Systems (ICECS), 2010 17th IEEE International Conference on, 2010, Atenas. Proceedings of 17th International Conference on Electronic Circuits and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A low-cost hardware architecture binarizer design for the H.264/AVC CABAC entropy coding</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SOARES, L. B. ; GOMES, S. C. P. ; GERVINI, V. I. ; ROSA, V. S. ; BELLICANTA, L. S. ; ZEILMANN, A. P ; GOMES, S. S.</string>
+  </void>
+  <void property="cluster">
+   <int>5259</int>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5259</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling - 4º MCSUL, 2010, Rio Grande. 4th Southern Conference on Computational Modeling - 4º MCSUL</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Aquisição e Análise de Modos de Vibração em Estruturas Flexíveis</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Nunez, A. F. ; VEIGA, F. F. ; LONGHI, J. P. C. ; ROSA, V. S. ; OLIVEIRA, V. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5253</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra Nacional de Robótica MNR, 2011, São João Del Rey / MG. Mostra Nacional de Robótica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TANQUE BATEDOR: UM ROBÔ TELEOPERADO PARA INSPEÇÃO EM AMBIENTES INÓSPITOS</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SOARES, L. B. ; TERRES, M. A. S. M. ; GOMES, S. C. P. ; GERVINI, V. I. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5251</int>
+  </void>
+  <void property="localPublicado">
+   <string>VIII Southern Programmable Logic Conference - SPL 2012, 2012, Bento Gonçalves. VIII Southern Programmable Logic Conference - SPL 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>HW/SW FPGA Design for Active Control of Flexible Structures</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SCHUCH, L. W. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>38</int>
+  </void>
+  <void property="id_publicacao">
+   <int>5252</int>
+  </void>
+  <void property="localPublicado">
+   <string>VIII Southern Programmable Logic Conference - SPL 2012 - Designer Forum, 2012, Bento Gonçalves. Southern Programmable Logic Conference - SPL 2012 - Designer Forum</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Emulador de Motor DC em Hardware</string>
+  </void>
+ </object>
+</java>

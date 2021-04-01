@@ -1,0 +1,5163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>MARCHI, Ana Carolina Bertoletti de ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10667</int>
+  </void>
+  <void property="localPublicado">
+   <string>RENOTE. Revista Novas Tecnologias na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Proposta de Padrão de Metadados para Objetos de Aprendizagem de Museus de Ciências e Tecnologia</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10662</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10662</int>
+  </void>
+  <void property="localPublicado">
+   <string>Electronic Notes in Theoretical Computer Science</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Interactive Computation:Stepping Stone in the Pathway From Classical to Developmental Computation</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; PALAZZO, Luiz Antônio Moro</string>
+  </void>
+  <void property="cluster">
+   <int>10661</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10661</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of the Brazilian Computer Society</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>System of Exchange Values as Tools for Multi-Agent Organizations</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; Gonçalves, L. V. ; Pereira, D. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10657</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10657</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of the Brazilian Computer Society (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Recognizing and learning models of social exchange strategies for the regulation of social interactions in open agent societies</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>DUARTE, Glaucius Décio ; COSTA, A. C. R. ; CARNEIRO, M. L. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10660</int>
+  </void>
+  <void property="localPublicado">
+   <string>RENOTE. Revista Novas Tecnologias na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Diagramas MOISE+ para Organização de Cursos na UAB/CEFET-RS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Princípios ; de ; um ; Modelo ; Baseado ; em ; Valores ; de ; Troca ; para ; Avaliação ; de ; Situações ; de ; Cooperação. ; RENOTE. ; Revista ; Novas ; Tecnologias ; na ; Educação, CINTED-UFRGS, Porto ; Alegre, v. ; 3, n.2, p. ; 1-11, 2005. ; Citações:1</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10663</int>
+  </void>
+  <void property="localPublicado">
+   <string>RENOTE. Revista Novas Tecnologias na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Princípios de um Modelo Baseado em Valores de Troca para Avaliação de Situações de Cooperação</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>MARCHI, Ana Carolina Bertoletti de ; TESTA, C. D. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10664</int>
+  </void>
+  <void property="localPublicado">
+   <string>RENOTE. Revista Novas Tecnologias na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Um Ambiente de Comunidade Virtual baseado em Objetos de Aprendizagem para Apoiar a Aprendizagem em Museus</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Teoria ; Piagetiana ; das ; Trocas ; Sociais ; e ; sua ; Aplicação ; aos ; Ambientes ; de ; Ensino-aprendizagem. ; Informática ; na ; Educação, Porto ; Alegre, v. ; 6, n.1, p. ; 1-10, 2003.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10670</int>
+  </void>
+  <void property="localPublicado">
+   <string>Informática na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Teoria Piagetiana das Trocas Sociais e sua Aplicação aos Ambientes de Ensino-aprendizagem</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>BERTOLETTI, Ana Carolina ; MORAES, Márcia Cristina ; MORAES, Roque ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10671</int>
+  </void>
+  <void property="localPublicado">
+   <string>RENOTE. Revista Novas Tecnologias na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Educar pela Pesquisa - uma abordagem para o desenvolvimento e utilização de softwares educacionais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.. Proceedings of BWSS - Brazilian Workshop on Social Simulation. Porto Alegre: SBC, 2008. v. 1.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10677</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.. Anais do WESAAC 2007 - 1o. Workshop-Escola de Sistemas de Agentes para Ambientes Colaborativos. Pelotas: UCPel, 2007. v. 1. 180p .</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10678</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.. The Cultural Level in Agent Societies. In: Gustavo A. Gimenez Lugo; Jomi F. Hübner; Cesar A. Tacla. (Org.). 2011 Workshop and School of Agent Systems, their Environment and Applications (WESAAC). 1ed.Los Alamitos: IEEE CPS, 2012, v. 1, p. 1-19.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10681</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>AGUIAR, Marilton Sanchotene de ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10665</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10665</int>
+  </void>
+  <void property="localPublicado">
+   <string>Numerical Algorithms</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>ICTM: An Interval Tessellation-Based Model for Reliable Topographic Segmentation</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.. The Cultural Level of Agent Societies. In: Gustavo Lugo; Jomi Hubner. (Org.). Post-Procedings of the 2011 Workshop and School of Agent Systems, their Environment and Applications (WESAAC). 1ed.New York: IEEE, 2011, v. 1, p. 1-19.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10695</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.. Conceitos Elementares de Programacao Em Logica. In: Dalcidio Moraes Claudio; Laira Vieira Toscani; Tiarajú Asmuz Divério. (Org.). Fundamentos da Matemática Computacional. Porto Alegre: D.C.Luzzato Editores Ltda, 1987, v. , p. 0125-0136.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10706</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Esboço ; de ; um ; Modelo ; Semântico ; Fenomenológico ; para ; Processos ; Intencionais ; de ; Agentes ; Computacionais. ; In: ; 3º ; Workshop-Escola ; de ; Informática ; Teórica ; ? ; WEIT ; 2015, 2015, Porto ; Alegre. ; Anais ; do ; WEIT ; 2015. ; Porto ; Alegre: ; UFRGS, 2015. ; v. ; 1. ; p. ; 106-113.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10707</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Proposal ; for ; a ; Notion ; of ; Modularity ; in ; Multiagent ; Systems. ; In: ; EMAS ; 2014 ; - ; International ; Workshop ; on ; Engineering ; Multi-Agent ; Systems, 2014, Paris. ; Proceedings ; of ; EMAS ; 2014. ; Paris: ; IFAMAS, 2014. ; v. ; 1. ; p. ; 21-40.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10709</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; On ; the ; Basic ; Binding ; Structure ; of ; a ; Basic ; Interaction ; Scheme. ; In: ; 27th ; European ; Conference ; on ; Modelling ; and ; Simulation, 2013, Aalesund. ; Proceedings ; of ; ECMS ; 2013, 2013. ; v. ; 1. ; p. ; 907-913.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10710</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Toward ; a ; Formal ; Reconstruction ; of ; Kelsen?s ; Theory ; of ; Legal ; Systems. ; In: ; II ; Workshop-Escola ; de ; Informática ; Teórica ; - ; WEIT ; 2013, 2013, Rio ; Grande. ; Anais ; do ; WEIT ; 2013. ; Pelotas: ; UFPEL, 2013. ; v. ; 1. ; p. ; 1-8.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10714</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>DA ; ROCHA ; COSTA, ANTÔNIO ; CARLOS. ; Situated ; legal ; systems ; and ; their ; operational ; semantics. ; Artificial ; Intelligence ; and ; Law ; (Dordrecht. ; Print), v. ; 23, p. ; 43-102, 2015.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10653</int>
+  </void>
+  <void property="localPublicado">
+   <string>Artificial Intelligence and Law (Dordrecht. Print)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Situated legal systems and their operational semantics</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Relativismo ; Epist?emico ; em ; Sociedades ; de ; Agentes: ; Uma ; Modelagem ; Semântica ; Preliminar. ; In: ; Workshop-Escola ; de ; Informática ; Teórica ; - ; WEIT ; 2011, 2011, Pelotas. ; Anais ; do ; WEIT ; 2011. ; Pelotas: ; UFPEL, 2012. ; v. ; 1. ; p. ; 122-133.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10729</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Possíveis ; Aplicações ; da ; Psicologia ; de ; Kurt ; Lewin ; aos ; Sistemas ; Multiagentes.. ; In: ; VII ; Oficina ; de ; Inteligência ; Artificial, 2003, Pelotas. ; Anais. ; Pelotas: ; Educat, 2003. ; v. ; 1. ; p. ; 1-12.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10744</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Current ; Research ; Work ; In ; Theoretical ; Computer ; Science ; At ; Esin/Ucpel. ; In: ; 98 ; - ; I ; Workshop ; de ; Métodos ; Formais, 1998, Porto ; Alegre. ; Current ; Research ; Work ; in ; Theoretical ; Computer ; Science ; at ; ESIN/UCPel, 1998. ; v. ; 1.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10745</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; A ; Net ; Based ; Model ; for ; Logic ; Machines. ; In: ; COGNITIVA ; 85, 1985, Paris. ; Proceedings ; of ; COGNITIVA ; 85. ; Paris: ; CESTA ; - ; Centre ; d&apos;Etudes ; des ; Systèmes ; et ; des ; Technologies ; Avancées, 1985. ; v. ; 1. ; p. ; 1-10.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10746</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Uma ; Semântica ; Operacional ; para ; a ; Interpretação ; Concorrente ; de ; Programas ; em ; Lógica. ; In: ; INFORMATICA&apos;84 ; - ; XVII ; Congresso ; Nacional ; de ; Informática, 1984, Rio ; de ; Janeiro. ; Anais ; do ; XVII ; Congresso ; Nacional ; de ; Informática. ; Rio ; de ; Janeiro: ; SUCESU, 1984. ; v. ; 1. ; p. ; 1-10.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10747</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. ; C. ; R.. ; Modelagem ; do ; Computador ; de ; von ; Neumann ; através ; de ; Redes ; de ; Canais ; e ; Agências. ; In: ; VIII ; SEMISH, 1981, Florianópolis. ; Anais ; do ; VIII ; SEMISH. ; Florianópolis: ; UFSC, 1981. ; v. ; 1. ; p. ; 1-15.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10748</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.. Retrospectiva dos Trabalhos em Matemática Intervalar na ESIN/UCPel. In: XXVII CONGRESSO NACIONAL DE MATEMÁTICA APLICADA E COMPUTACIONAL, 2004, Porto Alegre. CD do CNMAC 2004. São José dos Campos: SBMAC, 2004. p. 55-55.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10754</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.. Sites Internos Adapatativos para o Sistema ENSINET. In: III Workshop de Software Livre, 2002, Porto Alegre. Anais, 2002. v. 1. p. 102-105.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10755</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>MORAES, Márcia Cristina ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10668</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Tecnologia da Informação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>IMP-BDI: Improvisational BDI Architecture</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>SOUZA, Diego Lemos de ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; BARBOSA, R. M.</string>
+  </void>
+  <void property="cluster">
+   <int>10669</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10669</int>
+  </void>
+  <void property="localPublicado">
+   <string>RENOTE. Revista Novas Tecnologias na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>ENSINET/NAV: Uma ferramenta para estruturação de cursos baseados em objetos de aprendizagem</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>REISER, Renata Hax Sander ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10666</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10666</int>
+  </void>
+  <void property="localPublicado">
+   <string>Numerical Algorithms</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>The Interval Geometric Machine Model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BARBOSA, R. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10732</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uso de CSP na Especificação Formal do Nível Micro-Organizacional de Sistemas Multiagentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10736</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10736</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Multi-Agent Logics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>BDI Agents with Fuzzy Perception for Simulating Decision Making in Environments with Imperfect Information</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; MUSSI, R. L.</string>
+  </void>
+  <void property="cluster">
+   <int>10740</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10740</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Sistemas Fuzzy</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Sobre Números Fuzzy Intervalares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Hübner, A. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; MATTOS, V.</string>
+  </void>
+  <void property="cluster">
+   <int>10735</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10735</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Multi-Agent Logics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Dialogic Dimension for the MOISE+ Organizational Model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Hübner, A. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira ; MATTOS, V. ; HERNANDES, S. ; MAILANGE, M.</string>
+  </void>
+  <void property="cluster">
+   <int>10731</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10731</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Introdução da Dimensão Dialógica no Moise+, com Aplicação na Modelagem de Processos de Gestão em uma Universidade Comunitária</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>JEANNES, F. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10733</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo de Agente Econômico Cognitivo com Base no Conceito de Agentes BDI</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Pereira, D. R. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10734</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas Multiagentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Teoria dos Jogos aplicada à coordenação de agentes, utilizando Teoria dos Valores de Troca</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; COSTA, A. C. R. ; TRIGO, P.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10741</int>
+  </void>
+  <void property="localPublicado">
+   <string>Second Brazilian Workshop on Social Simulation (BWSS 2010) at Joint Conferences XX SBIA/XI SBRN/IV JRI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>On the Operationality of Moral-Sense Decision Making</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; COSTA, A. C. R. ; TRIGO, P.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10742</int>
+  </void>
+  <void property="localPublicado">
+   <string>12th Ibero-American Conference on AI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Moral Minds as Multiple-Layer Organizations</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10730</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10730</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Agentes BDI com Percepção Fuzzy na Simulação de um Modelo Presa-Predador Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; COSTA, A. C. R. ; TRIGO, P.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10743</int>
+  </void>
+  <void property="localPublicado">
+   <string>INFORUM - Simpósio de Informática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Decision Making for Agent Moral Conducts</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BARBOSA, R. M. ; COSTA, A. C. R. ; TEDESCO, P. ; Mota, A.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10700</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Uso de CSP na Especificação Formal do Nível Micro-Organizacional de SMAs. Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>JEANNES, F. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10701</int>
+  </void>
+  <void property="localPublicado">
+   <string>D.F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Modelo de Agente Econômico Cognitivo com Base no Conceito de Agentes BDI</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Pereira, D. R. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10702</int>
+  </void>
+  <void property="localPublicado">
+   <string>D.F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Teoria dos Jogos aplicada à coordenação de agentes, utilizando Teoria dos Valores de Troca</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BARBOSA, R. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10704</int>
+  </void>
+  <void property="localPublicado">
+   <string>R. Trappl. (Org.). Cybernetics and Systems 2010 (Track: From Agent Theory to Agent Implementation AT2AI-7). 1ed.Vienna</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Using CSP in the Formal Specification of the Micro-organizational level of Multiagent Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10698</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10698</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. Adamatti. (Org.). Analisando Trocas Sociais Baseadas em Personalidades Através de Cadeias de Markov Intervalares. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Analisando Trocas Sociais Baseadas em Personalidades Através de Cadeias de Markov Intervalares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10739</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10739</int>
+  </void>
+  <void property="localPublicado">
+   <string>Second Brazilian Workshop on Social Simulation - BWSS 2010 at Joint Conference SBIA/SBRN/JRI 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An Interactional Characterization of Social Functions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10697</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10697</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Agentes BDI com Percepção Fuzzy na Simulação de um Modelo Presa-Predador Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Hübner, A. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira ; MATTOS, V. ; HERNANDES, S.</string>
+  </void>
+  <void property="cluster">
+   <int>10705</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10705</int>
+  </void>
+  <void property="localPublicado">
+   <string>D.F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Introdução da Dimensão Dialógica no Moise+, com Aplicação na Modelagem de Processos de Gestão em uma Universidade Comunitária</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10659</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10659</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista de Informática Teórica e Aplicada (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Aplicação de Agentes BDI com Percepção Fuzzy no Modelo Presa-Predador</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Hübner, A. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10703</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10703</int>
+  </void>
+  <void property="localPublicado">
+   <string>Botelho, S. S. C., Adamatti, D. and Rocha, L. A. O.. (Org.). Third Southern Conference on Computational Modeling (MCSUL), 2009 (Post-Proceedings, Revised Selected Papers). Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Extending the MOISE+ Organizational Model with the Dialogic Dimension</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; Gonçalves, L. V.</string>
+  </void>
+  <void property="cluster">
+   <int>10738</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10738</int>
+  </void>
+  <void property="localPublicado">
+   <string>Second Brazilian Workshop on Social Simulation (BWSS 2010) at Joint Conferences XX SBIA/XI SBRN/IV JRI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>On the Problem of Recognizing and Learning Observable Social Exchange Strategies in Open Societies</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, M. H. I. ; COSTA, A. C. R. ; COELHO, H.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10658</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Pueblos y Frontera Digital</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Exchange Values and Social Power Supporting the Choice of Partners</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10737</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10737</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop on MSc Dissertation and PhD Thesis in Artificial Intelligence</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>BDI Agents with Fuzzy Perception</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, T. F. ; DIMURO, G. ; VON GROL, C. ; PINHEIRO, T. V. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10751</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling/IX Encontro Regional de Matemática Aplicada e Computacional, 2010, Rio Grande. Anais do 4MCSUL/IX ERMAC. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação Baseada em Agentes de Processos de Gestão Social de Ecossistemas Urbanos: o caso das hortas urbanas da cidade de Sevilla</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, C. E. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10752</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas Multiagentes, seus Ambientes e Aplicações, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Especificando Rotinas Organizacionais de Sistemas Multiagentes: Detecção de Desvios com Base no Conceito de Expectativas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10753</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo Híbrido de Agente BDI-Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Gonçalves, L. V. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10699</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10699</int>
+  </void>
+  <void property="localPublicado">
+   <string>D.F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. 73ed.Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Uma arquitetura de Agentes BDI Híbridos para Auto-regulação de Trocas Sociais em Sistemas Multiagentes Abertos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, S. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10750</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10750</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações - WESAAC 2010, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Estendendo o Modelo de Organização de Sistemas Multiagentes PopOrg com Unidades Organizacionais Recursivas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; Vicari, R. M. (Org.) ; Tonidandel, F. (Org.)</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10676</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Advance in Artificial Intelligence - SBIA 2010</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BRIAO, S. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10726</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10726</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Estudo para uma Proposta de Modelos de Tomada de Decisão em Interações Estratégicas para Sistemas Multiagentes em Ambientes de Informação Imperfeita</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Rodrigues, L. M. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10725</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10725</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo Multiagente para Carregamento Compartilhado com Prioridades em um Terminal de Contêineres: Combinando o Problema da Mochila com PDMs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira (Org.) ; COSTA, A. C. R. (Org.) ; SICHMAN, J. S. (Org.) ; TEDESCO, P. (Org.) ; Adamatti, D. (Org.) ; BALSA, J. (Org.) ; Antunes, L. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10673</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10673</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, T. F. ; SANTOS, I. A. S. ; DIMURO, G. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10749</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10749</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2011, Curitiba. Anais do WESAAC 2011. Curitiba: UTFPR</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Modelando a Organização Social de um Experimento de Gestão Social de Hortas Urbanas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Rodrigues, L. M. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; EMMENDORFER, L.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10728</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo Multiagente para Carregamento Compartilhado com Prioridades em um Terminal de Conêineres: Combinando o Problema da Mochila com PDMs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Pereira, D. R. ; Gonçalves, L. V. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10690</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10690</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Analysis of Two Regulation Mechanisms for Personality-Based Social Exchange Processes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10689</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10689</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Interactional Characterization of Social Functions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BARBOSA, R. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10656</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista de Informática Teórica e Aplicada (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Usando CSP, RSL e o Modelo PopOrg na Especificação Formal de Organizações de SMAs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; Gonçalves, L. V.</string>
+  </void>
+  <void property="cluster">
+   <int>10688</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10688</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes.. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>On the Problem of Recognizing and Learning Observable Social Exchange Strategies in Open Societies</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, S. A. (Org.) ; FOSS, L. (Org.) ; AGUIAR, Marilton Sanchotene de (Org.) ; DIMURO, Graçaliz Pereira (Org.) ; COSTA, A. C. R. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10675</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10675</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Post-Proceedings 2011 Workshop-School on Theoretical Computer Science - WEIT 2011</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira (Org.) ; FOSS, L. (Org.) ; AGUIAR, Marilton Sanchotene de (Org.) ; COSTA, S. A. (Org.) ; COSTA, A. C. R. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10674</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10674</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do WEIT 2011 - I Workshop-Escola de Informática Teórica</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; TRIGO, P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10691</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>On the Operationality of Moral-Sense Decision Making</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, M. H. I. ; COSTA, A. C. R. ; COELHO, H.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10692</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Simulating Argumentation about Exchange Values in Multi-agent Interactions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; JEANNES, F. M. ; CAVA, U. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10693</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Equation-Based Models as Formal Specifications of Agent-Based Models for Social Simulation: Preliminary Issues</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, I. A. S. ; RODRIGUES, T. F. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; DIMURO, G. ; MANUEL, E.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10694</int>
+  </void>
+  <void property="localPublicado">
+   <string>Gustavo Lugo; Jomi Hübner.. (Org.). Post-Procedings of the 2011 Workshop and School of Agent Systems, their Environment and Applications (WESAAC). 1ed.New York</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Towards the Modeling of the Social Organization of an Experiment of Social Management of Urban Vegetable Gardens</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Rodrigues, L. M. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; EMMENDORFER, L.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10696</int>
+  </void>
+  <void property="localPublicado">
+   <string>Gustavo A. Giménez Lugo;Jomi F. Hübner;Cesar A. Tacla. (Org.). A Multiagent System-Based Solution for Shipment Operations with Priorities in a Container Terminal. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Multiagent System-Based Solution for Shipment Operations with Priorities in a Container Terminal</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, S. A. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10727</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10727</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Towards Developmental Turing Machines</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, F. P. ; DIMURO, G. ; RODRIGUES, T. F. ; Adamatti, D. ; DIMURO, Graçaliz Pereira ; MANUEL, E. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10720</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10720</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2012 - VI Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelando a Organização Social de um SMA para Simulação dos Processos de Produção e Gestão Social de um Ecossistema Urbano: o caso da Horta San Jerónimo da cidade de Sevilla, Espanha</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P. (Org.) ; ADAMATTI, D. F. (Org.) ; COELHO, H. (Org.) ; SICHMAN, J. S. (Org.) ; BALSA, J. (Org.) ; TEDESCO, P. (Org.) ; COSTA, A. C. R. (Org.)</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10672</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>2012 Third Brazilian Workshop on Social Simulation (BWSS)</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>VEBER, D. L. ; COSTA, A. C. R. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10683</int>
+  </void>
+  <void property="localPublicado">
+   <string>Gustavo A. Giménez Lugo; Jomi F. Hübner; Cesar A. Tacla. (Org.). 2011 Workshop and School of Agent Systems, their Environment and Applications (WESAAC). 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Net Logo and the Climate Change Model as a Tool for the Simulation of the Greenhouse Effect</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, I. A. S. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10722</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2012 - Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulando a Execução de Políticas Públicas através de Jason e CArtAgO</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; SANTOS, I. A. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10723</int>
+  </void>
+  <void property="localPublicado">
+   <string>AMPLE@ECAI 2012 - 2nd International Workshop on Agent-based Modeling for Policy Engineering</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Toward a Framework for Simulating Agent-Based Models of Public Policy Processes on the Jason-CArtAgO Platform</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Rodrigues, L. M. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; EMMENDORFER, L.</string>
+  </void>
+  <void property="cluster">
+   <int>10680</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10680</int>
+  </void>
+  <void property="localPublicado">
+   <string>Gustavo Lugo; Jomi Hübner. (Org.). Post-Procedings of the 2011 Workshop and School of Agent Systems, their Environment and Applications (WESAAC). 1ed.New York</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Multiagent System-Based Solution for Shipment Operations with Priorities in a Container Terminal</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, I. A. S. ; RODRIGUES, T. F. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; DIMURO, G. ; MANUEL, E.</string>
+  </void>
+  <void property="cluster">
+   <int>10682</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10682</int>
+  </void>
+  <void property="localPublicado">
+   <string>Gustavo A. Giménez Lugo; Jomi F. Hübner; Cesar A. Tacla. (Org.). 2011 Workshop and School of Agent Systems, their Environment and Applications (WESAAC). 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Towards the Modeling of the Social Organization of an Experiment of Social Management of Urban Vegetable Gardens</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SICHMAN, J. S. ; COSTA, A. C. R. ; Adamatti, D. ; DIMURO, Graçaliz Pereira ; LIMA NETO, F. B. ; BOMMEL, P.</string>
+  </void>
+  <void property="cluster">
+   <int>10684</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10684</int>
+  </void>
+  <void property="localPublicado">
+   <string>Graçaliz Pereira Dimuro; Diana Francisca Adamatti; Helder Coelho; Jaime Simão Sichman; João Balsa; Patrícia Tedesco; Antônio Carlos da Rocha Costa. (Org.). 2012 Brazilian Workshop on Social Simulation Advances in Social Simulation II. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Overview of Social Simulation Research in Brazil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10685</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10685</int>
+  </void>
+  <void property="localPublicado">
+   <string>Graçaliz Pereira Dimuro; Diana Francisca Adamatti; Helder Coelho; Jaime Simão Sichman; João Balsa; Patrícia Tedesco; Antônio Carlos da Rocha Costa. (Org.). 2012 Third Brazilian Workshop on Social Simulation (BWSS). 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Elementary Social Functions: Concept and Interrelation to Social Dependence Relations</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MACEDO, L. F. K. ; DIMURO, Graçaliz Pereira ; AGUIAR, Marilton Sanchotene de ; COSTA, A. C. R. ; MATTOS, V. ; COELHO, H.</string>
+  </void>
+  <void property="cluster">
+   <int>10686</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10686</int>
+  </void>
+  <void property="localPublicado">
+   <string>Graçaliz Pereira Dimuro; Diana Francisca Adamatti; Helder Coelho; Jaime Simão Sichma; João Balsa; Patrícia Tedesco; Antônio Carlos da Rocha Costa. (Org.). 2012 Brazilian Workshop on Social Simulation, Advances in Social Simulation II. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Analyzing the Evolution of Social Exchange Strategies in Social Preference-Based MAS through an Evolutionary Spatial Approach of the Ultimatum Game</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, F. P. ; RODRIGUES, T. F. ; Adamatti, D. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; DIMURO, G. ; MANUEL, E.</string>
+  </void>
+  <void property="cluster">
+   <int>10687</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10687</int>
+  </void>
+  <void property="localPublicado">
+   <string>Graçaliz Pereira Dimuro; Diana Francisca Adamatti; Helder Coelho; Jaime Simão Sichman; João Balsa; Patrícia Tedesco; Antônio Carlos da Rocha Costa. (Org.). 2012 Brazilian Workshop on Social Simulation, Advances in Social Simulation II. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Modeling Role Interactions in a Social Organization for the Simulation of the Social Production and Management of Urban Ecosystems: The Case of San Jerónimo Vegetable Garden of Seville, Spain</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, F. P. ; RODRIGUES, T. F. ; DIMURO, G. ; Adamatti, D. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; MANUEL, E.</string>
+  </void>
+  <void property="cluster">
+   <int>10715</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10715</int>
+  </void>
+  <void property="localPublicado">
+   <string>BWSS 2012 - The Third Brazilian Workshop on Social Simulation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Modeling Role Interactions in a Social Organization for the Simulation of the Social Production and Management of Urban Ecosystems: the case of San Jerónimo Vegetable Garden of Seville, Spain</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MACEDO, L. F. ; DIMURO, Graçaliz Pereira ; AGUIAR, Marilton Sanchotene de ; COSTA, A. C. R. ; COELHO, H. M. F. ; MATTOS, V.</string>
+  </void>
+  <void property="cluster">
+   <int>10716</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10716</int>
+  </void>
+  <void property="localPublicado">
+   <string>BWSS 2012 - The Third Brazilian Workshop on Social Simulation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Analyzing the Evolution of Social Exchange Strategies in Social Preference-based MAS through an Evolutionary Spatial Approach of the Ultimatum Game</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10717</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10717</int>
+  </void>
+  <void property="localPublicado">
+   <string>BWSS 2012 - The Third Brazilian Workshop on Social Simulation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Elementary Social Functions: Concept and Interrelation to Social Dependence Relations</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10718</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10718</int>
+  </void>
+  <void property="localPublicado">
+   <string>II CBSF - Segundo Congresso Brasileiro de Sistemas Fuzzy</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo de Agente BDI-Fuzzy para Trocas de Serviços Não-Econômicos Baseado na Teoria das Trocas Sociais de Piaget</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, I. A. S. ; MOTA, F. P. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10719</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10719</int>
+  </void>
+  <void property="localPublicado">
+   <string>Encontro Nacional de Inteligência Artificial - ENIA 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um framework para simulação de Políticas Públicas aplicado ao caso da Piracema, sob o olhar da Teoria dos Jogos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10721</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10721</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop on Adaptive and Learning Agents - ALA 2012 / AAMAS 2012 -11th International Conference on Autonomous Agents and Multiagent Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Regulation of Social Exchanges in Open MAS: the problem of reciprocal conversions between POMDPs and HMMs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GONCALVES, G. ; KRUSCHE, N. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10724</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10724</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Utilização de Sistemas Multiagentes para a Modelagem de Mudanças Climáticas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, T. F. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10711</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10711</int>
+  </void>
+  <void property="localPublicado">
+   <string>1st International Workshop on Engineering Multiagent Systems @ AAMAS 2013</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Communication Infrastructure Based on Artifacts for the JaCaMo Platform</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>THOMASI, C. D. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10713</int>
+  </void>
+  <void property="localPublicado">
+   <string>11th European Workshop on Multi-Agent Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>OrIAs: An Artifact-Based Micro-Organizational Level Infrastruture for Multiagent Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>OKUYAMA, Fabio Yoshimitsu ; BORDINI, Rafael Heitor ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10655</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of Logic and Computation (Print)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Situated Normative Infra-structures: The Normative Object Approach</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>DOBRZANSKI, T. ; ALVES, G. V. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10712</int>
+  </void>
+  <void property="localPublicado">
+   <string>ENIAC 2013 ? X National Meeting on Artificial and Computational Intelligence</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Utilizando o MOISE+ na Modelagem de um Sistema Multiagente da Peça Auto da Compadecida</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; COSTA, A. C. R. ; TRIGO, P.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10679</int>
+  </void>
+  <void property="localPublicado">
+   <string>Diana Adamatti; Graçaliz Dimuro; Helder Coelho. (Org.). On Agent Interactions Governed by Morality. 1ed.Hershey</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>On Agent Interactions Governed by Morality</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA DIMURO, GRAÇALIZ ; DA ROCHA COSTA, ANTÔNIO CARLOS</string>
+  </void>
+  <void property="cluster">
+   <int>10654</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10654</int>
+  </void>
+  <void property="localPublicado">
+   <string>Information Sciences</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Regulating social exchanges in open MAS: The problem of reciprocal conversions between POMDPs and HMMs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>PANISSON, A. R. ; BORDINI, Rafael Heitor ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10708</int>
+  </void>
+  <void property="localPublicado">
+   <string>3º Workshop-Escola de Informática Teórica ? WEIT 2015</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Towards Multi-Level Semantics for Multi-Agent Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.. O Intervalo Espectral em uma Região Homogênea. In: VI Workshop Brasileiro de Micrometeorologia, 2009, Santa Maria. Anais. Santa Maria, 2009. v. 1`. p. 1-7.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11715</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.. Atmospheric Wind Spectral Gap: Comparison between Fourier and Wavelet Spectra. In: 2009 Joint Assembly - American Geophysical Union, 2009, Toronto. Eos Trans. AGU Jt. Assem. Suppl. Washington: AGU, 2009. v. 90. p. A13B-08-A13B-08.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11716</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.. ; Contribuição ; das ; Estruturas ; Coerentes ; aos ; Fluxos ; Turbulentos ; de ; Calor ; Sensível ; durante ; maio ; de ; 1995, em ; Candiota, RS. ; In: ; IV ; Escola ; de ; Primavera ; Transição ; e ; Turbulência, 2004, Porto ; Alegre, RS,. ; Anais, 2004. ; v. ; 1. ; p. ; 123-129.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11702</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.. ; Ora, Raios!. ; In: ; Mostra ; Fotográfica ; Ora, Raios!., 2007, Rio ; Grande. ; Produção ; Científica ; de ; Curadoria. ; Rio ; Grande, 2007.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11701</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>CAMPELLO, F. D. ; SARAIVA, J. M. B. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11677</int>
+  </void>
+  <void property="localPublicado">
+   <string>Atmospheric Science Letters</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Periodicity of Atmospheric Phenomena occurring in the Extreme South of Brazil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>PARISE, C. K. ; CALLIARI, L. J. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11675</int>
+  </void>
+  <void property="localPublicado">
+   <string>Brazilian Journal of Oceanography (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Extreme Storm Surges in the south of Brazil: Atmospheric Conditions and shore erosion</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.. ; Análise ; da ; Aplicação ; do ; Método ; de ; Tiederman ; ao ; Estudo ; de ; Estruturas ; Coerentes. ; In: ; X ; Congresso ; Brasileiro ; de ; Meteorologia, 1998, Brasília. ; Anais.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11703</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>da Rocha, RP ; Cuadra, SV ; Reboita, MS ; Kruger, LF ; Ambrizzi, T ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11670</int>
+  </void>
+  <void property="localPublicado">
+   <string>Climate Research</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Effects of RegCM3 parameterizations on simulated rainy season over South America</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.; OLIVEIRA, A. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11676</int>
+  </void>
+  <void property="localPublicado">
+   <string>Boundary - Layer Meteorology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Characterization of Coherent Structures in the Atmospheric Surface Layer</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MOREIRA, R. P. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11700</int>
+  </void>
+  <void property="localPublicado">
+   <string>XV Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Influência Climática na Safra de Penaeus (Farfantepenaeus) Paulensis Perez-Farfante, no períodoentre 1971 e 1972 no Estuário da Lagoa do Patos, Rio Grande do Sul, Brasil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MENDOZA, M. ; KRUSCHE, N. ; LANAU, L.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11699</int>
+  </void>
+  <void property="localPublicado">
+   <string>XV Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estrutura e Manutenção do Banco de Dados Meteorológicos da Universidade Federal do Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>PARISE, C. K. ; CALLIARI, L. J. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11698</int>
+  </void>
+  <void property="localPublicado">
+   <string>XV Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Padrões Atmosféricos Sinóticos geradores de Marés Meteorológicas Intensas na Praia do Cassino, RS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>FRANZEN, M. ; MAIER, É. L. B. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11697</int>
+  </void>
+  <void property="localPublicado">
+   <string>XV Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Previsão Climática de Ensemble utilizando o Modelo EDGCM</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.; ALVES, R. ; MORAES, O. L. L.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11691</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Congreso Latinoamericano e Ibérico de Meteorología e X Congreso Argentino de Meteorología</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Sistema Integrado de Monitoramento do Tempo e do Clima do Sul do Brasil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, C.S. ; GUIMARAES, P. ; KRUSCHE, N. ; CALLIARI, L. J. ; PEREIRA, P. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11714</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Workshop Brasileiro de Micrometeorologia, 2009, Santa Maria. Anais. Santa Maria</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Nevoeiros de Advecção em Rio Grande, de 2005 a 2007</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.; CAPPELLETTO, E. ; PEREIRA, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11696</int>
+  </void>
+  <void property="localPublicado">
+   <string>II Simpósio de Pesquisa em Ensino e História de Ciências da Terra</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Concepções dos Estudantes sobre Conceitos que embasam a Compreensão de Mudanças Climáticas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.; ROCHA, R. P. da</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11695</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Simpósio Internacional de Climatologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Validação de Simulação Climática da Camada Limite Planetária na Região Costeira do Sul do Brasil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, C.S. ; REBOITA, M. S. ; KRUGER, L. F. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11694</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Simpósio Internacional de Climatologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação Climática para o Sul do Brasil com Diferentes Projeções Cartográficas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, C.S. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11693</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Congreso Latinoamericano e Ibérico de Meteorología e X Congreso Argentino de Meteorología</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Nevoeiros na Região Litorânea do Sul do Brasil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.; Gomes, C. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11713</int>
+  </void>
+  <void property="localPublicado">
+   <string>2009 Joint Assembly - American Geophysical Union, 2009, Toronto. Eos Trans. AGU Jt. Assem. Suppl. Washington: AGU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Fog in the coastal region of southern Brazil: seasonal</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, M. B. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11690</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Congreso Latinoamericano e Ibérico de Meteorología e X Congreso Argentino de Meteorología</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Padrões de Precipitação no Sul do Brasil: Comparação entre Observação e Reanálise</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>SARAIVA, L. B. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11692</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Congreso Latinoamericano e Ibérico de Meteorología e X Congreso Argentino de Meteorología</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Avaliação das Brisas Marítimas na região de Rio Grande, RS, na Primavera de 2006</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>dos Santos Albuquerque, P. E. ; KRUSCHE, N. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11712</int>
+  </void>
+  <void property="localPublicado">
+   <string>AGU 2010 Meeting of the Americas, 2010, Foz do Iguaçu. Eos Trans. AGU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Predictability of Precipitation in Southern Brazil, a non-linear approach</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>PASSOW, M. ; KRUSCHE, N. ; CARNEIRO, C. D. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11711</int>
+  </void>
+  <void property="localPublicado">
+   <string>AGU Fall Meeting 2010, 2010, San Francisco, Estados Unidos. 2010 Fall Meeting, AGU. San Francisco, Califoria: AGU</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Rocks, Rain, and Climate: a GIFT Workshop for Teachers in Brazil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MORAES, O. L. L. ; Zimermann, H. R. ; TIECHRIEB, C. A. ; MAGNAGO, R. O. ; CARNEIRO, J. V. ; KRUSCHE, N. ; ALVES, R. ; DEGRAZIA, G. A. ; ACEVEDO, O. ; FISCH, G.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11678</int>
+  </void>
+  <void property="localPublicado">
+   <string>Osvaldo L. L. de Moraes. (Org.). Meteorologia e Poluiçãp Atmosférica: Teoria, Experimentos e Simulação. 1ed.Santa Maria</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Camada Limite Planetária</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, C.S. ; KRUSCHE, N. ; ROCHA, R. P. da</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11674</int>
+  </void>
+  <void property="localPublicado">
+   <string>Ciência e Natura</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação de nevoeiros no litoral sul do Brasil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>NÓBREGA, M. R. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11672</int>
+  </void>
+  <void property="localPublicado">
+   <string>Geosul (UFSC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Diagnóstico Qualitativo da Poluição Atmosferica em Rio Grande -RS, 2000 a 2002</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SARAIVA, L. B. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11673</int>
+  </void>
+  <void property="localPublicado">
+   <string>Ciência e Natura</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Estimativa da altura da camada limite na região de Rio Grande, RS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GUIMARAES, P. ; PEREIRA, P. S. ; CALLIARI, L. J. ; Krusche, N</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11710</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Simpósio de Ondas, Marés, Engenharia Oceânica e Oceanografia por Satélite, 2011, Arraial do Cabo. Anais do IX OMAR-SAT. Arraial do Cabo: Instituto de Estudos do Mar Almirante Paulo Moreira</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Influência das oscilações sul sobre o perfil subaéreo da praia do Cassino, Rio Grande, RS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LIMA, DIOGO VEBER ; COSTA, ANTÔNIO CARLOS DA ROCHA ; KRUSCHE, NISIA</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11707</int>
+  </void>
+  <void property="localPublicado">
+   <string>2011 Workshop and School of Agent Systems, their Environment, and Applications (WESAAC), 2011, Curitiba. 2011 Workshop and School of Agent Systems, their Environment and Applications</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Net Logo and the Climate Change Model as a Tool for the Simulation of the Greenhouse Effect</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>REBOITA, M. S. ; KRUSCHE, N. ; REBOITA, M. S. ; Ambrizzi, T ; DA ROCHA, R. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11671</int>
+  </void>
+  <void property="localPublicado">
+   <string>Terrae Didatica (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Entendendo o Tempo e o Clima na América do Sul</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Gonçalves, G. I. P. ; ROCHA COSTA, A. C. ; Krusche, N</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11709</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Congreso Argentino de Meteorologia, 2012, Mendoza. XI Congremet. Buenos Aires: Centro Argentino de Meteorologos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulações de Mudanças Climáticas usando Sistemas Multiagentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Madruga, J. ; Krusche, N</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11688</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Eventos de Precipitação Extrema na Cidade de Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, C.S. ; Gambetá-Leite, M. R. S. ; SPOLAVORI, A. ; Krusche, N</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11687</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo sobre a Acurácia da Previsão Numérica gerada pelo WRF para a Cidade de Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Gambetá-Leite, M. R. S. ; Krusche, N ; GOMES, C.S.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11686</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação da Brisa Marítima na Região Sul do Rio Grande do Sul utilizando o Modelo WRF</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SPOLAVORI, A. ; Krusche, N ; BOTELHO, S. S. C. ; GOMES, C.S.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11685</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelos Numéricos da Atmosfera: Otimização com Processamento em Unidades Gráficas e Visualização Científica</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.; Reboita, MS</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11683</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Caracterização da Precipitação de Rio Grande, RS, entre 1991 a 2010</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Gomes, C. S. ; Gambetá-Leite, M. R. S. ; SPOLAVORI, A. ; Krusche, N ; ROCHA, R. P. da</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11682</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Congreso Argentino de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação de Nevoeiros de Advecção em Rio Grande, RS, Brasil: Análise das Condições Iniciais e de Fronteira em Modelo de Mesoescala</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SPOLAVORI, A. ; Krusche, N</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11681</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Congreso Argentino de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo de Caso: Simulação Numérica das alterações causadas pelas Mudanças na Excentricidade e Obliquidade da Terra</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Gambetá-Leite, M. R. S. ; Gomes, C. S. ; Krusche, N</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11680</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Congreso Argentino de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Aquecimento Global avaliado pela Comparação entre Modelo Climático Global Educacional e Reanálise NCEP/NCAR no período 1958 a 2010</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Gambetá-Leite, M. R. S. ; VALENTE, R. ; SPOLAVORI, A. ; Krusche, N ; EMMENDORFER, L.</string>
+  </void>
+  <void property="cluster">
+   <int>11584</int>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11689</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Conferência Sul em Modelagem Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estudo de caso sobre o acoplamento de um modelo de previsão numérica ao planejamento de alocação de berços no Porto de Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Gonçalves, G. I. P. ; KRUSCHE, N. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10724</int>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11684</int>
+  </void>
+  <void property="localPublicado">
+   <string>XVII Congresso Brasileiro de Meteorologia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Utilização de Sistemas Multiagentes para a Modelagem de Mudanças Climáticas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>Gambetá-Leite, M. R. S. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11679</int>
+  </void>
+  <void property="localPublicado">
+   <string>XV Congreso Latinoamericano de Ciencias del Mar</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação das Circulações Locais no Rio Grande do Sul: Formação e Interação das Brisas no Interior e Região Costeira : uma comparação entre a brisa marítima/terrrestre em Rio Grande, Brasil e Punta del Este, Uruguai</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>SARAIVA, L. B. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11668</int>
+  </void>
+  <void property="localPublicado">
+   <string>American Journal of Environmental Engineering</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Estimation of the Boundary Layer Height in the Southern Region of Brazil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>Gambetá-Leite, M. R. S. ; Krusche, N</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11669</int>
+  </void>
+  <void property="localPublicado">
+   <string>Ciência e Natura</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação das Circulações Locais no Rio Grande do Sul: Formação e Interação das Brisas no Interior e Região Costeira do Estado</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, N.; DA ROCHA, R. P. ; YNOUE, R. Y. ; Ambrizzi, T ; MORALES, C. A. ; BOTELHO, S. S. C. ; Duarte Filho, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11705</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Conference on Regional Climate - CORDEX 2013, 2013, Bruxelas, Bélgica. International Conference on Regional Climate - CORDEX 2013. Paris, França: website created by WCRP-Support Unit (Paris) - IPSL</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Simulation of land use impacts in the climate of southern Brazil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>Reboita, MS ; Krusche, N</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11706</int>
+  </void>
+  <void property="localPublicado">
+   <string>UNCCD 2nd Scientific Conference, 2013</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Teleconnection Patterns related to Dry Years in the Extreme South of Brazil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>GUIMARAES, P. ; PEREIRA, P. S. ; CALLIARI, L. J. ; KRUSCHE, N.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11667</int>
+  </void>
+  <void property="localPublicado">
+   <string>Pesquisas em Geociências (Online)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Variabilidade temporal do perfil de dunas na Praia do Cassino, RS, com auxílio de videomonitoramento Argus</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>KRUSCHE, NISIA; PERALTA, CARLOS ; CHANG, CHI-YAO ; STOEVESANDT, BERNHARD</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11666</int>
+  </void>
+  <void property="localPublicado">
+   <string>Energy Procedia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Wind Power Energy in Southern Brazil: Evaluation using a Mesoscale Meteorological Model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>Chang, C-Y ; Peralta, C. ; Krusche, N ; Schmidt, J. ; Stoevesandt, B.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11708</int>
+  </void>
+  <void property="localPublicado">
+   <string>Third Symposium on OpenFOAM® in Wind Energy (SOWE), 2015, Milão, Itália. Proceedings of Third Symposium on OpenFOAM® in Wind Energy</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Microscale simulations driven by the geostrophic forcing provided by a mesoscale model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>Krusche, N; Chang, C-Y ; Peralta, C. ; Stoevesandt, B.</string>
+  </void>
+  <void property="id_membro">
+   <int>42</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11704</int>
+  </void>
+  <void property="localPublicado">
+   <string>14th International Conference on Wind Engineering, 2015, Porto Alegre. Proceedings of 14th International Conference on Wind Engineering</string>
+  </void>
+  <void property="nome_membro">
+   <string>Nisia Krusche</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Wind Power in the Southern region of Rio Grande do Sul state, Brazil: application of mesoscale atmospheric model for estimation and forecasting</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="cluster">
+   <int>12195</int>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12195</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of the Brazilian Society of Mechanical Sciences and Engineering</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A New Robotic Drive Joint Friction Compensation Mechanism Using Neural Networks</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, S. C. P. ; ROSA, V. S. ; ALBERTINI, B. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12194</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE/ASME Transactions on Mechatronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Active Control to Flexible Manipulators</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>GERVINI, V. I. ; GOMES, S.C.P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12196</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of the Brazilian Society of Mechanical Sciences and Engineering</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A New Robotic Drive Joint Friction Compensation Mechanism Using Neural Networks</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, S. C. P ; ROSA, V. S. ; ALBERTINI, B. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12192</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE/ASME Transactions on Mechatronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Active Control to Flexible Manipulators</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. ; S.. ; Performance ; Evaluation ; of ; Parallel ; FIR ; Filter ; Optimizations ; in ; ASIC ; and ; FPGA. ; In: ; MWSCAS ; - ; IEEE ; International ; Midwest ; Symposium ; on ; Circuits ; and ; Systems, 2005, Cincinnati. ; IEEE ; International ; Midwest ; Symposium ; on ; Circuits ; and ; Systems. ; Los ; Alamos: ; IEEE, 2005.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12225</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. ; S.. ; Coefficient ; Optimizations ; for ; High ; Performance ; Parallel ; FIR ; Filters ; in ; FPGAs. ; In: ; XII ; Workshop ; IBERCHIP, 2005, Salvador, BA. ; XII ; Workshop ; IBERCHIP, 2005.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12226</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>AGOSTINI, L. ; SUSIN, A. A. ; Azevedo Filho, A.P. ; Tassoni, W.S. ; ROSA, V. S. ; Zatt, B. ; PINTO, A. C. ; PORTO, R. E. C. ; BAMPI, Sergio</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12193</int>
+  </void>
+  <void property="localPublicado">
+   <string>FPGA Design of A H.264/AVC Main Profile Decoder for HDTV</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>FPGA Design of A H.264/AVC Main Profile Decoder for HDTV</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>0</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.. implantação da rede de computadores do DMAT-FURG. In: IX CIC, 2000. Anais do IX CIC.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12228</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string></string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, J. F. L. ; PINTO, W. T. ; GOMES, S. C. P. ; ROSA, V. S. ; GERVINI, V. I. ; ROSA, A. L. M. ; Cassel, D. ; HARTMANN, E.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12223</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Seminário e Workshop em Engenharia Oceânica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Construção de um canal de testes para estudo de interação fluido-estrutura</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; GERVINI, V. I. ; GOMES, S. C. P. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12191</int>
+  </void>
+  <void property="localPublicado">
+   <string>Vetor (FURG)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>A hardware DC motor emulator</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12222</int>
+  </void>
+  <void property="localPublicado">
+   <string>21st Symposium on Integrated Circuits and Systems Design</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Novel Hardware Architecture Design for Binary Arithmetic Decoder Engines Based on Bitstream Flow Analysis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>MOREIRA, T. G. ; GUIMARAES JR., D. S. ; DINIZ, C. M. ; ROSA, V. S. ; GOMES, S. C. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12221</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Workshop Iberchip</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>FPGA Implementation of a AC Motor Controller with a hardware/software codesign approach</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12220</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Workshop Iberchip</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design and Implementation of a High-Performance Architecture for Binarization Methods of Defined by H.264/AVC Standard</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DEPRA, D. A. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12219</int>
+  </void>
+  <void property="localPublicado">
+   <string>IFIP International Conference on Very Large Scale Integration. VLSI - SoC 2008.</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Novel Hardware Architecture Dedicated to Binary Arithmetic Decoder Engines for the H.264/AVC CABAD</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>DAITX, F. F. ; ROSA, V. S. ; COSTA, E. ; BAMPI, S. ; FLORES, P. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12218</int>
+  </void>
+  <void property="localPublicado">
+   <string>2nd International Conference on Signals</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>VHDL generation of optimized FIR filters</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2008</string>
+  </void>
+  <void property="autores">
+   <string>Cassel, D. ; ROSA, A. L. M. ; HARTMANN, E. ; PEREIRA, I. M. ; MOREIRA, T. G. ; GUIMARAES JR., D. S. ; GERVINI, V. I. ; ROSA, V. S. ; GOMES, S. C. P. ; COELHO, J. F. L. ; PINTO, W. T.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12224</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Seminário e Workshop em Engenharia Oceânica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Desenvolvimento de Controladores para uma Plataforma Móvel Destinada ao Estudo da Interação Fluido-Estrutura</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; Altamiro A. Susin ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12213</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 3rd Pacific-Rim Symposium on Image and Video Technology</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A high performance H.264 Deblocking Filter</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>SOARES, L. B. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12214</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Data storage using Compact Flash card and Hardware/Software Interface for FPGA Embedded Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Cassel, D. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12217</int>
+  </void>
+  <void property="localPublicado">
+   <string>24º simpósio sul de microeletrônica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of Hardware/Software board for the Real Time Control of Robotic Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; Altamiro A. Susin ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12216</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A High Performance H.264 Deblocking Filter Hardware Architecture</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, A. L. M. ; TADEO, G. ; GERVINI, V. I. ; GOMES, S. C. P. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12215</int>
+  </void>
+  <void property="localPublicado">
+   <string>24o Simpósio Sul de Microeletrônica - SIM2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of Electronic Interfaces to Control Robotic Systems Using FPGA</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; Silva, L. M. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12207</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop IBERCHIP</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An H.264 Deblocking Filter in FPGA with RGB Video Output</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; Silva, L. M. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12209</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Conference on Electronic Circuits and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>High Performance Architectures for the Arithmetic Encoder of the H.264/AVC CABAC Entropy Coder</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Martins, A. L. M. ; ROSA, V. S. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12208</int>
+  </void>
+  <void property="localPublicado">
+   <string>Electronics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A low-cost hardware architecture binarizer design for the H.264/AVC CABAC entropy coding</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>GOMES, S. C. P. ; ZEILMANN, A. P ; TERRES, M. A. S. M. ; SOARES, L. B. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12211</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling - 4º MCSUL</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Análise sobre Leis de Controle para Veículos Subaquáticos Não Tripulados</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SOARES, L. B. ; GOMES, S. C. P. ; GERVINI, V. I. ; ROSA, V. S. ; BELLICANTA, L. S. ; ZEILMANN, A. P ; GOMES, S. S.</string>
+  </void>
+  <void property="cluster">
+   <int>12212</int>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12212</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling - 4º MCSUL</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Aquisição e Análise de Modos de Vibração em Estruturas Flexíveis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, V. S.; GERVINI, V. I. ; GOMES, S. C. P. ; BAMPI, S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12210</int>
+  </void>
+  <void property="localPublicado">
+   <string>IEEE Latin American Symposium on Circuits and Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A hardware DC Motor emulator</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Nunez, A. F. ; VEIGA, F. F. ; LONGHI, J. P. C. ; ROSA, V. S. ; OLIVEIRA, V. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12206</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra Nacional de Robótica ? MNR</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>TANQUE BATEDOR: UM ROBÔ TELEOPERADO PARA INSPEÇÃO EM AMBIENTES INÓSPITOS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SCHUCH, L. W. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12204</int>
+  </void>
+  <void property="localPublicado">
+   <string>VIII Southern Programmable Logic Conference - SPL 2012 - Designer Forum</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Emulador de Motor DC em Hardware</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>MOTA, F. P. ; ROSA, V. S. ; SANTOS, I. ; BOTELHO, S. S. C. ; AMARAL, M.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12205</int>
+  </void>
+  <void property="localPublicado">
+   <string>Latin American Symposium on Robotics - Workshop de robótica Educacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>ADA-TOPOBO Um Ambiente Dual de Aprendizagem Utilizando Kits Educacionais Topobo</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>SOARES, L. B. ; TERRES, M. A. S. M. ; GOMES, S. C. P. ; GERVINI, V. I. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12203</int>
+  </void>
+  <void property="localPublicado">
+   <string>VIII Southern Programmable Logic Conference - SPL 2012</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>HW/SW FPGA Design for Active Control of Flexible Structures</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>MOTA, F. P. ; LEONARDO, B. Q. ; ROSA, V. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12202</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Sul de Microeletrônica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of a Didactic Processor in FPGA</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>MOTA, F. P. ; DIMURO, G. P. ; ROSA, V. S. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12201</int>
+  </void>
+  <void property="localPublicado">
+   <string>Multi-agent based Applications for Sustainable Energy Systems</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulating the Impacts of the Energy Consumption using Multi-agent Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>MOTA, F. P. ; ROSA, V. S. ; BOTELHO, S. S. C. ; DIMURO, G. P.</string>
+  </void>
+  <void property="cluster">
+   <int>11436</int>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12227</int>
+  </void>
+  <void property="localPublicado">
+   <string>VII Workshop-Escola de Sistemas de Agentes, seus Ambientes e aplicações, 2013, Porto Alegre. Anais do VII Workshop-Escola de Sistemas de Agentes, seus Ambientes e aplicações</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Simulating Consumers Energy Proﬁles through Multiagent Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>STEFFENS, C. R. ; LEONARDO, B. Q. ; SILVA FILHO, S. C. ; HUTTNER, V. ; ROSA, V. S. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>10768</int>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12200</int>
+  </void>
+  <void property="localPublicado">
+   <string>XII SBAI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A VMB System for Intelligent Robotic Welding In: Simpósio Brasileiro de Automação Inteligente</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>LEONARDO, B. Q. ; SILVA FILHO, S. C. ; HUTTNER, V. ; AGUIAR, M. R. ; LEIVAS, E. A. ; ROSA, V. S. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>10770</int>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12199</int>
+  </void>
+  <void property="localPublicado">
+   <string>LARS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Automated control module based on VBM for shipyard welding applications: Study case on the Bug-O Matic Weaver</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>STEFFENS, C. R. ; LEONARDO, B. Q. ; SILVA FILHO, S. C. ; HUTTNER, V. ; ROSA, V. S. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>10765</int>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12197</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Conference on Computer Vision Theory and Applications</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Welding Groove Mapping: Implementation and Evaluation of Image Processing Algorithms on Shiny Surfaces</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>STEFFENS, C. R. ; SILVA FILHO, S. C. ; LEONARDO, B. Q. ; HUTTNER, V. ; LEIVAS, E. A. ; MOR, J. ; ROSA, V. S. ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>10766</int>
+  </void>
+  <void property="id_membro">
+   <int>56</int>
+  </void>
+  <void property="id_publicacao">
+   <int>12198</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop Iberchip</string>
+  </void>
+  <void property="nome_membro">
+   <string>Vagner Santos da Rosa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>High throughput FPGA camera interface for a vision based robotic welding system</string>
+  </void>
+ </object>
+</java>

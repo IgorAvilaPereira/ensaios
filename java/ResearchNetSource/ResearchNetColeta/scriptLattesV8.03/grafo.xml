@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?> 	
+<!--  An excerpt of an egocentric social network  --> 	
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"> 	
+<graph edgedefault="undirected"> 	
+<!-- data schema --> 	
+<key id="name" for="node" attr.name="name" attr.type="string"/> 	
+<key id="link" for="node" attr.name="link" attr.type="string"/>
+<!-- nodes --> 		
+<node id="0"> 		
+<data key="name">Adriano Velasque Werhli</data> 		
+<data key="link">http://lattes.cnpq.br/4393367734853964</data> 		
+</node>
+<!-- nodes --> 		
+<node id="1"> 		
+<data key="name">Alessandro de Lima Bicho</data> 		
+<data key="link">http://lattes.cnpq.br/6965119196945931</data> 		
+</node>
+<!-- nodes --> 		
+<node id="2"> 		
+<data key="name">Andre Prisco Vargas</data> 		
+<data key="link">http://lattes.cnpq.br/0243625998325831</data> 		
+</node>
+<!-- nodes --> 		
+<node id="3"> 		
+<data key="name">Antonio Carlos da Rocha Costa</data> 		
+<data key="link">http://lattes.cnpq.br/5601943285331545</data> 		
+</node>
+<!-- nodes --> 		
+<node id="4"> 		
+<data key="name">Cláudio Dornelles Mello Júnior</data> 		
+<data key="link">http://lattes.cnpq.br/5464430592929387</data> 		
+</node>
+<!-- nodes --> 		
+<node id="5"> 		
+<data key="name">Danúbia Bueno Espíndola</data> 		
+<data key="link">http://lattes.cnpq.br/9582755594379866</data> 		
+</node>
+<!-- nodes --> 		
+<node id="6"> 		
+<data key="name">Diana Francisca Adamatti</data> 		
+<data key="link">http://lattes.cnpq.br/4984043849101331</data> 		
+</node>
+<!-- nodes --> 		
+<node id="7"> 		
+<data key="name">Eder Mateus Nunes Gonçalves</data> 		
+<data key="link">http://lattes.cnpq.br/8560050240967369</data> 		
+</node>
+<!-- nodes --> 		
+<node id="8"> 		
+<data key="name">Eduardo Nunes Borges</data> 		
+<data key="link">http://lattes.cnpq.br/5851601274050374</data> 		
+</node>
+<!-- nodes --> 		
+<node id="9"> 		
+<data key="name">Emanuel da Silva Diaz Estrada</data> 		
+<data key="link">http://lattes.cnpq.br/3463902649683230</data> 		
+</node>
+<!-- nodes --> 		
+<node id="10"> 		
+<data key="name">Graçaliz Pereira Dimuro</data> 		
+<data key="link">http://lattes.cnpq.br/9414212573217453</data> 		
+</node>
+<!-- nodes --> 		
+<node id="11"> 		
+<data key="name">Ivete Martins Pinto</data> 		
+<data key="link">http://lattes.cnpq.br/8740785327180983</data> 		
+</node>
+<!-- nodes --> 		
+<node id="12"> 		
+<data key="name">Leonardo Ramos Emmendorfer</data> 		
+<data key="link">http://lattes.cnpq.br/1129100746134234</data> 		
+</node>
+<!-- nodes --> 		
+<node id="13"> 		
+<data key="name">Nelson Lopes Duarte Filho</data> 		
+<data key="link">http://lattes.cnpq.br/5369672706522008</data> 		
+</node>
+<!-- nodes --> 		
+<node id="14"> 		
+<data key="name">Odorico Machado Mendizabal</data> 		
+<data key="link">http://lattes.cnpq.br/6058299964884859</data> 		
+</node>
+<!-- nodes --> 		
+<node id="15"> 		
+<data key="name">Paulo Lilles Jorge Drews Junior</data> 		
+<data key="link">http://lattes.cnpq.br/5551697165370587</data> 		
+</node>
+<!-- nodes --> 		
+<node id="16"> 		
+<data key="name">Rodrigo Andrade de Bem</data> 		
+<data key="link">http://lattes.cnpq.br/3935196239515458</data> 		
+</node>
+<!-- nodes --> 		
+<node id="17"> 		
+<data key="name">Silvia Silva da Costa Botelho</data> 		
+<data key="link">http://lattes.cnpq.br/8800859024101679</data> 		
+</node>
+<!-- nodes --> 		
+<node id="18"> 		
+<data key="name">Vinícius Menezes de Oliveira</data> 		
+<data key="link">http://lattes.cnpq.br/9262132256691648</data> 		
+</node>
+<!-- edges --> 		
+<edge source="0" target="1"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="0" target="6"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="0" target="12"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="0" target="17"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="3" target="10"> 		
+<data key="amount">24</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="4" target="7"> 		
+<data key="amount">2</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="4" target="9"> 		
+<data key="amount">3</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="4" target="13"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="4" target="15"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="4" target="17"> 		
+<data key="amount">3</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="4" target="18"> 		
+<data key="amount">3</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="5" target="17"> 		
+<data key="amount">2</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="6" target="12"> 		
+<data key="amount">4</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="6" target="17"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="7" target="9"> 		
+<data key="amount">4</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="7" target="13"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="7" target="15"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="7" target="17"> 		
+<data key="amount">5</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="7" target="18"> 		
+<data key="amount">4</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="9" target="13"> 		
+<data key="amount">2</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="9" target="15"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="9" target="17"> 		
+<data key="amount">6</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="9" target="18"> 		
+<data key="amount">7</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="11" target="17"> 		
+<data key="amount">3</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="13" target="15"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="13" target="17"> 		
+<data key="amount">11</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="13" target="18"> 		
+<data key="amount">2</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="15" target="17"> 		
+<data key="amount">14</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="15" target="18"> 		
+<data key="amount">1</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="16" target="17"> 		
+<data key="amount">2</data> 		
+</edge>
+<!-- edges --> 		
+<edge source="17" target="18"> 		
+<data key="amount">5</data> 		
+</edge>
+</graph>	
+</graphml>

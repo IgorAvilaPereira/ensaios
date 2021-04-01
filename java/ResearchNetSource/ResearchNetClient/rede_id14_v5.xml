@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="undirected">
+<!--name:#Gerenciamento de Informações#-->
+<!--years:2013/2013-->
+<!--diameter:-->
+<!--giant:0.0-->
+<!--density:0.0-->
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="link" for="node" attr.name="link" attr.type="string"/>
+<key id="pubs" for="node" attr.name="pubs" attr.type="int"/>
+<key id="betweenness" for="node" attr.name="betweenness" attr.type="string"/>
+<key id="pagerank" for="node" attr.name="pagerank" attr.type="string"/>
+<key id="degree" for="node" attr.name="degree" attr.type="string"/>
+<key id="cluster_coefficient" for="node" attr.name="cluster_coefficient" attr.type="string"/>
+<key id="closeness" for="node" attr.name="closeness" attr.type="string"/>
+<key id="amount" for="edge" attr.name="amount" attr.type="int"/>
+<!-- nodes -->
+<node id="3">
+<data key="name">Andre Prisco Vargas</data>
+<data key="link">http://lattes.cnpq.br/0243625998325831</data>
+<data key="pubs">0</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="13">
+<data key="name">Eduardo Nunes Borges</data>
+<data key="link">http://lattes.cnpq.br/5851601274050374</data>
+<data key="pubs">0</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="20">
+<data key="name">Igor Avila Pereira</data>
+<data key="link">http://lattes.cnpq.br/7701563839009909</data>
+<data key="pubs">0</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="23">
+<data key="name">Karina dos Santos Machado</data>
+<data key="link">http://lattes.cnpq.br/3528633359332021</data>
+<data key="pubs">0</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="24">
+<data key="name">Leonardo Ramos Emmendorfer</data>
+<data key="link">http://lattes.cnpq.br/1129100746134234</data>
+<data key="pubs">0</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<!-- edges -->
+</graph>
+</graphml>

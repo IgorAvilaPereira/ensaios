@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>Scholem, Tyron Wittee Neetzow ; Borges, Eduardo N. ; Marchiori, Maria Ostilia ; Romanowski, Helena Piccoli</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11246</int>
+  </void>
+  <void property="localPublicado">
+   <string>Salão de Iniciação Científica, 2009, Porto Alegre. Anais do XXI Salão de Iniciação Científica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>BorbRS 2: aperfeiçoamento de uma base de dados de borboletas (Lepidoptera: Papilionoidea e Hesperioidea) do Rio Grande do Sul</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Otero, Tiago F. ; Borges, Eduardo N. ; Adamatti, Diana Francisca</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11237</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Mostra de Produção Universitária da FURG, 2010, Rio Grande. Anais da IX MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Identificação de Registros Duplicados nos Cadastros da ONIP</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>da Silva, Rafael S. ; Borges, Eduardo N. ; Krusche, Nisia</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11235</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2010, Rio Grande. Anais do XXIV CRICTE</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Manutenção das Aplicações Web de Acesso e Gerência do Banco de Dados Meteorológicos da FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>da Silva, Rafael S. ; Borges, Eduardo N. ; Krusche, Nisia</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11236</int>
+  </void>
+  <void property="localPublicado">
+   <string>IX Mostra de Produção Universitária da FURG, 2010, Rio Grande. Anais da IX MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Atualização do Sistema de Gerenciamento do Banco de Dados Meteorológicos da FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Borges, Eduardo N.; Becker, Karin ; HEUSER, Carlos A. ; GALANTE, Renata de Matos</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11229</int>
+  </void>
+  <void property="localPublicado">
+   <string>IADIS International Conference WWW/Internet</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Classification-based Approach for Bibliographic Metadata Deduplication</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GONCALVES, C. R. ; Botelho, Silvia S. da Costa ; CARVALHO, J. T. ; HAX, V. A. ; DUARTE FILHO, Nelson Lopes ; Borges, Eduardo N. ; PENNA, R. ; BEM, R. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11245</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Seminário de Extensão, 2011, Rio Grande. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Programa de Capacitação em TI Voltado para Soluções Aplicadas à Área Naval e Offshore</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Otero, Tiago F. ; FARIAS, Lucas R. ; da Silva, Rafael S. ; Borges, Eduardo N. ; Vargas, André P. ; Adamatti, Diana Francisca</string>
+  </void>
+  <void property="cluster">
+   <int>10651</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11244</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para coleta e análise de dados do segmento naval</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10650</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11243</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Rede de pesquisa da FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, Igor A. ; Borges, Eduardo N. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10649</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11242</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra de Produção Universitária da FURG, 2011, Rio Grande. Anais da X MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma arquitetura para pesquisa por relevância baseada em critérios</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LAENDER, Alberto H. F. ; Moro, Mirella M. ; Silva, Altigran S. ; Davis Jr., Clodoveu A. ; GONÇALVES, Marcos André ; Galante, Renata ; Silva, Allan J. C. ; Bigonha, Carolina A. S. ; Dalip, Daniel Hasan ; Barbosa, Eduardo M. ; Borges, Eduardo N. ; Cortez, Eli ; Procópio Jr., Peterson ; de Alencar, Rafael Odon ; Cardoso, Thiago N. C. ; Salles, Thiago</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11227</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXVIII Seminário Integrado de Software e Hardware - SEMISH</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>CiênciaBrasil - The Brazilian Portal of Science and Technology</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Borges, Eduardo N.; Becker, Karin ; HEUSER, Carlos A. ; Galante, Renata</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11228</int>
+  </void>
+  <void property="localPublicado">
+   <string>2011 30th International Conference of the Chilean Computer Science Society (SCCC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An Automatic Approach for Duplicate Bibliographic Metadata Identification Using Classification</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, Igor A. ; TOMASINI, C. ; Borges, Eduardo N. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10642</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11226</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Conferência Sul em Modelagem Computacional - MCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um mecanismo de busca para sistemas de gerenciamento de bibliotecas baseado em critérios de relevância extensíveis</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; PEREIRA, Igor A. ; Borges, Eduardo N. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10645</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11238</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Módulo de critérios de relevância para o ARGOsearch</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Lucca, G. ; FARIAS, Lucas R. ; LOPES, G. R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10646</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11239</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Um componente de software para análise de redes de colaboração acadêmica</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, Igor A. ; TOMASINI, C. ; Borges, Eduardo N. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10647</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11241</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Validação do mecanismo de busca ARGOsearch para o sistema de gerenciamento de bibliotecas da FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; Lucca, G. ; LOPES, G. R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10648</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11240</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra de Produção Universitária da FURG, 2012, Rio Grande. Anais da XI MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para visualização e análise de redes de pesquisa</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, Lucas R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10639</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11223</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um sistema para análise de redes de pesquisa baseado na Plataforma Lattes</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Otero, Tiago F. ; FARIAS, Lucas R. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10640</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11224</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para coleta e análise de dados do segmento naval</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>Borges, Eduardo N.; PEREIRA, Igor A. ; TOMASINI, C. ; Vargas, André P.</string>
+  </void>
+  <void property="cluster">
+   <int>10641</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11225</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXI International Conference of the Chilean Computer Science Society (SCCC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>ARGOsearch: an information retrieval system based on text similarity and extensible relevance criteria</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10638</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11222</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma implementação de feedback da relevância utilizando o algoritmo Rocchio</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>Lucca, G. ; PEREIRA, Igor A. ; Vargas, André P. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10637</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11221</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma implementação do algoritmo Naïve Bayes para classificação de texto</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BRANDAO, A. F. Z. ; LINDENAU, G. ; PINHEIRO, R. F. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11234</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIII Mostra de Produção Universitária da FURG, 2014, Rio Grande. Anais da XIII MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Análise e integração de dados em dispositivos móveis</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>MACIEL, T. V. ; SEUS, V. ; Machado, Karina ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>11219</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11219</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional - MCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Mineração de Dados em Triagem de Risco de Saúde</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>BARBAT, M. M. ; COLETO, J. L. ; GOULART, M. G. ; TEIXEIRA, E. P. ; Machado, Karina ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>11220</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11220</int>
+  </void>
+  <void property="localPublicado">
+   <string>VI Conferência Sul em Modelagem Computacional - MCSul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Extração de conhecimento a partir de bancos de dados oceanográficos mistos</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2014</string>
+  </void>
+  <void property="autores">
+   <string>PINHEIRO, R. F. ; LINDENAU, G. ; ZIMMERMANN, A. F. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11218</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um aplicativo para integração de contatos em dispositivos android</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, R. F. ; LINDENAU, G. ; PINHEIRO, R. F. ; NUNES, E. A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11232</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande. Anais da XIV MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Identificação de contatos duplicados com o classificador C4.5</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, E. A. ; PINHEIRO, R. F. ; MACHADO, R. F. ; LINDENAU, G. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11230</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande. Anais da XIV MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Uma análise de aplicativos para gerência de contatos no sistema Android</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>PINHEIRO, R. F. ; MACHADO, R. F. ; NUNES, E. A. ; LINDENAU, G. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11231</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande. Anais da XIV MPU / FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Uma interface gráfica de usuário para o aplicativo DeDup</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>LINDENAU, G. ; MACHADO, R. F. ; PINHEIRO, R. F. ; NUNES, E. A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11233</int>
+  </void>
+  <void property="localPublicado">
+   <string>XIV Mostra de Produção Universitária da FURG, 2015, Rio Grande. Anais da XIV MPU / FURG. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Agrupamento de registros duplicados no aplicativo DeDup</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>MACIEL, T. V. ; SEUS, V. ; Machado, Karina ; Borges, Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>11211</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11211</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Brasileira de Computação Aplicada</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Mineração de dados em triagem de risco de saúde</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2015</string>
+  </void>
+  <void property="autores">
+   <string>BARBAT, MAURO MEDEIROS ; COLETO, JULIANO LAUSER ; GOULART, MAURICIO GAYER ; TEIXEIRA, EDUARDO PORTO ; DOS SANTOS, KARINA MACHADO ; BORGES, EDUARDO NUNES</string>
+  </void>
+  <void property="cluster">
+   <int>11212</int>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11212</int>
+  </void>
+  <void property="localPublicado">
+   <string>Scientia Plena</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Extração de conhecimento a partir de bancos de dados oceanográficos mistos</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>MACHADO, R. F. ; PINHEIRO, R. F. ; NUNES, E. A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11216</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Identificação de contatos duplicados em dispositivos móveis utilizando similaridade textual</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>PINHEIRO, R. F. ; MACHADO, R. F. ; NUNES, E. A. ; Borges, Eduardo N.</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11215</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>DeDup: um Aplicativo para Deduplicação de Contatos em Dispositivos Android</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, R. C. M. ; Borges, Eduardo N. ; Machado, Karina</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11217</int>
+  </void>
+  <void property="localPublicado">
+   <string>Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Avaliação de Algoritmos para Mineração de Dados Disponíveis na Web</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2016</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; Emmendorfer, Leonardo ; Borges, Eduardo N. ; Machado, Karina</string>
+  </void>
+  <void property="id_membro">
+   <int>18</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11214</int>
+  </void>
+  <void property="localPublicado">
+   <string>ACM Symposium on Applied Computing</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eduardo Nunes Borges</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A methodology for selecting the most suitable cluster validation internal indices</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>HAX, V. A. ; Tyska, J. C ; PEREIRA, I. A. ; CAMACHO, P. M. ; ALVES, R. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>27</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11463</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra da Produção Universitária ? MPU - XIV Seminário de Extensão - MPU/FURG, 2011, Rio Grande - RS. X Mostra da Produção Universitária ? MPU - XIV Seminário de Extensão - MPU/FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Igor Avila Pereira</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>TICAST</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, I. A.; Eduardo N. ; VARGAS, A. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10649</int>
+  </void>
+  <void property="id_membro">
+   <int>27</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11464</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Mostra da Produção Universitária ? MPU - XX Congresso de Iniciação Cientifica - MPU/FURG, 2011, Rio Grande. X Mostra da Produção Universitária ? MPU - XX Congresso de Iniciação Cientifica - MPU/FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Igor Avila Pereira</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma arquitetura para pesquisa por relevância baseada em critérios</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, I. A.; TOMASINI, C ; Eduardo N. ; VARGAS, A. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10647</int>
+  </void>
+  <void property="id_membro">
+   <int>27</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11461</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra da Produção Universitária - Encontro de Pós-Graduação - MPU/FURG, 2012, Rio Grande - RS. XI Mostra da Produção Universitária - Encontro de Pós-Graduação - MPU/FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Igor Avila Pereira</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>VALIDAÇÃO DO MECANISMO DE BUSCA ARGOsearch PARA O SISTEMA DE GERENCIAMENTO DE BIBLIOTECAS DA FURG</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>BORGES, EDUARDO NUNES ; PEREIRA, IGOR AVILA ; TOMASINI, CAROLINE ; VARGAS, ANDRE PRISCO</string>
+  </void>
+  <void property="cluster">
+   <int>10641</int>
+  </void>
+  <void property="id_membro">
+   <int>27</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11458</int>
+  </void>
+  <void property="localPublicado">
+   <string>2012 31st International Conference of the Chilean Computer Science Society (SCCC)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Igor Avila Pereira</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>ARGOsearch: An Information Retrieval System Based on Text Similarity and Extensible Relevance Criteria</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, I. A.; TOMASINI, C ; Eduardo N. ; VARGAS, A. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10642</int>
+  </void>
+  <void property="id_membro">
+   <int>27</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11459</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Conferência Sul em Modelagem Computacional (MCSUL)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Igor Avila Pereira</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um mecanismo de busca para sistemas de gerenciamento de bibliotecas baseado em critérios de relevância extensíveis</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2012</string>
+  </void>
+  <void property="autores">
+   <string>TOMASINI, C. ; PEREIRA, I. A. ; VARGAS, A. P. ; Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10645</int>
+  </void>
+  <void property="id_membro">
+   <int>27</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11462</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Mostra da Produção Universitária - XXI Congresso de Iniciação Científica - MPU/FURG, 2012, Rio Grande - RS. XI Mostra da Produção Universitária - XXI Congresso de Iniciação Científica - MPU/FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Igor Avila Pereira</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Módulo de Critérios de Relevância para o ARGOsearch</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, I. A.; VARGAS, A. P. ; Eduardo N. ; MACHADO, K.</string>
+  </void>
+  <void property="id_membro">
+   <int>27</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11460</int>
+  </void>
+  <void property="localPublicado">
+   <string>XII Mostra da Produção Universitária - XV Encontro de Pós-Graduação, 2013, Rio Grande. Anais - XII Mostra da Produção Universitária - XV Encontro de Pós-Graduação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Igor Avila Pereira</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Método de Agrupamento de Dados por Transferência</string>
+  </void>
+ </object>
+ <object class="metricasfinal.publicacao">
+  <void property="ano">
+   <string>2013</string>
+  </void>
+  <void property="autores">
+   <string>LUCCA, Giancarlo. ; PEREIRA, I. A. ; VARGAS, A. P. ; Eduardo N.</string>
+  </void>
+  <void property="cluster">
+   <int>10637</int>
+  </void>
+  <void property="id_membro">
+   <int>27</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11457</int>
+  </void>
+  <void property="localPublicado">
+   <string>ERBD - Escola Regional de Banco de Dados</string>
+  </void>
+  <void property="nome_membro">
+   <string>Igor Avila Pereira</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma implementação do algoritmo Naïve Bayes para classificação de texto</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="undirected">
+<!--name:#C3 Geral 2008 - 2012#-->
+<!--years:/-->
+<!--diameter:39/38/18/10/3/7/-->
+<!--giant:0.8095238095238095-->
+<!--density:0.10452961672473868-->
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="link" for="node" attr.name="link" attr.type="string"/>
+<key id="pubs" for="node" attr.name="pubs" attr.type="int"/>
+<key id="betweenness" for="node" attr.name="betweenness" attr.type="string"/>
+<key id="pagerank" for="node" attr.name="pagerank" attr.type="string"/>
+<key id="degree" for="node" attr.name="degree" attr.type="string"/>
+<key id="cluster_coefficient" for="node" attr.name="cluster_coefficient" attr.type="string"/>
+<key id="closeness" for="node" attr.name="closeness" attr.type="string"/>
+<key id="amount" for="edge" attr.name="amount" attr.type="int"/>
+<!-- nodes -->
+<node id="22">
+<data key="name">Gerson Alberto Leiria Nunes</data>
+<data key="link">http://lattes.cnpq.br/0354617883280818</data>
+<data key="pubs">5</data>
+<data key="pagerank">0,31</data>
+<data key="degree">1</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,32</data>
+</node >
+<node id="26">
+<data key="name">Greyce Nogueira Schroeder</data>
+<data key="link">http://lattes.cnpq.br/6398615776166771</data>
+<data key="pubs">4</data>
+<data key="pagerank">0,86</data>
+<data key="degree">5</data>
+<data key="cluster_coefficient">1,00</data>
+<data key="closeness">0,42</data>
+</node >
+<node id="27">
+<data key="name">Igor Avila Pereira</data>
+<data key="link">http://lattes.cnpq.br/7701563839009909</data>
+<data key="pubs">8</data>
+<data key="pagerank">0,53</data>
+<data key="degree">2</data>
+<data key="cluster_coefficient">1,00</data>
+<data key="closeness">0,29</data>
+</node >
+<node id="48">
+<data key="name">Raphael Leite Campos</data>
+<data key="link">http://lattes.cnpq.br/5143374374213533</data>
+<data key="pubs">4</data>
+<data key="pagerank">0,47</data>
+<data key="degree">2</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,32</data>
+</node >
+<node id="54">
+<data key="name">Rodrigo Zelir Azzolin</data>
+<data key="link">http://lattes.cnpq.br/0985488148768235</data>
+<data key="pubs">39</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="34">
+<data key="name">Leonardo Ramos Emmendorfer</data>
+<data key="link">http://lattes.cnpq.br/1129100746134234</data>
+<data key="pubs">43</data>
+<data key="pagerank">1,25</data>
+<data key="degree">7</data>
+<data key="cluster_coefficient">0,38</data>
+<data key="closeness">0,48</data>
+</node >
+<node id="42">
+<data key="name">Nisia Krusche</data>
+<data key="link">http://lattes.cnpq.br/1606080164385644</data>
+<data key="pubs">51</data>
+<data key="pagerank">0,50</data>
+<data key="degree">2</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,32</data>
+</node >
+<node id="50">
+<data key="name">Regina Barwaldt</data>
+<data key="link">http://lattes.cnpq.br/2017770059745262</data>
+<data key="pubs">30</data>
+<data key="pagerank">0,60</data>
+<data key="degree">3</data>
+<data key="cluster_coefficient">0,67</data>
+<data key="closeness">0,41</data>
+</node >
+<node id="57">
+<data key="name">Vitor Irigon Gervini</data>
+<data key="link">http://lattes.cnpq.br/2056380331247057</data>
+<data key="pubs">12</data>
+<data key="pagerank">0,37</data>
+<data key="degree">1</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,27</data>
+</node >
+<node id="21">
+<data key="name">Geralcy Carneiro da Silva</data>
+<data key="link">http://lattes.cnpq.br/2251297387859499</data>
+<data key="pubs">2</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="19">
+<data key="name">Emanuel da Silva Diaz Estrada</data>
+<data key="link">http://lattes.cnpq.br/3463902649683230</data>
+<data key="pubs">27</data>
+<data key="pagerank">1,24</data>
+<data key="degree">7</data>
+<data key="cluster_coefficient">0,52</data>
+<data key="closeness">0,45</data>
+</node >
+<node id="24">
+<data key="name">Glauber Acunha Goncalves</data>
+<data key="link">http://lattes.cnpq.br/2814370196736373</data>
+<data key="pubs">1</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="32">
+<data key="name">Karina dos Santos Machado</data>
+<data key="link">http://lattes.cnpq.br/3528633359332021</data>
+<data key="pubs">57</data>
+<data key="pagerank">1,48</data>
+<data key="degree">8</data>
+<data key="cluster_coefficient">0,14</data>
+<data key="closeness">0,47</data>
+</node >
+<node id="53">
+<data key="name">Rodrigo Andrade de Bem</data>
+<data key="link">http://lattes.cnpq.br/3935196239515458</data>
+<data key="pubs">16</data>
+<data key="pagerank">0,61</data>
+<data key="degree">3</data>
+<data key="cluster_coefficient">0,67</data>
+<data key="closeness">0,41</data>
+</node >
+<node id="56">
+<data key="name">Vagner Santos da Rosa</data>
+<data key="link">http://lattes.cnpq.br/4599170539959463</data>
+<data key="pubs">38</data>
+<data key="pagerank">0,78</data>
+<data key="degree">3</data>
+<data key="cluster_coefficient">0,33</data>
+<data key="closeness">0,39</data>
+</node >
+<node id="40">
+<data key="name">Nelson Lopes Duarte Filho</data>
+<data key="link">http://lattes.cnpq.br/5369672706522008</data>
+<data key="pubs">54</data>
+<data key="pagerank">2,52</data>
+<data key="degree">15</data>
+<data key="cluster_coefficient">0,28</data>
+<data key="closeness">0,56</data>
+</node >
+<node id="45">
+<data key="name">Paulo Lilles Jorge Drews Junior</data>
+<data key="link">http://lattes.cnpq.br/5551697165370587</data>
+<data key="pubs">79</data>
+<data key="pagerank">1,07</data>
+<data key="degree">6</data>
+<data key="cluster_coefficient">0,40</data>
+<data key="closeness">0,44</data>
+</node >
+<node id="18">
+<data key="name">Eduardo Nunes Borges</data>
+<data key="link">http://lattes.cnpq.br/5851601274050374</data>
+<data key="pubs">36</data>
+<data key="pagerank">0,88</data>
+<data key="degree">4</data>
+<data key="cluster_coefficient">0,50</data>
+<data key="closeness">0,39</data>
+</node >
+<node id="43">
+<data key="name">Odorico Machado Mendizabal</data>
+<data key="link">http://lattes.cnpq.br/6058299964884859</data>
+<data key="pubs">24</data>
+<data key="pagerank">0,84</data>
+<data key="degree">4</data>
+<data key="cluster_coefficient">0,17</data>
+<data key="closeness">0,41</data>
+</node >
+<node id="52">
+<data key="name">Ricardo Nagel Rodrigues</data>
+<data key="link">http://lattes.cnpq.br/8456023041589649</data>
+<data key="pubs">6</data>
+<data key="pagerank">1,02</data>
+<data key="degree">6</data>
+<data key="cluster_coefficient">0,73</data>
+<data key="closeness">0,43</data>
+</node >
+<node id="28">
+<data key="name">Ivete Martins Pinto</data>
+<data key="link">http://lattes.cnpq.br/8740785327180983</data>
+<data key="pubs">9</data>
+<data key="pagerank">0,79</data>
+<data key="degree">4</data>
+<data key="cluster_coefficient">0,33</data>
+<data key="closeness">0,42</data>
+</node >
+<node id="55">
+<data key="name">Silvia Silva da Costa Botelho</data>
+<data key="link">http://lattes.cnpq.br/8800859024101679</data>
+<data key="pubs">161</data>
+<data key="pagerank">3,31</data>
+<data key="degree">20</data>
+<data key="cluster_coefficient">0,22</data>
+<data key="closeness">0,64</data>
+</node >
+<node id="58">
+<data key="name">Vinícius Menezes de Oliveira</data>
+<data key="link">http://lattes.cnpq.br/9262132256691648</data>
+<data key="pubs">25</data>
+<data key="pagerank">1,05</data>
+<data key="degree">6</data>
+<data key="cluster_coefficient">0,73</data>
+<data key="closeness">0,44</data>
+</node >
+<node id="25">
+<data key="name">Graçaliz Pereira Dimuro</data>
+<data key="link">http://lattes.cnpq.br/9414212573217453</data>
+<data key="pubs">164</data>
+<data key="pagerank">1,03</data>
+<data key="degree">5</data>
+<data key="cluster_coefficient">0,40</data>
+<data key="closeness">0,44</data>
+</node >
+<node id="29">
+<data key="name">Jônata Tyska Carvalho</data>
+<data key="link">http://lattes.cnpq.br/9494364044256921</data>
+<data key="pubs">9</data>
+<data key="pagerank">0,72</data>
+<data key="degree">4</data>
+<data key="cluster_coefficient">1,00</data>
+<data key="closeness">0,41</data>
+</node >
+<node id="35">
+<data key="name">Luciano Maciel Ribeiro</data>
+<data key="link">http://lattes.cnpq.br/0119381103799648</data>
+<data key="pubs">4</data>
+<data key="pagerank">0,29</data>
+<data key="degree">1</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">0,33</data>
+</node >
+<node id="44">
+<data key="name">Paulo Francisco Butzen</data>
+<data key="link">http://lattes.cnpq.br/1952072482347004</data>
+<data key="pubs">81</data>
+<data key="pagerank">0,67</data>
+<data key="degree">3</data>
+<data key="cluster_coefficient">0,33</data>
+<data key="closeness">0,37</data>
+</node >
+<node id="47">
+<data key="name">Rafael Augusto Penna dos Santos</data>
+<data key="link">http://lattes.cnpq.br/2765008024136365</data>
+<data key="pubs">10</data>
+<data key="pagerank">1,02</data>
+<data key="degree">6</data>
+<data key="cluster_coefficient">0,87</data>
+<data key="closeness">0,43</data>
+</node >
+<node id="0">
+<data key="name">Adriano Velasque Werhli</data>
+<data key="link">http://lattes.cnpq.br/4393367734853964</data>
+<data key="pubs">31</data>
+<data key="pagerank">1,07</data>
+<data key="degree">6</data>
+<data key="cluster_coefficient">0,40</data>
+<data key="closeness">0,46</data>
+</node >
+<node id="1">
+<data key="name">Alessandro de Lima Bicho</data>
+<data key="link">http://lattes.cnpq.br/6965119196945931</data>
+<data key="pubs">15</data>
+<data key="pagerank">0,74</data>
+<data key="degree">4</data>
+<data key="cluster_coefficient">0,67</data>
+<data key="closeness">0,41</data>
+</node >
+<node id="2">
+<data key="name">André Luis Castro de Freitas</data>
+<data key="link">http://lattes.cnpq.br/8252864210379656</data>
+<data key="pubs">59</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="3">
+<data key="name">Andre Prisco Vargas</data>
+<data key="link">http://lattes.cnpq.br/0243625998325831</data>
+<data key="pubs">17</data>
+<data key="pagerank">1,11</data>
+<data key="degree">5</data>
+<data key="cluster_coefficient">0,30</data>
+<data key="closeness">0,39</data>
+</node >
+<node id="4">
+<data key="name">Antonio Carlos da Rocha Costa</data>
+<data key="link">http://lattes.cnpq.br/5601943285331545</data>
+<data key="pubs">103</data>
+<data key="pagerank">0,70</data>
+<data key="degree">3</data>
+<data key="cluster_coefficient">0,33</data>
+<data key="closeness">0,36</data>
+</node >
+<node id="5">
+<data key="name">Celso Luiz Lopes Rodrigues</data>
+<data key="link">http://lattes.cnpq.br/2264555408583001</data>
+<data key="pubs">1</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="6">
+<data key="name">Cláudio Dornelles Mello Júnior</data>
+<data key="link">http://lattes.cnpq.br/5464430592929387</data>
+<data key="pubs">3</data>
+<data key="pagerank">0,73</data>
+<data key="degree">4</data>
+<data key="cluster_coefficient">1,00</data>
+<data key="closeness">0,41</data>
+</node >
+<node id="10">
+<data key="name">Cristina Meinhardt</data>
+<data key="link">http://lattes.cnpq.br/6816603089210442</data>
+<data key="pubs">103</data>
+<data key="pagerank">0,71</data>
+<data key="degree">3</data>
+<data key="cluster_coefficient">0,33</data>
+<data key="closeness">0,33</data>
+</node >
+<node id="11">
+<data key="name">Danúbia Bueno Espíndola</data>
+<data key="link">http://lattes.cnpq.br/9582755594379866</data>
+<data key="pubs">47</data>
+<data key="pagerank">1,67</data>
+<data key="degree">10</data>
+<data key="cluster_coefficient">0,40</data>
+<data key="closeness">0,50</data>
+</node >
+<node id="12">
+<data key="name">Denis Teixeira Franco</data>
+<data key="link">http://lattes.cnpq.br/5184930755123241</data>
+<data key="pubs">28</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<node id="13">
+<data key="name">Diana Francisca Adamatti</data>
+<data key="link">http://lattes.cnpq.br/4984043849101331</data>
+<data key="pubs">244</data>
+<data key="pagerank">2,30</data>
+<data key="degree">12</data>
+<data key="cluster_coefficient">0,17</data>
+<data key="closeness">0,54</data>
+</node >
+<node id="15">
+<data key="name">Eder Mateus Nunes Gonçalves</data>
+<data key="link">http://lattes.cnpq.br/8560050240967369</data>
+<data key="pubs">14</data>
+<data key="pagerank">0,91</data>
+<data key="degree">5</data>
+<data key="cluster_coefficient">0,70</data>
+<data key="closeness">0,42</data>
+</node >
+<node id="17">
+<data key="name">Eduardo André de Lima Carneiro</data>
+<data key="link">http://lattes.cnpq.br/0889307239698374</data>
+<data key="pubs">0</data>
+<data key="pagerank">0,15</data>
+<data key="degree">0</data>
+<data key="cluster_coefficient">0,00</data>
+<data key="closeness">-111,00</data>
+</node >
+<!-- edges -->
+<edge source="0" target="1">
+<data key="amount">1</data>
+</edge>
+<edge source="0" target="13">
+<data key="amount">6</data>
+</edge>
+<edge source="0" target="32">
+<data key="amount">3</data>
+</edge>
+<edge source="0" target="34">
+<data key="amount">2</data>
+</edge>
+<edge source="0" target="52">
+<data key="amount">1</data>
+</edge>
+<edge source="0" target="55">
+<data key="amount">2</data>
+</edge>
+<edge source="1" target="40">
+<data key="amount">3</data>
+</edge>
+<edge source="1" target="45">
+<data key="amount">4</data>
+</edge>
+<edge source="1" target="55">
+<data key="amount">4</data>
+</edge>
+<edge source="3" target="10">
+<data key="amount">1</data>
+</edge>
+<edge source="3" target="13">
+<data key="amount">1</data>
+</edge>
+<edge source="3" target="18">
+<data key="amount">13</data>
+</edge>
+<edge source="3" target="27">
+<data key="amount">6</data>
+</edge>
+<edge source="3" target="43">
+<data key="amount">3</data>
+</edge>
+<edge source="4" target="13">
+<data key="amount">4</data>
+</edge>
+<edge source="4" target="25">
+<data key="amount">45</data>
+</edge>
+<edge source="4" target="42">
+<data key="amount">1</data>
+</edge>
+<edge source="6" target="19">
+<data key="amount">3</data>
+</edge>
+<edge source="6" target="40">
+<data key="amount">1</data>
+</edge>
+<edge source="6" target="55">
+<data key="amount">3</data>
+</edge>
+<edge source="6" target="58">
+<data key="amount">3</data>
+</edge>
+<edge source="10" target="43">
+<data key="amount">1</data>
+</edge>
+<edge source="10" target="44">
+<data key="amount">49</data>
+</edge>
+<edge source="11" target="26">
+<data key="amount">1</data>
+</edge>
+<edge source="11" target="28">
+<data key="amount">4</data>
+</edge>
+<edge source="11" target="29">
+<data key="amount">1</data>
+</edge>
+<edge source="11" target="32">
+<data key="amount">3</data>
+</edge>
+<edge source="11" target="34">
+<data key="amount">1</data>
+</edge>
+<edge source="11" target="40">
+<data key="amount">7</data>
+</edge>
+<edge source="11" target="47">
+<data key="amount">1</data>
+</edge>
+<edge source="11" target="50">
+<data key="amount">3</data>
+</edge>
+<edge source="11" target="52">
+<data key="amount">1</data>
+</edge>
+<edge source="11" target="55">
+<data key="amount">12</data>
+</edge>
+<edge source="13" target="18">
+<data key="amount">1</data>
+</edge>
+<edge source="13" target="22">
+<data key="amount">3</data>
+</edge>
+<edge source="13" target="25">
+<data key="amount">18</data>
+</edge>
+<edge source="13" target="32">
+<data key="amount">4</data>
+</edge>
+<edge source="13" target="34">
+<data key="amount">6</data>
+</edge>
+<edge source="13" target="44">
+<data key="amount">1</data>
+</edge>
+<edge source="13" target="50">
+<data key="amount">15</data>
+</edge>
+<edge source="13" target="53">
+<data key="amount">2</data>
+</edge>
+<edge source="13" target="55">
+<data key="amount">1</data>
+</edge>
+<edge source="15" target="19">
+<data key="amount">2</data>
+</edge>
+<edge source="15" target="25">
+<data key="amount">1</data>
+</edge>
+<edge source="15" target="40">
+<data key="amount">1</data>
+</edge>
+<edge source="15" target="55">
+<data key="amount">1</data>
+</edge>
+<edge source="15" target="58">
+<data key="amount">2</data>
+</edge>
+<edge source="18" target="27">
+<data key="amount">6</data>
+</edge>
+<edge source="18" target="32">
+<data key="amount">3</data>
+</edge>
+<edge source="19" target="34">
+<data key="amount">5</data>
+</edge>
+<edge source="19" target="40">
+<data key="amount">2</data>
+</edge>
+<edge source="19" target="48">
+<data key="amount">1</data>
+</edge>
+<edge source="19" target="55">
+<data key="amount">6</data>
+</edge>
+<edge source="19" target="58">
+<data key="amount">7</data>
+</edge>
+<edge source="25" target="55">
+<data key="amount">4</data>
+</edge>
+<edge source="25" target="56">
+<data key="amount">1</data>
+</edge>
+<edge source="26" target="40">
+<data key="amount">1</data>
+</edge>
+<edge source="26" target="47">
+<data key="amount">2</data>
+</edge>
+<edge source="26" target="52">
+<data key="amount">2</data>
+</edge>
+<edge source="26" target="55">
+<data key="amount">1</data>
+</edge>
+<edge source="28" target="32">
+<data key="amount">2</data>
+</edge>
+<edge source="28" target="48">
+<data key="amount">1</data>
+</edge>
+<edge source="28" target="55">
+<data key="amount">4</data>
+</edge>
+<edge source="29" target="40">
+<data key="amount">5</data>
+</edge>
+<edge source="29" target="47">
+<data key="amount">3</data>
+</edge>
+<edge source="29" target="55">
+<data key="amount">5</data>
+</edge>
+<edge source="32" target="43">
+<data key="amount">1</data>
+</edge>
+<edge source="32" target="44">
+<data key="amount">1</data>
+</edge>
+<edge source="32" target="45">
+<data key="amount">2</data>
+</edge>
+<edge source="34" target="40">
+<data key="amount">1</data>
+</edge>
+<edge source="34" target="42">
+<data key="amount">1</data>
+</edge>
+<edge source="34" target="55">
+<data key="amount">1</data>
+</edge>
+<edge source="35" target="40">
+<data key="amount">1</data>
+</edge>
+<edge source="40" target="43">
+<data key="amount">2</data>
+</edge>
+<edge source="40" target="45">
+<data key="amount">5</data>
+</edge>
+<edge source="40" target="47">
+<data key="amount">2</data>
+</edge>
+<edge source="40" target="52">
+<data key="amount">1</data>
+</edge>
+<edge source="40" target="55">
+<data key="amount">33</data>
+</edge>
+<edge source="40" target="58">
+<data key="amount">2</data>
+</edge>
+<edge source="45" target="53">
+<data key="amount">1</data>
+</edge>
+<edge source="45" target="55">
+<data key="amount">23</data>
+</edge>
+<edge source="45" target="58">
+<data key="amount">1</data>
+</edge>
+<edge source="47" target="52">
+<data key="amount">2</data>
+</edge>
+<edge source="47" target="55">
+<data key="amount">3</data>
+</edge>
+<edge source="50" target="55">
+<data key="amount">1</data>
+</edge>
+<edge source="52" target="55">
+<data key="amount">4</data>
+</edge>
+<edge source="53" target="55">
+<data key="amount">5</data>
+</edge>
+<edge source="55" target="56">
+<data key="amount">4</data>
+</edge>
+<edge source="55" target="58">
+<data key="amount">5</data>
+</edge>
+<edge source="56" target="57">
+<data key="amount">2</data>
+</edge>
+</graph>
+</graphml>

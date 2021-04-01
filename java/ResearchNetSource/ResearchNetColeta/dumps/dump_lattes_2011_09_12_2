@@ -1,0 +1,715 @@
+--
+-- PostgreSQL database dump
+--
+
+SET statement_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = off;
+SET check_function_bodies = false;
+SET client_min_messages = warning;
+SET escape_string_warning = off;
+
+SET search_path = public, pg_catalog;
+
+SET default_tablespace = '';
+
+SET default_with_oids = false;
+
+--
+-- Name: autoria; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE autoria (
+    id_membro integer NOT NULL,
+    id_publicacao integer NOT NULL
+);
+
+
+ALTER TABLE public.autoria OWNER TO postgres;
+
+--
+-- Name: capitulo; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE capitulo (
+    id_capitulo integer NOT NULL,
+    livro character varying,
+    edicao character varying,
+    editora character varying,
+    volume character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.capitulo OWNER TO postgres;
+
+--
+-- Name: capitulo_id_capitulo_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE capitulo_id_capitulo_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.capitulo_id_capitulo_seq OWNER TO postgres;
+
+--
+-- Name: capitulo_id_capitulo_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE capitulo_id_capitulo_seq OWNED BY capitulo.id_capitulo;
+
+
+--
+-- Name: capitulo_id_capitulo_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('capitulo_id_capitulo_seq', 6, true);
+
+
+--
+-- Name: conferencia; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE conferencia (
+    id_conferencia integer NOT NULL,
+    volume character varying,
+    evento character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.conferencia OWNER TO postgres;
+
+--
+-- Name: conferencia_id_conferencia_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE conferencia_id_conferencia_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.conferencia_id_conferencia_seq OWNER TO postgres;
+
+--
+-- Name: conferencia_id_conferencia_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE conferencia_id_conferencia_seq OWNED BY conferencia.id_conferencia;
+
+
+--
+-- Name: conferencia_id_conferencia_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('conferencia_id_conferencia_seq', 64, true);
+
+
+--
+-- Name: livro; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE livro (
+    id_livro integer NOT NULL,
+    edicao character varying,
+    volume character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.livro OWNER TO postgres;
+
+--
+-- Name: livro_id_livro_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE livro_id_livro_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.livro_id_livro_seq OWNER TO postgres;
+
+--
+-- Name: livro_id_livro_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE livro_id_livro_seq OWNED BY livro.id_livro;
+
+
+--
+-- Name: livro_id_livro_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('livro_id_livro_seq', 15, true);
+
+
+--
+-- Name: membros; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE membros (
+    id_membro integer NOT NULL,
+    nome character varying,
+    id_lattes character varying
+);
+
+
+ALTER TABLE public.membros OWNER TO postgres;
+
+--
+-- Name: publicacao; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE publicacao (
+    id_publicacao integer NOT NULL,
+    tipo character varying(2),
+    titulo character varying,
+    autores character varying,
+    ano integer,
+    paginas character varying
+);
+
+
+ALTER TABLE public.publicacao OWNER TO postgres;
+
+--
+-- Name: publicacao_id_publicacao_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE publicacao_id_publicacao_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.publicacao_id_publicacao_seq OWNER TO postgres;
+
+--
+-- Name: publicacao_id_publicacao_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE publicacao_id_publicacao_seq OWNED BY publicacao.id_publicacao;
+
+
+--
+-- Name: publicacao_id_publicacao_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('publicacao_id_publicacao_seq', 136, true);
+
+
+--
+-- Name: revista; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE revista (
+    id_revista integer NOT NULL,
+    doi character varying,
+    revista character varying,
+    volume character varying,
+    numero character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.revista OWNER TO postgres;
+
+--
+-- Name: revista_aceito; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE revista_aceito (
+    id_revista_aceito integer NOT NULL,
+    doi character varying,
+    revista character varying,
+    numero character varying,
+    id_publicacao integer
+);
+
+
+ALTER TABLE public.revista_aceito OWNER TO postgres;
+
+--
+-- Name: revista_aceito_id_revista_aceito_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE revista_aceito_id_revista_aceito_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.revista_aceito_id_revista_aceito_seq OWNER TO postgres;
+
+--
+-- Name: revista_aceito_id_revista_aceito_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE revista_aceito_id_revista_aceito_seq OWNED BY revista_aceito.id_revista_aceito;
+
+
+--
+-- Name: revista_aceito_id_revista_aceito_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('revista_aceito_id_revista_aceito_seq', 1, false);
+
+
+--
+-- Name: revista_id_revista_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE revista_id_revista_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.revista_id_revista_seq OWNER TO postgres;
+
+--
+-- Name: revista_id_revista_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE revista_id_revista_seq OWNED BY revista.id_revista;
+
+
+--
+-- Name: revista_id_revista_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('revista_id_revista_seq', 50, true);
+
+
+--
+-- Name: id_capitulo; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE capitulo ALTER COLUMN id_capitulo SET DEFAULT nextval('capitulo_id_capitulo_seq'::regclass);
+
+
+--
+-- Name: id_conferencia; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE conferencia ALTER COLUMN id_conferencia SET DEFAULT nextval('conferencia_id_conferencia_seq'::regclass);
+
+
+--
+-- Name: id_livro; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE livro ALTER COLUMN id_livro SET DEFAULT nextval('livro_id_livro_seq'::regclass);
+
+
+--
+-- Name: id_publicacao; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE publicacao ALTER COLUMN id_publicacao SET DEFAULT nextval('publicacao_id_publicacao_seq'::regclass);
+
+
+--
+-- Name: id_revista; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE revista ALTER COLUMN id_revista SET DEFAULT nextval('revista_id_revista_seq'::regclass);
+
+
+--
+-- Name: id_revista_aceito; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE revista_aceito ALTER COLUMN id_revista_aceito SET DEFAULT nextval('revista_aceito_id_revista_aceito_seq'::regclass);
+
+
+--
+-- Data for Name: autoria; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY autoria (id_membro, id_publicacao) FROM stdin;
+0	80
+0	81
+0	82
+0	83
+0	84
+0	85
+0	86
+0	87
+0	88
+0	89
+0	90
+0	91
+0	92
+0	93
+0	94
+0	95
+0	96
+0	97
+0	98
+0	99
+0	100
+0	101
+0	102
+0	103
+0	104
+0	105
+0	106
+0	107
+0	108
+0	109
+0	110
+0	111
+0	112
+0	113
+0	114
+0	115
+0	116
+0	117
+0	118
+0	119
+0	120
+0	121
+0	122
+0	123
+0	124
+1	125
+1	126
+1	127
+1	128
+1	104
+1	130
+1	131
+1	132
+1	133
+1	134
+1	135
+2	104
+\.
+
+
+--
+-- Data for Name: capitulo; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY capitulo (id_capitulo, livro, edicao, editora, volume, id_publicacao) FROM stdin;
+5	H. F. Jelinek; M. Cree. (Org.). Automated Image Analysis of Retinal Pathology. Boca Raton		CRC Press		99
+6	J Shoemaker et al. (Org.). Methods of Microarray Data Analysis V		Springer-Verlag		100
+\.
+
+
+--
+-- Data for Name: conferencia; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY conferencia (id_conferencia, volume, evento, id_publicacao) FROM stdin;
+33		International Conference on Pattern Recognition - ICPR, 2010, Istanbul, Turkey. Proc. International Conference on Pattern Recognition - ICPR	101
+34		5th IAPR International Conference on Pattern Recognition in Bioinformatics, 2010, Nijmegen. Proc. 5th IAPR International Conference on Pattern Recognition in Bioinformatics - Lecture Notes in Bioinformatics - LNBI	102
+35		SIBGRAPI, 2010. Proc. SIBGRAPI	103
+36		SIBGRAPI, 2010. Proc. SIBGRAPI	104
+37		SIBGRAPI, 2010. Proc. SIBGRAPI	105
+38		7th IAPR-TC-15 Workshop on Graph-based Representations in Pattern Recognition, 2009, Veneza. Proc. 7th IAPR-TC-15 Workshop on Graph-based Representations in Pattern Recognition (Lecture Notes on Computer Science)	106
+39		IEEE International Workshop on Genomic Signal Processing and Statistics - GENSIPS, 2009, Minneapolis. IEEE International Workshop on Genomic Signal Processing and Statistics - GENSIPS	107
+40		IEEE International Workshop on Genomic Signal Processing and Statistics - GENSIPS, 2009, Minneapolis. IEEE International Workshop on Genomic Signal Processing and Statistics - GENSIPS	108
+41		International Conference on Image Processing, 2009, Cairo, Egypt. Proc. ICIP 2009	109
+42		14th Iberoamerican Congress on Pattern Recognition (CIARP 2009), 2009, Guadalajara, Mexico. Lecture Notes on Computer Science - CIARP 2009	110
+43		14th Iberoamerican Congress on Pattern Recognition (CIARP 2009), 2009, Guadalajara, Mexico. Lecture Notes on Computer Science - CIARP 2009	111
+44		SIBGRAPI, 2008, Campo Grande. Proc. SIBGRAPI	112
+45		SIBGRAPI, 2008, Campo Grande. Proc. SIBGRAPI	113
+46		SIBGRAPI, 2008, Campo Grande. Proc. SIBGRAPI	114
+47		IEEE International Conference on Image Processing - ICIP, 2007, San Antonio - Texas. Proc. International Conference on Image Processing - ICIP	115
+48		International Symposium on Mathematical Morphology - ISMM 2007, 2007, Rio de Janeiro. Proc. International Symposium on Mathematical Morphology - ISMM 2007	116
+49		Brazilian Symposium on Computer Graphics, Image Processing - SIBGRAPI 2007, 2007, Belo Horizonte. Proc. Brazilian Symposium on Computer Graphics, Image Processing - SIBGRAPI 2007	117
+50		1st International Workshop on Computer Vision Applications for Developing Regions in Conjunction with ICCV 2007, 2007, Rio de Janeiro. Proceedings CVDR (ICCV Workshop)	118
+51		15e congrès francophone AFRIF-AFIA Reconnaissance des Formes et Intelligence Artificielle, 2006, Tours - France. Proc. RFIA 2006	119
+52		7th IEEE International Conference on Automatic Face and Gesture Recognition, 2006, Southampton. Procceedings of the 7th IEEE International Conference on Automatic Face and Gesture Recognition	120
+53		XIII Concurso Latinoamericano de Tesis de Maestría. 32a Conferencia Latinoamericana de Informática - CLEI, 2006, Santiago. Proc. XIII Concurso Latinoamericano de Tesis de Maestría - CLEI	121
+54		Brazilian Symposium on Computer Graphics, Image Processing - SIBGRAPI 2006, 2006, Manaus. Proc. Brazilian Symposium on Computer Graphics, Image Processing - SIBGRAPI 2006	122
+55		Workshop de teses e dissertações - SIBGRAPI, 2006	123
+56		Workshop de teses e dissertações - SIBGRAPI, 2006	124
+57		Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010, 2010, Gramado. Brazilian Symposium on Computer Graphics and Image Processing, Conference Proceedings	104
+58		XXXVIth Latin American Informatics Conference (XXXVI CLEI), 2010, Paraguay. XXXVIth Latin American Informatics Conference (XXXVI CLEI)	130
+59		XXIX International Conference of the Chilean Computer Science Society, 2010, Antofagasta. Jornadas Chilenas de Computación - JCCC 2010	131
+60		III Simposio Peruano de Computación Gráfica y Procesamiento de Imágenes, SCGI, 2009, Arequipa. II Concurso de trabajos de Pregrado en CGI	132
+61		Brazilian Symposium on Computer Graphics and Image Processing, 21 (SIBGRAPI), 2008, Campo Grande. Brazilian Symposium on Computer Graphics and Image Processing, Conference Proceedings	133
+62		II Simposio Peruano de Computación Gráfica y Procesamiento de Imágenes, SCGI, 2008, Arequipa. I Concurso de trabajos de Pregrado en CGI	134
+63		7th IEEE International Conference on Automatic Face and Gesture Recognition, 2006, Southampton. Procceedings of the 7th IEEE International Conference on Automatic Face and Gesture Recognition	135
+64		Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010, 2010, Gramado. Brazilian Symposium on Computer Graphics and Image Processing, Conference Proceedings	104
+\.
+
+
+--
+-- Data for Name: livro; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY livro (id_livro, edicao, volume, id_publicacao) FROM stdin;
+11			94
+12	28	1	95
+13	2a		96
+14	25	1	97
+15	6		98
+\.
+
+
+--
+-- Data for Name: membros; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY membros (id_membro, nome, id_lattes) FROM stdin;
+0	Roberto Marcondes Cesar Junior	2240951178648368
+1	Jesús Pascual Mena Chalco	4727357182510680
+2	Andréa Britto Mattos	2837012019824386
+\.
+
+
+--
+-- Data for Name: publicacao; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY publicacao (id_publicacao, tipo, titulo, autores, ano, paginas) FROM stdin;
+80	AP	Automatic contour extraction from 2D neuron images	LEANDRO, J ; CESARJR, R ; COSTA, L	2009	497-509
+81	AP	Generating segmented meshes from textured color images	LIZIER, M. A. ; MARTINS JR, D C ; CUADROS-VARGAS, A. J. ; CESAR JUNIOR, R. M. ; NONATO, L. G.	2009	190-203
+82	AP	3D face computational photography using PCA spaces	Mena-Chalco, Jesús P. ; Macêdo, Ives ; Velho, Luiz ; Cesar, Roberto M.	2009	899-909
+83	AP	ScriptLattes: an open-source knowledge extraction system from the Lattes platform	Mena-Chalco, Jesús Pascual ; Cesar Junior, Roberto Marcondes	2009	1
+84	AP	A novel polar-based human face recognition computational model	Zana, Y. ; Mena-Chalco, J.P. ; Cesar Jr., R.M.	2009	1
+85	AP	Identification of protein coding regions using the modified Gabor-wavelet transform	CESAR JUNIOR, R. M. ; CHALCO, J M ; CARRER, H ; ZANA, Y	2008	198-207
+86	AP	Feature selection environment for genomic applications	Lopes, Fabricio M. ; Martins, David C. ; Cesar, Roberto M.	2008	451
+87	AP	A feature selection approach for identification of signature genes from SAGE data	BARRERA, J ; CESAR JUNIOR, R. M. ; HUMES JR., C. ; MARTINS JR, D C ; PATRAO, D. F. C. ; SILVA, P J S ; BRENTANI, H	2007	1
+88	AP	Automated segmentation of retinal blood vessels and identification of proliferative diabetic retinopathy. Journal of the Optical Society of America	Jelinek, Herbert F. ; Cree, Michael J. ; Leandro, Jorge J. G. ; Soares, João V. B. ; Cesar, Roberto M. ; Luckie, A.	2007	1448
+89	AP	Face recognition based on polar frequency features	ZANA, Yossi ; Cesar, Roberto M.	2006	62-82
+90	AP	Local approach for face verification in polar frequency domain	ZANA, Y ; CESARJR, R ; FERIS, R ; TURK, M	2006	904-913
+91	AP	W-operator Window Design by Minimization of Mean Conditional Entropy	MARTINS JR, D C ; CESAR JUNIOR, R. M. ; BARRERA, J	2006	139-153
+92	AP	Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification	Soares, J.V.B. ; Leandro, J.J.G. ; Cesar, R.M. ; Jelinek, H.F. ; Cree, M.J.	2006	1214-1222
+93	AP	On the ternary spatial relation "Between". IEEE Transactions on Systems, Man and Cybernetics	BLOCH, Isabelle ; COLLIOT, O ; CESAR JUNIOR, R. M.	2006	312-327
+94	LP	LNCS: Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. LNCS - Springer	BLOCH, Isabelle (Org.) ; CESAR JUNIOR, R. M. (Org.)	2010	
+95	LP	Special Issue ISMM 2007 - Image and Visiont Computing (Elsevier)	BANON, G. (Org.) ; BRAGA-NETO, U. (Org.) ; CESAR JUNIOR, R. M. (Org.)	2010	
+96	LP	Shape Classification and Analysis: Theory and Practice	COSTA, L. F. ; CESAR JUNIOR, R. M.	2009	
+97	LP	Sibgrapi Special Issue - Image and Vision Computing (Elsevier)	OLIVEIRA, M C F (Org.) ; CESAR JUNIOR, R. M. (Org.)	2007	
+98	LP	X-meeting Special Issue - Genetics and Molecular Research - GMR	CESAR JUNIOR, R. M. (Org.) ; SANTORO, M. (Org.)	2007	
+99	CL	Segmentation of Retinal Vasculature Using Wavelets and Supervised Classification: Theory and Implementation (ACEITO E ENVIADO AOS EDITORES DO LIVRO)	SOARES, J. V. B. ; CESAR JUNIOR, R. M.	2007	
+100	CL	Constructing probabilistic genetic networks of Plasmodium falciparum from dynamical expression signals of the intraerythrocytic development cycle}	BARRERA, J ; CESAR JUNIOR, R. M. ; MARTINS JR, D C ; VENCIO, R Z N ; MERINO, e F ; YAMAMOTO, M M ; LEONARDI, F G ; PEREIRA, C A B ; PORTILLO, H A Del	2006	
+101	TC	A column generation approach for the graph matching problem	FREIRE, A. ; CESAR JUNIOR, R. M. ; FERREIRA, C. E.	2010	
+102	TC	SFFS-MR: a floating search strategy for GRNs inference	LOPES, Fabrício Martins ; MARTINS, C. I. O. ; Martins, David C. ; BARRERA, J ; CESAR JUNIOR, R. M.	2010	
+103	TC	Sparse Representations for Efficient Shape Matching	NOMA, A. ; CESAR JUNIOR, R. M.	2010	
+104	TC	3D Linear Facial Animation Based on Real Data	MATTOS, A. B. ; Mena-Chalco, Jesús P. ; CESAR JUNIOR, R. M. ; VELHO, L	2010	
+105	TC	Image Segmentation Using Component Tree and Normalized Cut	CARVALHO, M. A. ; COSTA, A. ; FERREIRA, A. ; CESAR JUNIOR, R. M.	2010	
+106	TC	Object Detection by Keygraph Classification	HASHIMOTO, M. ; CESAR JUNIOR, R. M.	2009	
+107	TC	Revealing temporal genetic regulatory networks from steady-state distributions	MARTINS JR, D C ; Oliveira, E. A. ; SILVA, P J S ; HASHIMOTO, R. ; CESAR JUNIOR, R. M.	2009	
+108	TC	Comparative study of GRNs inference methods based on feature selection by mutual information	LOPES, Fabrício Martins ; MARTINS JR, D C ; CESAR JUNIOR, R. M.	2009	
+109	TC	Evaluation of retinal vessel segmentation methods for microaneurysms detection	MARTINS, C. I. O. ; MEDEIROS, F. N. S. ; VERAS, R. M. S. ; BEZERRA, F. N. ; CESAR JUNIOR, R. M.	2009	
+110	TC	A Computer-Assisted Colorization Approach based on E#64259;cient Belief Propagation and Graph Matching	NOMA, A. ; VELHO, L ; CESAR JUNIOR, R. M.	2009	
+111	TC	Analysis of the GRNs inference by using Tsallis entropy and a feature selection approach	LOPES, Fabrício Martins ; Oliveira, E. A. ; CESAR JUNIOR, R. M.	2009	
+112	TC	A Backmapping Approach for Graph-based Object Tracking	GRACIANO, A B V ; PAIXAO, T. M. ; CESAR JUNIOR, R. M. ; HIRATA JR., R.	2008	
+113	TC	Structural Matching of 2D Electrophoresis Gels using Graph Models	NOMA, A. ; PARDO, A. ; CESAR JUNIOR, R. M.	2008	
+114	TC	PCA-based 3D Face Photography	CHALCO, J M ; MACEDO, Y. ; VELHO, L ; CESAR JUNIOR, R. M.	2008	
+115	TC	Structural Image Segmentation with Interactive Model Generation (ACCEPTED)	CONSULARO, L. A. ; CESAR JUNIOR, R. M. ; BLOCH, Isabelle	2007	
+116	TC	Oversegmentation control for inexact graph matching: first results (ACCEPTED)	CONSULARO, L. A. ; CESAR JUNIOR, R. M. ; FIGUEIREDO, L H ; BLOCH, Isabelle	2007	
+117	TC	Object Tracking Based On Graph Representations And Structural Pattern Recognition (ACCEPTED)	GRACIANO, A B V ; CESAR JUNIOR, R. M. ; BLOCH, Isabelle	2007	
+118	TC	Efficient curve detection using a Gauss-Newton method with applications in agriculture	ANDREANI, R. ; CESAR, G. ; CESAR JUNIOR, R. M. ; MARTINEZ, J. M. ; SILVA, P J S	2007	
+119	TC	Modélisation de la relation spatiale entre pour des objets dextensions spatiales très différentes	BLOCH, Isabelle ; COLLIOT, O ; CESAR JUNIOR, R. M.	2006	
+120	TC	Human and Machine Recognition of Fourier-Bessel Filtered Face Images	ZANA, Y ; CESAR JUNIOR, R. M. ; CHALCO, J M	2006	299-304
+121	TC	Identificación de regiones codificantes de proteínas mediante la transformada modificada de Morlet	CHALCO, J M ; CESAR JUNIOR, R. M.	2006	
+122	TC	Determining the Branching Structure of 3D Structures from Respective 2D Projections	LEANDRO, J. J. G. ; CESAR JUNIOR, R. M. ; COSTA, L. da F.	2006	
+123	TC	Análise de Formas 3D usando Wavelets 1D, 2D e 3D	PINTO, S. C. D. ; CESAR JUNIOR, R. M. ; COSTA, L. da F.	2006	
+124	TC	Rastreamento de Componentes Conexas em Vídeo 3D para Obtenção de	PIRES, D da S ; CESAR JUNIOR, R. M. ; VIEIRA, M B ; VELHO, L	2006	
+125	AP	A Novel Polar-based Human Face Recognition Computational Model	ZANA, Y. ; MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M.	2009	637-646
+126	AP	3D Face Computational Photography Using PCA Spaces	Mena-Chalco, Jesús P. ; Macêdo, Ives ; Velho, Luiz ; Cesar, Roberto M.	2009	899-909
+127	AP	scriptLattes: An open-source knowledge extraction system from the Lattes platform	Mena-Chalco, Jesús Pascual ; Cesar Junior, Roberto Marcondes	2009	31-39
+128	AP	Identification of protein coding regions using the modified Gabor-wavelet transform	MENA-CHALCO, J. P. ; CARRER, H. ; ZANA, Y. ; CESAR JUNIOR, R. M.	2008	198-207
+129	TC	3D Linear Facial Animation Based on Real Data	MATTOS, A. B. ; Mena-Chalco, Jesús P. ; CESAR JUNIOR, R. M. ; VELHO, L	2010	271-278
+130	TC	Detección de huevos helmintos mediante plantillas dinámicas	CHUCTAYA, J. ; MENA-CHALCO, J. P. ; BELTRÁN-CASTAÑÓN, C. ; PATIÑO, R. ; HUMPIRE, G. ; RODRIGUEZ, A.	2010	1-12
+131	TC	A new approach to detect communities in multi-weighted co-authorship networks	PEREZ, E. ; MENA-CHALCO, J. P.	2010	131-138
+132	TC	Estimación de distancias absolutas utilizando un puntero láser y una cámara web	PORTUGAL ZAMBRANO, C. ; MENA-CHALCO, J. P.	2009	
+133	TC	PCA-based 3D face photography	MENA-CHALCO, J. P. ; MACÊDO, I. ; VELHO, L. ; CESAR JUNIOR, R. M.	2008	313-320
+134	TC	Firmas genéticas en secuencias de ADN: un análisis en regiones codificantes y no codificantes de proteínas	MEDINA-RODRIGUEZ, R. ; MENA-CHALCO, J. P.	2008	
+135	TC	Human and Machine Recognition of Fourier-Bessel Filtered Face Images	ZANA, Y. ; CESAR JUNIOR, R. M. ; MENA-CHALCO, J. P.	2006	299-304
+136	TC	3D Linear Facial Animation Based on Real Data	MATTOS, A. B. ; Mena-Chalco, Jesús P. ; CESAR JUNIOR, R. M. ; VELHO, L	2010	271-278
+\.
+
+
+--
+-- Data for Name: revista; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY revista (id_revista, doi, revista, volume, numero, id_publicacao) FROM stdin;
+33	http://dx.doi.org/10.1016/j.jneumeth.2008.10.037	Journal of Neuroscience Methods	177		80
+34	http://dx.doi.org/10.1016/j.jvcir.2009.01.002	Journal of Visual Communication and Image Representation	20		81
+35	http://dx.doi.org/10.1007/s00371-009-0373-x	The Visual Computer	25		82
+36	http://dx.doi.org/10.1590/S0104-65002009000400004	Journal of the Brazilian Computer Society (Impresso)	15		83
+37	http://dx.doi.org/10.1590/S0100-879X2009000700008	Brazilian Journal of Medical and Biological Research (Impresso)	42		84
+38	http://dx.doi.org/10.1109/tcbb.2007.70259	IEEE/ACM Transactions on Computational Biology and Bioinformatics	5		85
+39	http://dx.doi.org/10.1186/1471-2105-9-451	BMC Bioinformatics	9		86
+40	http://dx.doi.org/10.1186/1471-2105-8-169	BMC Bioinformatics	8		87
+41	http://dx.doi.org/10.1364/JOSAA.24.001448	A, Optics Image Science and Vision	24		88
+42	http://dx.doi.org/10.1145/1119766.1119771	ACM Transactions on Applied Perception, ACM - New York	3	1	89
+43	http://dx.doi.org/10.1016/j.imavis.2006.02.014	Image and Vision Computing	24		90
+44	http://dx.doi.org/10.1007/s10044-006-0031-0	Pattern Analysis and Applications	9		91
+45	http://dx.doi.org/10.1109/TMI.2006.879967	IEEE Transactions on Medical Imaging	25		92
+46	http://dx.doi.org/10.1109/TSMCB.2005.857095	Part B, Cybernetics	36		93
+47	http://dx.doi.org/10.1590/S0100-879X2009000700008	Brazilian Journal of Medical and Biological Research (Impresso)	42		125
+48	http://dx.doi.org/10.1007/s00371-009-0373-x	The Visual Computer	25		126
+49	http://dx.doi.org/10.1590/S0104-65002009000400004	Journal of the Brazilian Computer Society (Impresso)	15		127
+50	http://dx.doi.org/10.1109/TCBB.2007.70259	IEEE/ACM Transactions on Computational Biology and Bioinformatics	5		128
+\.
+
+
+--
+-- Data for Name: revista_aceito; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY revista_aceito (id_revista_aceito, doi, revista, numero, id_publicacao) FROM stdin;
+\.
+
+
+--
+-- Name: autoria_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY autoria
+    ADD CONSTRAINT autoria_pkey PRIMARY KEY (id_membro, id_publicacao);
+
+
+--
+-- Name: capitulo_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY capitulo
+    ADD CONSTRAINT capitulo_pkey PRIMARY KEY (id_capitulo);
+
+
+--
+-- Name: conferencia_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY conferencia
+    ADD CONSTRAINT conferencia_pkey PRIMARY KEY (id_conferencia);
+
+
+--
+-- Name: id_membros; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY membros
+    ADD CONSTRAINT id_membros PRIMARY KEY (id_membro);
+
+
+--
+-- Name: id_publi; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY publicacao
+    ADD CONSTRAINT id_publi PRIMARY KEY (id_publicacao);
+
+
+--
+-- Name: livro_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY livro
+    ADD CONSTRAINT livro_pkey PRIMARY KEY (id_livro);
+
+
+--
+-- Name: revista_aceito_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY revista_aceito
+    ADD CONSTRAINT revista_aceito_pkey PRIMARY KEY (id_revista_aceito);
+
+
+--
+-- Name: revista_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY revista
+    ADD CONSTRAINT revista_pkey PRIMARY KEY (id_revista);
+
+
+--
+-- Name: autoria_id_membro_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY autoria
+    ADD CONSTRAINT autoria_id_membro_fkey FOREIGN KEY (id_membro) REFERENCES membros(id_membro);
+
+
+--
+-- Name: autoria_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY autoria
+    ADD CONSTRAINT autoria_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: capitulo_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY capitulo
+    ADD CONSTRAINT capitulo_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: conferencia_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY conferencia
+    ADD CONSTRAINT conferencia_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: livro_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY livro
+    ADD CONSTRAINT livro_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: revista_aceito_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY revista_aceito
+    ADD CONSTRAINT revista_aceito_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: revista_id_publicacao_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY revista
+    ADD CONSTRAINT revista_id_publicacao_fkey FOREIGN KEY (id_publicacao) REFERENCES publicacao(id_publicacao);
+
+
+--
+-- Name: public; Type: ACL; Schema: -; Owner: postgres
+--
+
+REVOKE ALL ON SCHEMA public FROM PUBLIC;
+REVOKE ALL ON SCHEMA public FROM postgres;
+GRANT ALL ON SCHEMA public TO postgres;
+GRANT ALL ON SCHEMA public TO PUBLIC;
+
+
+--
+-- PostgreSQL database dump complete
+--
+

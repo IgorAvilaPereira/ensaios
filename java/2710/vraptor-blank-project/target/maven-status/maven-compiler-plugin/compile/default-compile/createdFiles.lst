@@ -1,0 +1,6 @@
+controller/ArquivoController.class
+model/Administrador.class
+session/AdministradorSession.class
+intercep/Interceptador.class
+session/ChuvaSession.class
+controller/IndexController.class

@@ -1,0 +1,4283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Hübner, A. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; MATTOS, V.</string>
+  </void>
+  <void property="cluster">
+   <int>10735</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10735</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Multi-Agent Logics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Dialogic Dimension for the MOISE+ Organizational Model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10736</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10736</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Multi-Agent Logics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>BDI Agents with Fuzzy Perception for Simulating Decision Making in Environments with Imperfect Information</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; Vicari, R. M. (Org.) ; Tonidandel, F. (Org.)</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10676</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Advance in Artificial Intelligence - SBIA 2010</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10737</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10737</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop on MSc Dissertation and PhD Thesis in Artificial Intelligence</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>BDI Agents with Fuzzy Perception</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; Gonçalves, L. V.</string>
+  </void>
+  <void property="cluster">
+   <int>10738</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10738</int>
+  </void>
+  <void property="localPublicado">
+   <string>Second Brazilian Workshop on Social Simulation (BWSS 2010) at Joint Conferences XX SBIA/XI SBRN/IV JRI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>On the Problem of Recognizing and Learning Observable Social Exchange Strategies in Open Societies</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10739</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10739</int>
+  </void>
+  <void property="localPublicado">
+   <string>Second Brazilian Workshop on Social Simulation - BWSS 2010 at Joint Conference SBIA/SBRN/JRI 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An Interactional Characterization of Social Functions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; MUSSI, R. L.</string>
+  </void>
+  <void property="cluster">
+   <int>10740</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10740</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Sistemas Fuzzy</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Sobre Números Fuzzy Intervalares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, S. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10750</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10750</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações - WESAAC 2010, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Estendendo o Modelo de Organização de Sistemas Multiagentes PopOrg com Unidades Organizacionais Recursivas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, M. H. I. ; COSTA, A. C. R. ; COELHO, H.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10658</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Pueblos y Frontera Digital</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Exchange Values and Social Power Supporting the Choice of Partners</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Hübner, A. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira ; MATTOS, V. ; HERNANDES, S.</string>
+  </void>
+  <void property="cluster">
+   <int>10705</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10705</int>
+  </void>
+  <void property="localPublicado">
+   <string>D.F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Introdução da Dimensão Dialógica no Moise+, com Aplicação na Modelagem de Processos de Gestão em uma Universidade Comunitária</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Gonçalves, L. V. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10699</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10699</int>
+  </void>
+  <void property="localPublicado">
+   <string>D.F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. 73ed.Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Uma arquitetura de Agentes BDI Híbridos para Auto-regulação de Trocas Sociais em Sistemas Multiagentes Abertos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10697</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10697</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Agentes BDI com Percepção Fuzzy na Simulação de um Modelo Presa-Predador Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10698</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10698</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. Adamatti. (Org.). Analisando Trocas Sociais Baseadas em Personalidades Através de Cadeias de Markov Intervalares. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Analisando Trocas Sociais Baseadas em Personalidades Através de Cadeias de Markov Intervalares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Hübner, A. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10703</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10703</int>
+  </void>
+  <void property="localPublicado">
+   <string>Botelho, S. S. C., Adamatti, D. and Rocha, L. A. O.. (Org.). Third Southern Conference on Computational Modeling (MCSUL), 2009 (Post-Proceedings, Revised Selected Papers). Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Extending the MOISE+ Organizational Model with the Dialogic Dimension</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BARBOSA, R. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10732</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uso de CSP na Especificação Formal do Nível Micro-Organizacional de Sistemas Multiagentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>JEANNES, F. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10733</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo de Agente Econômico Cognitivo com Base no Conceito de Agentes BDI</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Pereira, D. R. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10734</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas Multiagentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Teoria dos Jogos aplicada à coordenação de agentes, utilizando Teoria dos Valores de Troca</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; COSTA, A. C. R. ; TRIGO, P.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10741</int>
+  </void>
+  <void property="localPublicado">
+   <string>Second Brazilian Workshop on Social Simulation (BWSS 2010) at Joint Conferences XX SBIA/XI SBRN/IV JRI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>On the Operationality of Moral-Sense Decision Making</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; COSTA, A. C. R. ; TRIGO, P.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10742</int>
+  </void>
+  <void property="localPublicado">
+   <string>12th Ibero-American Conference on AI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Moral Minds as Multiple-Layer Organizations</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; COSTA, A. C. R. ; TRIGO, P.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10743</int>
+  </void>
+  <void property="localPublicado">
+   <string>INFORUM - Simpósio de Informática</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Decision Making for Agent Moral Conducts</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, T. F. ; DIMURO, G. ; VON GROL, C. ; PINHEIRO, T. V. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10751</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling/IX Encontro Regional de Matemática Aplicada e Computacional, 2010, Rio Grande. Anais do 4MCSUL/IX ERMAC. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação Baseada em Agentes de Processos de Gestão Social de Ecossistemas Urbanos: o caso das hortas urbanas da cidade de Sevilla</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, C. E. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10752</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas Multiagentes, seus Ambientes e Aplicações, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Especificando Rotinas Organizacionais de Sistemas Multiagentes: Detecção de Desvios com Base no Conceito de Expectativas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10753</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo Híbrido de Agente BDI-Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10730</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10730</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Agentes BDI com Percepção Fuzzy na Simulação de um Modelo Presa-Predador Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Farias, G. P. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10659</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10659</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista de Informática Teórica e Aplicada (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Aplicação de Agentes BDI com Percepção Fuzzy no Modelo Presa-Predador</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BARBOSA, R. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10704</int>
+  </void>
+  <void property="localPublicado">
+   <string>R. Trappl. (Org.). Cybernetics and Systems 2010 (Track: From Agent Theory to Agent Implementation AT2AI-7). 1ed.Vienna</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Using CSP in the Formal Specification of the Micro-organizational level of Multiagent Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Pereira, D. R. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10702</int>
+  </void>
+  <void property="localPublicado">
+   <string>D.F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Teoria dos Jogos aplicada à coordenação de agentes, utilizando Teoria dos Valores de Troca</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>JEANNES, F. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10701</int>
+  </void>
+  <void property="localPublicado">
+   <string>D.F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Modelo de Agente Econômico Cognitivo com Base no Conceito de Agentes BDI</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BARBOSA, R. M. ; COSTA, A. C. R. ; TEDESCO, P. ; Mota, A.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10700</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Uso de CSP na Especificação Formal do Nível Micro-Organizacional de SMAs. Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>Hübner, A. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira ; MATTOS, V. ; HERNANDES, S. ; MAILANGE, M.</string>
+  </void>
+  <void property="cluster">
+   <int>10731</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10731</int>
+  </void>
+  <void property="localPublicado">
+   <string>WESAAC 2010: Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Introdução da Dimensão Dialógica no Moise+, com Aplicação na Modelagem de Processos de Gestão em uma Universidade Comunitária</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, S. A. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10727</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10727</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Towards Developmental Turing Machines</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira (Org.) ; FOSS, L. (Org.) ; AGUIAR, Marilton Sanchotene de (Org.) ; COSTA, S. A. (Org.) ; COSTA, A. C. R. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10674</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10674</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do WEIT 2011 - I Workshop-Escola de Informática Teórica</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BRIAO, S. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10726</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10726</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Estudo para uma Proposta de Modelos de Tomada de Decisão em Interações Estratégicas para Sistemas Multiagentes em Ambientes de Informação Imperfeita</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, S. A. (Org.) ; FOSS, L. (Org.) ; AGUIAR, Marilton Sanchotene de (Org.) ; DIMURO, Graçaliz Pereira (Org.) ; COSTA, A. C. R. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10675</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10675</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Post-Proceedings 2011 Workshop-School on Theoretical Computer Science - WEIT 2011</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Rodrigues, L. M. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10725</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10725</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo Multiagente para Carregamento Compartilhado com Prioridades em um Terminal de Contêineres: Combinando o Problema da Mochila com PDMs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; Gonçalves, L. V.</string>
+  </void>
+  <void property="cluster">
+   <int>10688</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10688</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes.. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>On the Problem of Recognizing and Learning Observable Social Exchange Strategies in Open Societies</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10689</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10689</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Interactional Characterization of Social Functions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Pereira, D. R. ; Gonçalves, L. V. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10690</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10690</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Analysis of Two Regulation Mechanisms for Personality-Based Social Exchange Processes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Rodrigues, L. M. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; EMMENDORFER, L.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10728</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo Multiagente para Carregamento Compartilhado com Prioridades em um Terminal de Conêineres: Combinando o Problema da Mochila com PDMs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BARBOSA, R. M. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10656</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista de Informática Teórica e Aplicada (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Usando CSP, RSL e o Modelo PopOrg na Especificação Formal de Organizações de SMAs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, T. F. ; SANTOS, I. A. S. ; DIMURO, G. ; COSTA, A. C. R. ; DIMURO, Graçaliz Pereira</string>
+  </void>
+  <void property="cluster">
+   <int>10749</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10749</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2011, Curitiba. Anais do WESAAC 2011. Curitiba: UTFPR</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Modelando a Organização Social de um Experimento de Gestão Social de Hortas Urbanas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COELHO, H. ; TRIGO, P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10691</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>On the Operationality of Moral-Sense Decision Making</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FRANCO, M. H. I. ; COSTA, A. C. R. ; COELHO, H.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10692</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Simulating Argumentation about Exchange Values in Multi-agent Interactions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R.; JEANNES, F. M. ; CAVA, U. A.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10693</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Equation-Based Models as Formal Specifications of Agent-Based Models for Social Simulation: Preliminary Issues</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, I. A. S. ; RODRIGUES, T. F. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; DIMURO, G. ; MANUEL, E.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10694</int>
+  </void>
+  <void property="localPublicado">
+   <string>Gustavo Lugo; Jomi Hübner.. (Org.). Post-Procedings of the 2011 Workshop and School of Agent Systems, their Environment and Applications (WESAAC). 1ed.New York</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Towards the Modeling of the Social Organization of an Experiment of Social Management of Urban Vegetable Gardens</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>Rodrigues, L. M. ; DIMURO, Graçaliz Pereira ; COSTA, A. C. R. ; EMMENDORFER, L.</string>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10696</int>
+  </void>
+  <void property="localPublicado">
+   <string>Gustavo A. Giménez Lugo;Jomi F. Hübner;Cesar A. Tacla. (Org.). A Multiagent System-Based Solution for Shipment Operations with Priorities in a Container Terminal. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Multiagent System-Based Solution for Shipment Operations with Priorities in a Container Terminal</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, Graçaliz Pereira (Org.) ; COSTA, A. C. R. (Org.) ; SICHMAN, J. S. (Org.) ; TEDESCO, P. (Org.) ; Adamatti, D. (Org.) ; BALSA, J. (Org.) ; Antunes, L. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10673</int>
+  </void>
+  <void property="id_membro">
+   <int>4</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10673</int>
+  </void>
+  <void property="localPublicado">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="nome_membro">
+   <string>Antonio Carlos da Rocha Costa</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BRIOT, J. ; SORDONI, A. ; VASCONCELOS FILHO, J. E. ; PATTO, V. S. ; ADAMATTI, D. F. ; IRVING, M.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11085</int>
+  </void>
+  <void property="localPublicado">
+   <string>Cargese Interdisciplinar Seminar 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Design of an Artificial Decision Maker for a Human-based Social Simulation - Experience of the SimParc Project</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BRIOT, J. ; PATTO, V. S. ; VASCONCELOS FILHO, J. E. ; ADAMATTI, D. F. ; SORDONI, A. ; MELLO, G.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11086</int>
+  </void>
+  <void property="localPublicado">
+   <string>WCAMA - Workshop de Computação Aplicada ao Meio Ambiente</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Computer-based Support for Participatory Management of Protected Areas: The SimParc Project</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ROCHA, L. A. O. (Org.) ; BOTELHO, S.S.C. (Org.) ; ADAMATTI, D. F. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10992</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10992</int>
+  </void>
+  <void property="localPublicado">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do Simpósio de Modelagem Computacional do Sul</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; SICHMAN, Jaime Simão ; COELHO, Helder</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10979</int>
+  </void>
+  <void property="localPublicado">
+   <string>JASSS. Journal of Artificial Societies and Social Simulation</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>An analysis of the insertion of virtual players in GMABS methodology using the Vip-JogoMan prototype</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; AGUIAR, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11007</int>
+  </void>
+  <void property="localPublicado">
+   <string>J. Mattos, L. Rosa Jr, M. Pilla. (Org.). Desafios e Avanços em Computação: o estado da arte. 1ed.Pelotas RS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Inteligência Artificial e o Gerenciamento de Recursos Naturais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BERNY, V. M. ; ADAMATTI, D. F. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11088</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Worshop Escola de Sistemas de Agentes para Ambientes Colaborativos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Desenvolvimento de agentes: Uma análise da utilização da metodologia Prometheus</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>GULARTE, A. ; THOMASI, C. D. ; NUNES, G. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11082</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Overview sobre a Utilização de Técnicas de Inteligência Artificial em Gerenciamento de Recursos Naturais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FELSKE, M. S. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11081</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Problemas de Sincronização em Massively Multiplayer Online Games: Um Experimento Sobre a Plataforma SIM3D</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. A. ; PAES, T. L. ; EMMENDORFER, L. R. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11189</int>
+  </void>
+  <void property="localPublicado">
+   <string>Salão de Iniciação Científica da UFRGS, 2010, Porto Alegre/RS. SIC UFRGS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Árvores de Decisão para Descoberta de Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; AGUIAR, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11003</int>
+  </void>
+  <void property="localPublicado">
+   <string>Marcos Gestal Pose; Daniel Rivero Cebrián. (Org.). Soft Computing Methods for Practical Environmental Solutions: Techniques and Studies</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Artificial Intelligence Applied to Natural Resources Management</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. A. ; PAES, T. L. ; EMMENDORFER, L. R. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="cluster">
+   <int>11190</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11190</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2010, Rio Grande / RS. MPU 2010. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem da Dinâmica do Fluxo Granular Através de Autômatos Celulares e Simulação Baseada em Agentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>GULARTE, A. ; THOMASI, C. D. ; NUNES, G. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11191</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2010, Rio Grande / RS. MPU 2010. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Sistemas Inteligentes no Gerenciamento de Recursos Naturais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; LUGO, G. G. (Org.) ; EMMENDORFER, L. R. (Org.) ; WERHLI, A. V. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10539</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10991</int>
+  </void>
+  <void property="localPublicado">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do IV Workshop- Escola de Sistemas de Agentes, seus Ambientes e apliCações. Rio Grande: FURG</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>PERRONE, F. R. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11192</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2010, Rio Grande / RS. MPU 2010. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Desenvolvimento da interface gráfica para um Framework de jogos inteligentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>OTERO, T. F. ; BORGES, E. N. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11193</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2010, Rio Grande / RS. MPU 2010. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Identificação de Registros Duplicados nos Cadastros da ONIP</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; SILVEIRA, J. A. ; PAES, T. L. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="cluster">
+   <int>11083</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11083</int>
+  </void>
+  <void property="localPublicado">
+   <string>MCSul 2010 - Simpósio de Modelagem Computacional do Sul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Effectiveness of Decision Trees for Detecting the Behavior of Agents</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. A. ; PAES, T. L. ; EMMENDORFER, L. R. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11120</int>
+  </void>
+  <void property="localPublicado">
+   <string>IV Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações, 2010, Rio Grande. WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. A. ; PAES, T. L. ; EMMENDORFER, L. R. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="cluster">
+   <int>11005</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11005</int>
+  </void>
+  <void property="localPublicado">
+   <string>Adamatti, D. .F.. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande / RS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Detectando Padrões Comportamentais de Agentes Através de Árvores de Decisão</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BRIOT, J. ; SORDONI, A. ; VASCONCELOS FILHO, J. E. ; PATTO, V. S. ; ADAMATTI, D. F. ; IRVING, M. ; MELLO, G. ; Lucena, C.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11006</int>
+  </void>
+  <void property="localPublicado">
+   <string>David R.C. Hill; Alexandre Muzy;Bernard P. Zeigle. (Org.). Activity-Based Modeling and Simulation. 1ed.Paris - France</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Design of an Artificial Decision Maker for a Human-Based Social Simulation - Experience of the SIMPARC ProjectDesign of an Artificial Decision Maker for a Human-Based Social Simulation - Experience of the SIMPARC Project</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, G. ; THOMASI, C. D. ; GULARTE, A. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11084</int>
+  </void>
+  <void property="localPublicado">
+   <string>MCSul 2010 - Simpósio de Modelagem Computacional do Sul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>UMA FERRAMENTA DE SIMULAÇÃO PARA IMPACTOS AMBIENTAIS</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. A. ; PAES, T. L. ; EMMENDORFER, L. R. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="cluster">
+   <int>11080</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11080</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Regional de Iniciação Científica e Tecnológica em Engenharia</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Poder de Captura das Árvores de Decisão para o Comportamento de Agentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DJALO, M. ; KLUMB, A. ; SILVA, D. ; FLORES, E. ; CAMACHO, P. M. ; CARVALHO, J. T. ; HAX, V. A. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11182</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Inclusão Digital em Escola de Ensino Básico em Rio Grande (RS)</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>LUCCA, G. ; MADSEN, C. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11185</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Framework para Desenvolvimento de Jogos Inteligentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, T. ; SANTOS, F. C. P. ; SANTOS, I. ; DIMURO, G. ; ADAMATTI, D. F. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11186</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Proposta de Modelagem Baseada em Agentes de um Caso de Gestão Social de Ecossistemas Urbanos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTOS, F. C. P. ; ADAMATTI, D. F. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11188</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Modelagem do Sistema Multiagente para Simulação de Processos de Gestão Social de Ecossistemas Urbanos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P. (Org.) ; COSTA, A. C. R. (Org.) ; SICHMAN, Jaime Simão (Org.) ; Tedesco, P. C. A. R. (Org.) ; ADAMATTI, D. F. (Org.) ; BALSA, J. (Org.) ; ANTUNES, L. (Org.)</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10989</int>
+  </void>
+  <void property="localPublicado">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Advances in Social Simulation, 2010 Second Brazilian Workshop on Social Simulation, BWSS 2010, Post-Proceedings. Los Alamitos: IEEE</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SALOMAO, H. L. R. ; BARWALDT, R. ; ADAMATTI, D. F. ; FELIPE, C. I. M.</string>
+  </void>
+  <void property="cluster">
+   <int>11187</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11187</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Tecnologias Assistivas: Recursos e Serviços Utilizados para a Inclusão Sócio-Digital de Pessoas com Deficiências</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GULARTE, A. ; THOMASI, C. D. ; DE BEM, R. A. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="cluster">
+   <int>11181</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11181</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Recuperação de Imagens Baseada em Conteúdo Utilizando Dispositivos Móveis</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>NUNES, G. ; THOMASI, C. D. ; JUGUEIRO, M. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="cluster">
+   <int>11115</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11115</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações, 2011, Curitiba / PR. WESAAC 2011</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Um sistema de apoio à decisão baseado em agentes para simulação de impactos gerados pela instalação de indústrias</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BARWALDT, R. ; ADAMATTI, D. F. ; FELIPE, C. I. M.</string>
+  </void>
+  <void property="cluster">
+   <int>11078</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11078</int>
+  </void>
+  <void property="localPublicado">
+   <string>II Seminário de Políticas Públicas e Educação: constituindo a cidadania?</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Tecnologias Assistivas e Acessibilidade para Pessoas com Necessidade Especiais em Rio Grande</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BARWALDT, R. ; ADAMATTI, D. F. ; FELIPE, C. I. M.</string>
+  </void>
+  <void property="cluster">
+   <int>11077</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11077</int>
+  </void>
+  <void property="localPublicado">
+   <string>I Simpósio Brasileiro de Educação Inclusiva</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Tecnologias Assistivas e Pessoas com Necessidades Especiais: Desenvolvimento Sustentável</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>THOMASI, C. D. ; NUNES, G. ; TOLEGO, R. ; JUGUEIRO, M. ; TEIXEIRA, P. ; ADAMATTI, D. F. ; TAGLIANI, C.</string>
+  </void>
+  <void property="cluster">
+   <int>11073</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11073</int>
+  </void>
+  <void property="localPublicado">
+   <string>III Workshop de Computação Aplicada ao Meio Ambiente e ao Recursos Naturais</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um sistema para previsão de impactos gerados pela instalação de indústrias e sua influência sobre ecossistemas costeiros no extremo sul do Brasil</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; CARVALHO, J. T. ; HAX, V. A. ; KLUMB, A. ; SILVA, D. ; CAMACHO, P. M. ; DJALO, M.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11076</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Extesão Universitária</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Atividades para Inclusão Digital em Ensino Básico: Uma Experiência em Escola de Rio Grande (RS)</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; CARVALHO, J. T. ; HAX, V. A. ; KLUMB, A. ; SILVA, D. ; FLORES, E. ; CAMACHO, P. M. ; DJALO, M.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11075</int>
+  </void>
+  <void property="localPublicado">
+   <string>Seminário de Extensão Universitária da Região Sul</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Inclusão Digital em Escola de Ensino Básico em Rio Grande (RS)</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; CARVALHO, J. T. ; HAX, V. A. ; KLUMB, A. ; SILVA, D. ; FLORES, E. ; CAMACHO, P. M. ; DJALO, M.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11074</int>
+  </void>
+  <void property="localPublicado">
+   <string>XI Congreso Iberoamericano de Extensión Universitaria</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Inclusão Digital em Escola de Ensino Básico em Rio Grande (RS)</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. A. ; PAES, T. L. ; ADAMATTI, D. F. ; EMMENDORFER, L. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10978</int>
+  </void>
+  <void property="localPublicado">
+   <string>Cadernos de Simulação Social e Ambiental</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Uso de Árvores de Decisão para Captura de Comportamentos de Agentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>OTERO, T. F. ; BORGES, E. N. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="cluster">
+   <int>10651</int>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11183</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma ferramenta para coleta e análise de dados do segmento naval</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MADSEN, C. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10977</int>
+  </void>
+  <void property="localPublicado">
+   <string>Journal of Information &amp; System Management</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Using Artificial Intelligence in Computational Games</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MADSEN, C. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>10975</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista Brasileira de Informação na Educação</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>NeuroFURG: uma ferramenta de apoio ao ensino de Redes Neurais Artificiais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MADSEN, C. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11117</int>
+  </void>
+  <void property="localPublicado">
+   <string>Seminário Internacional de Educação em Ciências, 2011, Rio Grande RS. SINTEC 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>NeuroFURG: uma ferramenta de apoio ao ensino de Redes Neurais Artificiais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>AMARAL, M. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11118</int>
+  </void>
+  <void property="localPublicado">
+   <string>Applications to Provide Learning and Teaching Support - APPLETS, 2011, Aracaju / SE. Simpósio Brasileiro de Informática na Educação - Workshop APPLETS. Aracaju / SE: SBIE</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Modelo para Virtualização de Ambientes Robóticos com Software Livre</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>JUGUEIRO, M. ; THOMASI, C. D. ; NUNES, G. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11180</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Simulador para Previsão de Impactos Gerados pela Instalação de Indústrias</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, M. M. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11184</int>
+  </void>
+  <void property="localPublicado">
+   <string>Mostra de Produção Universitária, 2011, Rio Grande RS. MPU 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RC</string>
+  </void>
+  <void property="titulo">
+   <string>SACI ? Sistema Avançado de Supervisão, Inspeção e Diagnóstico de Sistemas Elétricos: Geração, Transmissão e Distribuição ? Módulo de Interface e Visualização</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>ADAMATTI, D. F.; AGUIAR, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11002</int>
+  </void>
+  <void property="localPublicado">
+   <string></string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Artificial Intelligence Applied to Natural Resources Management. Machine Learning: Concepts, Methodologies, Tools and Applications. New York</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SILVEIRA, J. A. ; DE BEM, R. A. ; ADAMATTI, D. F.</string>
+  </void>
+  <void property="id_membro">
+   <int>13</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11116</int>
+  </void>
+  <void property="localPublicado">
+   <string>Seminário Internacional de Educação em Ciências, 2011, Rio Grande RS. SINTEC 2011. Rio Grande RS: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Diana Francisca Adamatti</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Desenvolvimento de Técnicas de Classificação de Sinais em Sistemas BCI</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>GONÇALVES, E. M. N.; ESTRADA, E. ; ALMEIDA, Renan Rosado de ; BOTELHO, S. S. C.</string>
+  </void>
+  <void property="cluster">
+   <int>11206</int>
+  </void>
+  <void property="id_membro">
+   <int>15</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11206</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simpósio Brasileiro de Automação Inteligente - SBAI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eder Mateus Nunes Gonçalves</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Arquitetura para Navegação Autônoma de Robôs Reais e Simulados para Inspeção de Linhas de Distribuição de Energia Subterrâneas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>BOTELHO, S. S. C. ; ESTRADA, E. ; GONÇALVES, E. M. N. ; OLIVEIRA, V. M.</string>
+  </void>
+  <void property="cluster">
+   <int>11205</int>
+  </void>
+  <void property="id_membro">
+   <int>15</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11205</int>
+  </void>
+  <void property="localPublicado">
+   <string>1st International Conference on Applied Robotics for the Power Industry (CARPI)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eder Mateus Nunes Gonçalves</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Autonomous navigation for underground energy line inspection robot</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GONÇALVES, E. M. N.; Vieira, Suzane R</string>
+  </void>
+  <void property="id_membro">
+   <int>15</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11196</int>
+  </void>
+  <void property="localPublicado">
+   <string>Eder Mateus Nunes Gonçalves</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eder Mateus Nunes Gonçalves</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Introdução à Educação a Distância</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>GONÇALVES, E. M. N.; SANTOS, M. M.</string>
+  </void>
+  <void property="id_membro">
+   <int>15</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11203</int>
+  </void>
+  <void property="localPublicado">
+   <string>X Simpósio Brasileiro de Automação Inteligentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Eder Mateus Nunes Gonçalves</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Gerando Bases de Conhecimento no Formato XML para Sistemas Multiagentes utilizando Redes de Petri</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P.; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11425</int>
+  </void>
+  <void property="localPublicado">
+   <string>Computability in Europe 2009: Mathematical Theory and Computational Practice</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Toward a Semantical Model of Organization Growth for Multiagent Systems</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>REISER, R. H. S. ; BEDREGAL, B. R. C. ; SANTIAGO, R. H. N. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11306</int>
+  </void>
+  <void property="localPublicado">
+   <string>TEMA. Tendências em Matemática Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Interval-Valued D-Implications</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11357</int>
+  </void>
+  <void property="localPublicado">
+   <string>Virginia Dignum. (Org.). Handbook of Research on Multi-Agent Systems: Semantics and Dynamics of Organizational Models. Hershey</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Minimal Dynamical MAS Organization Model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11450</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 3rd Southern Conference on Computational Modeling, 2009, Rio Grande. Proceedings of MCSUL 2009. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo de Percepção Fuzzy para Agentes BDI</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>BEDREGAL, B. R. C. ; DIMURO, G. P. ; REISER, R. H. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11426</int>
+  </void>
+  <void property="localPublicado">
+   <string>International Fuzzy Systems Association World Congress/European Society for Fuzzy Logic and Technonoly Conference 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An Approach to Interval-Valued R-Implications and Automorphisms</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P.; SANTOS, A. V. ; BEDREGAL, B. R. C. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11427</int>
+  </void>
+  <void property="localPublicado">
+   <string>14th Portuguese Conference on Artificial Intelligence - EPIA&apos;2009/Social Simulation and Modelling - SSM</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Fuzzy Evaluation of Social Exchanges Between Personality-based Agents</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R. ; DIMURO, G. P. ; DUGDALE, J. ; DEMAZEAU, Y.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11428</int>
+  </void>
+  <void property="localPublicado">
+   <string>14th Portuguese Conference on Artificial Intelligence - EPIA&apos;2009/Multi-Agent Systems: Theory and Applications - MASTA 2009</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Formal Notion of Objective Expectations in the Context of Multiagent Systems Routines</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>REISER, R. H. S. ; DIMURO, G. P. ; BEDREGAL, B. R. C. ; SANTIAGO, R. H. N.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11429</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXII Congresso Nacional de Matemática Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Analyzing the Relations between Interval-valued D-Implications and Interval-valued QL-Implications</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>HÜBNER, A. ; COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11430</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 3rd Southern Conference on Computational Modeling</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Estendendo o Modelo Organizacional MOISE+ com a Dimensão Dialógica</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11446</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 8th International Conference on Autonomous Agents and Multiagent Systems, 2009, Budapest. Proceedings of AAMAS 2009. Richland: IFAAMAS</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Introducing Social Groups and Group Exchanges in the PopOrg Model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>GONÇALVES, L. V. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11447</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXII Congresso Nacional de Matemática Aplicada e Computacional, 2009, Cuiabá. Anais do CNMAC 2009. São Carlos: SBMAC</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>A Integração de HMMs e POMDPs, com aplicação na Simulação de Trocas Sociais em Sistemas Multiagentes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>MUSSI, R. L. ; DIMURO, G. P. ; BEDREGAL, B. R. C.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11448</int>
+  </void>
+  <void property="localPublicado">
+   <string>XXXII Congresso Nacional de Matemática Aplicada e Computacional, 2009, Cuiabá. A. L. Bortoli et al. (Eds.) Anais do CNMAC. São Carlos: SBMAC</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Números Fuzzy Intervalares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2009</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, F. ; DIMURO, G. P. ; AGUIAR, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11449</int>
+  </void>
+  <void property="localPublicado">
+   <string>The 3rd Southern Conference on Computational Modeling, 2009, Rio Grande. Proceedings of MCSUL 2009. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Um Sistema Fuzzy para Auxílio ao Diagnóstico da Densidade Mineral Óssea</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P.; COSTA, A. C. R. ; GONÇALVES, L. V.</string>
+  </void>
+  <void property="cluster">
+   <int>10738</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11418</int>
+  </void>
+  <void property="localPublicado">
+   <string>Second Brazilian Workshop on Social Simulation (BWSS 2010) at Joint Conferences XX SBIA/XI SBRN/IV JRI</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Recognizing and Learning Observable Social Exchange Strategies in Open Societies</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, T. F. ; DIMURO, G. ; VON GROL, C. ; Pinheiro, T. V. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11422</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling/IX Encontro Regional de Matemática Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Simulação Baseada em Agentes de Processos de Gestão Social de Ecossistemas Urbanos: o caso das hortas urbanas da cidade de Sevilla</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10739</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11420</int>
+  </void>
+  <void property="localPublicado">
+   <string>Second Brazilian Workshop on Social Simulation - BWSS 2010 at Joint Conference SBIA/SBRN/JRI 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>An Interactional Characterization of Social Functions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, L. M. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11421</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling/IX Encontro Regional de Matemática Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Agentes Compartilhando Recursos Utilizando Processos de Decisão de Markov</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P.; COSTA, A. C. R. ; MUSSI, R. L.</string>
+  </void>
+  <void property="cluster">
+   <int>10740</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11419</int>
+  </void>
+  <void property="localPublicado">
+   <string>Congresso Brasileiro de Sistemas Fuzzy</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Sobre Números Fuzzy Intervalares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>HÜBNER, A. ; COSTA, A. C. R. ; DIMURO, G. P. ; MATTOS, V. L. D. ; HERNANDES, S.</string>
+  </void>
+  <void property="cluster">
+   <int>10705</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11355</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Introdução da Dimensão Dialógica no Moise+, com Aplicação na Modelagem de Processos de Gestão em uma Universidade Comunitária</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10698</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11351</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. ADAMATTI. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Analisando Trocas Sociais Baseadas em Personalidades Através de Cadeias de Markov Intervalares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>HÜBNER, A. ; COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10703</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11356</int>
+  </void>
+  <void property="localPublicado">
+   <string>Botelho, S. S. C., Adamatti, D. and Rocha, L. A. O.. (Org.). Third Southern Conference on Computational Modeling (MCSUL), 2009 (Post-Proceedings, Revised Selected Papers). Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Extending the MOISE+ Organizational Model with the Dialogic Dimension</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>ROSA, S. E. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10750</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11444</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Estendendo o Modelo de Organização de Sistemas Multiagentes PopOrg com Unidades Organizacionais Recursivas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10659</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11304</int>
+  </void>
+  <void property="localPublicado">
+   <string>Revista de Informática Teórica e Aplicada (Impresso)</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Aplicação de Agentes BDI com Percepção Fuzzy no Modelo Presa-Predador</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10730</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11413</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Agentes BDI com Percepção Fuzzy na Simulação de um Modelo Presa-Predador Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11445</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo Híbrido de Agente BDI-Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, D. R. ; GONÇALVES, L. V. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11352</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Construção de Planos BDI a partir de Políticas Ótimas de POMDPs, com Aplicação na Programação em AgentSpeak usando o Jason</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>HÜBNER, A. ; COSTA, A. C. R. ; DIMURO, G. P. ; MATTOS, V. L. D. ; HERNANDES, S. ; Mailange, M.</string>
+  </void>
+  <void property="cluster">
+   <int>10731</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11414</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Introdução da Dimensão Dialógica no Moise+, com Aplicação na Modelagem de Processos de Gestão em uma Universidade Comunitária</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>SILVA, C. E. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11443</int>
+  </void>
+  <void property="localPublicado">
+   <string>Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2010, Rio Grande. Anais do WESAAC 2010. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Especificando Rotinas Organizacionais de Sistemas Multiagentes: Detecção de Desvios com Base no Conceito de Expectativas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>HÜBNER, A. ; DIMURO, G. P. ; COSTA, A. C. R. ; MATTOS, V. L. D.</string>
+  </void>
+  <void property="cluster">
+   <int>10735</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11415</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Multi-Agent Logics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>A Dialogic Dimension for the MOISE+ Organizational Model</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>GONÇALVES, L. V. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10699</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11353</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Uma arquitetura de Agentes BDI Híbridos para Auto-regulação de Trocas Sociais em Sistemas Multiagentes Abertos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10736</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11416</int>
+  </void>
+  <void property="localPublicado">
+   <string>The Multi-Agent Logics</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>BDI Agents with Fuzzy Perception for Simulating Decision Making in Environments with Imperfect Information</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>RIBES, J. L. B. ; DIMURO, G. P. ; AGUIAR, M. S. ; COSTA, A. C. R. ; MATTOS, V. L. D.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11424</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling/IX Encontro Regional de Matemática Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Tomando Decisões em um Ambiente de Informação Imperfeita: introdução de probabilidades fuzzy (intervalares) em um modelo híbrido de agente BDI-MDP</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10737</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11417</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop on MSc Dissertation and PhD Thesis in Artificial Intelligence/Joint Cinference SBIA/SBRN/JRI 2010</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>BDI Agents with Fuzzy Perception</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>MACEDO, L. F. K. ; DIMURO, G. P. ; AGUIAR, M. S. ; COSTA, A. C. R. ; MATTOS, V. L. D.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11423</int>
+  </void>
+  <void property="localPublicado">
+   <string>4th Southern Conference on Computational Modeling/IX Encontro Regional de Matemática Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Uma Proposta de Modelo Híbrido com Agentes Evolutivos BDI-Fuzzy-Intervalares</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>REISER, R. H. S. ; BEDREGAL, B. R. C. ; SANTIAGO, R. H. N. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11303</int>
+  </void>
+  <void property="localPublicado">
+   <string>TEMA. Tendências em Matemática Aplicada e Computacional</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>AP</string>
+  </void>
+  <void property="titulo">
+   <string>Analyzing the relationship between interval-valued D-Implications and interval-valued QL-Implications</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2010</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10697</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11354</int>
+  </void>
+  <void property="localPublicado">
+   <string>D. F. Adamatti. (Org.). Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCações - Artigos Selecionados das quatro primeiras edições. Rio Grande</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Agentes BDI com Percepção Fuzzy na Simulação de um Modelo Presa-Predador Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>ASMUS, T. C. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11343</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simone André da Costa Cavalheiro; Luciana Foss; Marilton Sanchotene de Aguiar;Graçaliz Pereira Dimuro; Antônio Carlos da Rocha Costa. (Org.). Post-Proceedings of the Workshop-School on Theoretical Computer Science. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>On Fuzzy Probabilities in Bayesian Games</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>PRATI, R. (Org.) ; DIMURO, G. P. (Org.) ; CAMPOS, A. (Org.)</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11321</int>
+  </void>
+  <void property="localPublicado">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>ENIA - VIII Encontro Nacional de Inteligência Artificial/CSBC 2011 - XXXI Congresso da Sociedade Brasileira de Computação</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTINI, M.M. ; BOTELHO, S. S. C. ; DIMURO, G. P. ; RODRIGUES, C. L. L.</string>
+  </void>
+  <void property="cluster">
+   <int>11346</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11346</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simone André da Costa Cavalheiro; Luciana Foss; Marilton Sanchotene de Aguiar;Graçaliz Pereira Dimuro; Antônio Carlos da Rocha Costa. (Org.). Post-Proceedings of the Workshop-School on Theoretical Computer Science. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Hand Skill Programming: Using Fuzzy Sets to Program Topobo Kinectis Memory Devices</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>PEREIRA, D. R. ; GONÇALVES, L. V. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10690</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11341</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Analysis of Two Regulation Mechanisms for Personality-Based Social Exchange Processes</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10689</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11340</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>An Interactional Characterization of Social Functions</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P.; COSTA, A. C. R. ; GONÇALVES, L. V.</string>
+  </void>
+  <void property="cluster">
+   <int>10688</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11339</int>
+  </void>
+  <void property="localPublicado">
+   <string>G.P. Dimuro; A.C.R. Costa; J. Sichman; P. Tedesco; D. Adamati; J. Balsa; L. Antunes. (Org.). Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation. Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>On the Problem of Recognizing and Learning Observable Social Exchange Strategies in Open Societies</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>CAVALHEIRO, S. A. C. (Org.) ; FOSS, L. (Org.) ; AGUIAR, M. S. (Org.) ; DIMURO, G. P. (Org.) ; COSTA, A. C. R. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10675</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11323</int>
+  </void>
+  <void property="localPublicado">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Post-Proceedings 2011 Workshop-School on Theoretical Computer Science - WEIT 2011</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, L. M. ; DIMURO, G. P. ; COSTA, A. C. R. ; EMMENDORFER, L.</string>
+  </void>
+  <void property="cluster">
+   <int>10725</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11405</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop-Escola de Sistemas de Agentes</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo Multiagente para Carregamento Compartilhado com Prioridades em um Terminal de Conêineres: Combinando o Problema da Mochila com PDMs</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P.; FOSS, L. (Org.) ; AGUIAR, M. S. (Org.) ; COSTA, S. A. (Org.) ; COSTA, A. C. R. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10674</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11322</int>
+  </void>
+  <void property="localPublicado">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Anais do WEIT 2011 - I Workshop-Escola de Informática Teórica</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BRIÃO, S. L. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="cluster">
+   <int>10726</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11410</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Estudo para uma Proposta de Modelos de Tomada de Decisão em Interações Estratégicas para Sistemas Multiagentes em Ambientes de Informação Imperfeita</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>DIMURO, G. P.; COSTA, A. C. R. (Org.) ; Sichman, J. (Org.) ; TEDESCO, P. (Org.) ; ADAMATTI, D. F. (Org.) ; BALSA, J. (Org.) ; Antunes, L. (Org.)</string>
+  </void>
+  <void property="cluster">
+   <int>10673</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11320</int>
+  </void>
+  <void property="localPublicado">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>LP</string>
+  </void>
+  <void property="titulo">
+   <string>Advances in Social Simulation, Post-Proceedings of the Brazilian Workshop on Social Simulation</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, S. A. ; COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10727</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11409</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Towards Developmental Turing Machines</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11442</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica, 2011, Pelotas. G.P. Dimuro, L. Foss, M.S. Aguiar, S. Costa, A.C.R. Costa (Eds.) Anais do WEIT 2011. Rio Grande: FURG</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Um Modelo de Agentes BDI-Fuzzy para Trocas de Serviços Não-Econômicos com Base na Teoria das Trocas Sociais</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, L. M. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11412</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Utilizando Lógica Fuzzy para Avaliar a Qualidade de uma Compra Via Internet</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, T. F. ; SANTOS, I. ; DIMURO, G. ; COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="cluster">
+   <int>10749</int>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11441</int>
+  </void>
+  <void property="localPublicado">
+   <string>V Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, 2011, Curitiba. Gustavo A. G. Lugo, Jomi F- Hübner, Cesar A. Tacla (Eds.) Anais do WESAAC 2011. Curitiba: UTFPR</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>RE</string>
+  </void>
+  <void property="titulo">
+   <string>Modelando a Organização Social de um Experimento de Gestão Social de Hortas Urbanas</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RIBES, J. L. B. ; DIMURO, G. P. ; AGUIAR, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11411</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Um Estudo Sobre Vetores e Matrizes de Números Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MACEDO, L. F. K. ; AGUIAR, M. S. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11408</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Sobre Sistemas Híbridos: Algoritmos Genéticos e Abordagens Fuzzy</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>ASMUS, T. C. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11407</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Probabilidade Fuzzy em Jogos Bayesianos</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>SANTINI, M.M. ; BOTELHO, S. S. C. ; MOTA, F. P. ; RODRIGUES, C. L. L. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11406</int>
+  </void>
+  <void property="localPublicado">
+   <string>WEIT 2011 - Workshop-Escola de Informática Teórica</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>TC</string>
+  </void>
+  <void property="titulo">
+   <string>Interface Experimental de Fuzificação para o TOPOBO</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>COSTA, S. A. ; COSTA, A. C. R. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11350</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simone André da Costa Cavalheiro; Luciana Foss; Marilton Sanchotene de Aguiar;Graçaliz Pereira Dimuro; Antônio Carlos da Rocha Costa. (Org.). Post-Proceedings of the Workshop-School on Theoretical Computer Science. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Towards Developmental Turing Machines</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>MACEDO, L. F. K. ; DIMURO, G. P. ; AGUIAR, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11349</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simone André da Costa Cavalheiro; Luciana Foss; Marilton Sanchotene de Aguiar;Graçaliz Pereira Dimuro; Antônio Carlos da Rocha Costa. (Org.). Post-Proceedings of the Workshop-School on Theoretical Computer Science. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Hybrid Intelligent Systems: A Study on Genetic Algorithms and Fuzzy Approaches</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>FARIAS, G. P. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11348</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simone André da Costa Cavalheiro; Luciana Foss; Marilton Sanchotene de Aguiar;Graçaliz Pereira Dimuro; Antônio Carlos da Rocha Costa. (Org.). Post-Proceedings 2011 Workshop-School on Theoretical Computer Science - WEIT 2011. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>A Fuzzy-BDI Agent Model for Exchanges of Non-economic Services, Based on the Social Exchange Theory</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>BRIÃO, S. L. ; DIMURO, G. P. ; COSTA, A. C. R.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11347</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simone André da Costa Cavalheiro; Luciana Foss; Marilton Sanchotene de Aguiar;Graçaliz Pereira Dimuro; Antônio Carlos da Rocha Costa. (Org.). Post-Proceedings of the Workshop-School on Theoretical Computer Science. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Modeling Uncertainty and Decision Making in Strategic Interactions in Multiagent Systems: An Overview</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RODRIGUES, L. M. ; DIMURO, G. P.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11345</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simone André da Costa Cavalheiro; Luciana Foss; Marilton Sanchotene de Aguiar;Graçaliz Pereira Dimuro; Antônio Carlos da Rocha Costa. (Org.). Post-Proceedings of the Workshop-School on Theoretical Computer Science. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>Measuring the Quality of Internet Shopping: An Experiment Using Fuzzy Logic</string>
+  </void>
+ </object>
+ <object class="calculo_metricas.Publicacao">
+  <void property="ano">
+   <string>2011</string>
+  </void>
+  <void property="autores">
+   <string>RIBES, J. L. B. ; DIMURO, G. P. ; AGUIAR, M. S.</string>
+  </void>
+  <void property="id_membro">
+   <int>25</int>
+  </void>
+  <void property="id_publicacao">
+   <int>11344</int>
+  </void>
+  <void property="localPublicado">
+   <string>Simone André da Costa Cavalheiro; Luciana Foss; Marilton Sanchotene de Aguiar;Graçaliz Pereira Dimuro; Antônio Carlos da Rocha Costa. (Org.). Post-Proceedings of the Workshop-School on Theoretical Computer Science. 1ed.Los Alamitos</string>
+  </void>
+  <void property="nome_membro">
+   <string>Graçaliz Pereira Dimuro</string>
+  </void>
+  <void property="tipo">
+   <string>CL</string>
+  </void>
+  <void property="titulo">
+   <string>On Vector and Matrices of Fuzzy Numbers</string>
+  </void>
+ </object>
+</java>

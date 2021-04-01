@@ -1,0 +1,31 @@
+O nome da base de dados a ser criada é lattes.
+O dump é dump_lattes_2012_05_14.sql
+
+Para usar o ScriptLattes, é necessário instalar alguns pacotes.
+No Ubuntu:
+
+sudo apt-get install python-all python-setuptools python-utidylib python-matplotlib python-levenshtein python-pygraphviz python-numpy tidy python-scipy 
+
+sudo easy_install pytidylib
+
+sudo apt-get install python-psycopg2
+
+Os arquivo de configuração estão na pasta C3. Os arquivos .config contém as configurações, enquanto os arquivos .list contem a lista de membros do grupo.
+
+Para executar a coleta:
+./coleta.py ./c3/<arquivo_de_configuracao>.config
+
+
+O projeto da ferramenta gráfica está na pasta prefuse.
+O xml do grafo deve ser colocado na pasta data do projeto.
+
+Para executar a ferramenta sem o NetBeans, entre na pasta do projeto e execute 
+
+java -jar ./dist/prefuse.jar
+
+Ele irá executar com o graphml do c3, que a gente sempre usa.
+Para carregar com outro graphml, é só passar como parâmetro. Para ter as informações sobre os artigos, tem que ter as informações desta rede no banco.
+
+Para importar no NetBeans, vá em File > Open Project e selecione a pasta prefuse.
+Se o Netbeans indicar algum problema, clique com o botão direito no projeto > properties > libraries. O problema estará em Java Plataform. Para solucionar apenas selecionar o JDK certo.
+
